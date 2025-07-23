@@ -122,12 +122,14 @@ RETURN c.name AS Character, COUNT(DISTINCT g) AS Appearances
 ORDER BY Appearances DESC
 LIMIT 10
 ```
+![Top 10 Characters by Game Appearances](graphs/top10_characters_by_game_appearances.png)
 
 **Games Featuring 'Wiggler'**
 ```cypher
 MATCH p = (c:Character {name: 'wiggler'})-[r]->(g:Game)
 RETURN p
 ```
+![Wiggler's Appearances](graphs/wiggler_appearances.png)
 
 **Mario's Friends/Enemies in a Specific Game**
 ```cypher
@@ -135,6 +137,7 @@ MATCH (c1:Character)-[r:FRIEND_WITH|ENEMY_WITH]->(c2:Character)-[a1]->(g:Game)<-
 WHERE c1.name = "mario" AND g.name = "super mario bros." AND g.console = "NES"
 RETURN c1, r, c2, a1, g, a2
 ```
+![Mario's Friends and Enemies in a Game](graphs/mario_enemies_friends_in_a_game.png)
 
 ---
 
