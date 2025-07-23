@@ -1,0 +1,2525 @@
+Character,RelatedCharacter,RelationshipType
+Mario,Admiral Bobbery,Friend
+Mario,Birdo,Friend
+Mario,Bombette,Friend
+Mario,Bowser,Friend
+Mario,Brighton,Friend
+Mario,Cappy,Friend
+Mario,Captain Falcon,Friend
+Mario,Captain Toad,Friend
+Mario,Cranky Kong,Friend
+Mario,Diddy Kong,Friend
+Mario,Dixie Kong,Friend
+Mario,Donkey Kong,Friend
+Mario,F.L.U.D.D.,Friend
+Mario,Fox McCloud,Friend
+Mario,Geno,Friend
+Mario,Goombario,Friend
+Mario,Goombella,Friend
+Mario,Huey,Friend
+Mario,Kid,Friend
+Mario,Kirby,Friend
+Mario,Kolorado,Friend
+Mario,Kooper,Friend
+Mario,Koops,Friend
+Mario,Lady Bow,Friend
+Mario,Lakilester,Friend
+Mario,Link,Friend
+Mario,Little Mac,Friend
+Mario,Luigi,Friend
+Mario,Luma,Friend
+Mario,Madame Flurrie,Friend
+Mario,Mallow,Friend
+Mario,Mega Man,Friend
+Mario,Mini-Yoshi,Friend
+Mario,Mr. Game & Watch,Friend
+Mario,Ms. Mowz,Friend
+Mario,Ness,Friend
+Mario,Pac-Man,Friend
+Mario,Parakarry,Friend
+Mario,Pikachu,Friend
+Mario,Pit,Friend
+Mario,Prince Florian,Friend
+Mario,Princess Daisy,Friend
+Mario,Princess Peach,Friend
+Mario,Professor E. Gadd,Friend
+Mario,Rosalina,Friend
+Mario,Ryu,Friend
+Mario,Samus Aran,Friend
+Mario,Sonic the Hedgehog,Friend
+Mario,Starlow,Friend
+Mario,Sushie,Friend
+Mario,TEC-XX,Friend
+Mario,Tippi,Friend
+Mario,Toad,Friend
+Mario,Toadette,Friend
+Mario,Toadsworth,Friend
+Mario,Undodog,Friend
+Mario,Villager,Friend
+Mario,Vivian,Friend
+Mario,Waluigi,Friend
+Mario,Wario,Friend
+Mario,Watt,Friend
+Mario,Yoshi,Friend
+Mario,Zelda,Friend
+Mario,Axem Rangers,Enemy
+Mario,Bandit,Enemy
+Mario,Beldam,Enemy
+Mario,Belome,Enemy
+Mario,Birdo,Enemy
+Mario,Boomer,Enemy
+Mario,Booster,Enemy
+Mario,Bowser,Enemy
+Mario,Bowser Jr.,Enemy
+Mario,Bowyer,Enemy
+Mario,Brigadier Mollosque-Lanceur III,Enemy
+Mario,Cookatiel,Enemy
+Mario,Count Bleck,Enemy
+Mario,Croco,Enemy
+Mario,Crystal King,Enemy
+Mario,Culex,Enemy
+Mario,Donkey Kong,Enemy
+Mario,Doopliss,Enemy
+Mario,Dr. Robotnik,Enemy
+Mario,Exor,Enemy
+Mario,Fryguy,Enemy
+Mario,Ganon,Enemy
+Mario,General Guy,Enemy
+Mario,Goomboss,Enemy
+Mario,Hammer Bro,Enemy
+Mario,Hariet,Enemy
+Mario,Helio,Enemy
+Mario,Hellen Gravely,Enemy
+Mario,Hooktail,Enemy
+Mario,Huff N. Puff,Enemy
+Mario,Jr. Troopa,Enemy
+Mario,Kamek,Enemy
+Mario,Kammy Koopa,Enemy
+Mario,Kent C. Koopa,Enemy
+Mario,King Boo,Enemy
+Mario,Knucklotec,Enemy
+Mario,Koopa Ao,Enemy
+Mario,Koopa Bros,Enemy
+Mario,Kurosu,Enemy
+Mario,Lava Piranha,Enemy
+Mario,Madame Broode,Enemy
+Mario,Marilyn,Enemy
+Mario,Mechawiggler,Enemy
+Mario,MIPS,Enemy
+Mario,Mouser,Enemy
+Mario,Pom Pom,Enemy
+Mario,Rango,Enemy
+Mario,Rawk Hawk,Enemy
+Mario,Rikki,Enemy
+Mario,Ruined Dragon,Enemy
+Mario,Sabatha,Enemy
+Mario,Scutlet,Enemy
+Mario,Shadow Queen,Enemy
+Mario,Shy Bandit,Enemy
+Mario,Smithy,Enemy
+Mario,Smorg,Enemy
+Mario,Sonic the Hedgehog,Enemy
+Mario,Spewart,Enemy
+Mario,Topper,Enemy
+Mario,Tubba Blubba,Enemy
+Mario,Tutankoopa,Enemy
+Mario,Waluigi,Enemy
+Mario,Wario,Enemy
+Mario,Wart,Enemy
+Mario,Yaridovich,Enemy
+Bowser,Ana,Friend
+Bowser,Andross,Friend
+Bowser,Army Hammer Bro,Friend
+Bowser,Barbara the Bat,Friend
+Bowser,Blizzaurus,Friend
+Bowser,Boom Boom,Friend
+Bowser,Bowser Jr.,Friend
+Bowser,Broggy,Friend
+Bowser,Broque Madame,Friend
+Bowser,Broque Monsieur,Friend
+Bowser,Devil,Friend
+Bowser,Donkey Kong,Friend
+Bowser,Dr. Robotnik,Friend
+Bowser,Dr. Wright,Friend
+Bowser,Foreman Spike,Friend
+Bowser,Ganon,Friend
+Bowser,Geno,Friend
+Bowser,Gray Fox,Friend
+Bowser,Hammer Bro,Friend
+Bowser,Hariet,Friend
+Bowser,Helirin,Friend
+Bowser,Iggy Koopa,Friend
+Bowser,Isaac,Friend
+Bowser,Jill,Friend
+Bowser,Jinx,Friend
+Bowser,Kamek,Friend
+Bowser,Kammy Koopa,Friend
+Bowser,Kat,Friend
+Bowser,King Bob-omb,Friend
+Bowser,King Boo,Friend
+Bowser,King Tut,Friend
+Bowser,Knuckle Joe,Friend
+Bowser,Koopa Ao,Friend
+Bowser,Koopa Kid,Friend
+Bowser,Lakitu,Friend
+Bowser,Larry Koopa,Friend
+Bowser,Lemmy Koopa,Friend
+Bowser,Little Mac,Friend
+Bowser,Lucas,Friend
+Bowser,Ludwig Von Koopa,Friend
+Bowser,M. Bison,Friend
+Bowser,Madame Broode,Friend
+Bowser,Mallow,Friend
+Bowser,Mario,Friend
+Bowser,Metal Sonic,Friend
+Bowser,MIPS,Friend
+Bowser,Morton Koopa Jr.,Friend
+Bowser,Mr. Resetti,Friend
+Bowser,Neff,Friend
+Bowser,Nintendog,Friend
+Bowser,Pom Pom,Friend
+Bowser,Ralph,Friend
+Bowser,Rango,Friend
+Bowser,Ray MK,Friend
+Bowser,Ridley,Friend
+Bowser,Roy Koopa,Friend
+Bowser,Saki Amamiya,Friend
+Bowser,Samurai Goroh,Friend
+Bowser,Shadow the Hedgehog,Friend
+Bowser,Spewart,Friend
+Bowser,Squirps,Friend
+Bowser,Starlow,Friend
+Bowser,Topper,Friend
+Bowser,Waluigi,Friend
+Bowser,Wario,Friend
+Bowser,Wendy O. Koopa,Friend
+Bowser,Wolf O'Donnell,Friend
+Bowser,Axem Rangers,Enemy
+Bowser,Birdo,Enemy
+Bowser,Bombette,Enemy
+Bowser,Boomer,Enemy
+Bowser,Booster,Enemy
+Bowser,Bowyer,Enemy
+Bowser,Cackletta,Enemy
+Bowser,Cappy,Enemy
+Bowser,Chef Torte,Enemy
+Bowser,Count Bleck,Enemy
+Bowser,Croco,Enemy
+Bowser,Diddy Kong,Enemy
+Bowser,Dimentio,Enemy
+Bowser,Donkey Kong,Enemy
+Bowser,Exor,Enemy
+Bowser,F.L.U.D.D.,Enemy
+Bowser,Fawful,Enemy
+Bowser,Francis,Enemy
+Bowser,Goombario,Enemy
+Bowser,Goombella,Enemy
+Bowser,Honey Queen,Enemy
+Bowser,Hongo,Enemy
+Bowser,Jonathan Jones,Enemy
+Bowser,King Croacus,Enemy
+Bowser,Koopa Kid,Enemy
+Bowser,Kooper,Enemy
+Bowser,Lady Bow,Enemy
+Bowser,Lakilester,Enemy
+Bowser,Link,Enemy
+Bowser,Lubba,Enemy
+Bowser,Lucario,Enemy
+Bowser,Luigi,Enemy
+Bowser,Luma,Enemy
+Bowser,Mailtoad,Enemy
+Bowser,Mario,Enemy
+Bowser,Mega Man,Enemy
+Bowser,Midbus,Enemy
+Bowser,Mimi,Enemy
+Bowser,Ms. Mowz,Enemy
+Bowser,Nastasia,Enemy
+Bowser,O'Chunks,Enemy
+Bowser,Parakarry,Enemy
+Bowser,Pennington,Enemy
+Bowser,Poochy,Enemy
+Bowser,Prince Florian,Enemy
+Bowser,Prince Peasley,Enemy
+Bowser,Princess Daisy,Enemy
+Bowser,Princess Peach,Enemy
+Bowser,Professor E. Gadd,Enemy
+Bowser,Queen Bean,Enemy
+Bowser,R.O.B.,Enemy
+Bowser,Rosalina,Enemy
+Bowser,Shadow the Hedgehog,Enemy
+Bowser,Smithy,Enemy
+Bowser,Sonic the Hedgehog,Enemy
+Bowser,Sushie,Enemy
+Bowser,Tabuu,Enemy
+Bowser,The Kid,Enemy
+Bowser,Tiara,Enemy
+Bowser,Toad,Enemy
+Bowser,Toadette,Enemy
+Bowser,Toadsworth,Enemy
+Bowser,Valentina,Enemy
+Bowser,Wario,Enemy
+Bowser,Watt,Enemy
+Bowser,Wolf O'Donnell,Enemy
+Bowser,Yaridovich,Enemy
+Bowser,Yoshi,Enemy
+Luigi,Admiral Bobbery,Friend
+Luigi,Ana,Friend
+Luigi,Andross,Friend
+Luigi,Barbara the Bat,Friend
+Luigi,Barry,Friend
+Luigi,Boomer,Friend
+Luigi,Brighton,Friend
+Luigi,Carrie,Friend
+Luigi,Cudge,Friend
+Luigi,Dashell,Friend
+Luigi,Devil,Friend
+Luigi,Donkey Kong,Friend
+Luigi,Dottie,Friend
+Luigi,Dr. Wright,Friend
+Luigi,Fleep,Friend
+Luigi,Fluzzard,Friend
+Luigi,Gray Fox,Friend
+Luigi,Guppy,Friend
+Luigi,Hammer Bro,Friend
+Luigi,Helirin,Friend
+Luigi,Honey Queen,Friend
+Luigi,Isaac,Friend
+Luigi,Jill,Friend
+Luigi,Kat,Friend
+Luigi,Knuckle Joe,Friend
+Luigi,Lakitu,Friend
+Luigi,Lakitu Bros,Friend
+Luigi,Little Mac,Friend
+Luigi,Lubba,Friend
+Luigi,Lucas,Friend
+Luigi,Luma,Friend
+Luigi,Mailtoad,Friend
+Luigi,Mario,Friend
+Luigi,Mr. Resetti,Friend
+Luigi,Nintendog,Friend
+Luigi,Pac-Man,Friend
+Luigi,Pennington,Friend
+Luigi,Piccolo,Friend
+Luigi,Prince Florian,Friend
+Luigi,Prince Peasley,Friend
+Luigi,Princess Daisy,Friend
+Luigi,Princess Peach,Friend
+Luigi,Professor E. Gadd,Friend
+Luigi,Queen Bean,Friend
+Luigi,R.O.B.,Friend
+Luigi,Ray MK,Friend
+Luigi,Rosalina,Friend
+Luigi,Saki Amamiya,Friend
+Luigi,Samurai Goroh,Friend
+Luigi,Shadow the Hedgehog,Friend
+Luigi,Slim,Friend
+Luigi,Starfy,Friend
+Luigi,Starlow,Friend
+Luigi,The Chimp,Friend
+Luigi,Thoreau,Friend
+Luigi,Thudley,Friend
+Luigi,Tingle,Friend
+Luigi,Tippi,Friend
+Luigi,Tiptron,Friend
+Luigi,Toad,Friend
+Luigi,Toadbert,Friend
+Luigi,Toadette,Friend
+Luigi,Toadsworth,Friend
+Luigi,Waluigi,Friend
+Luigi,Wario,Friend
+Luigi,Wolf O'Donnell,Friend
+Luigi,Yoshi,Friend
+Luigi,Andross,Enemy
+Luigi,Army Hammer Bro,Enemy
+Luigi,Birdo,Enemy
+Luigi,Blargg,Enemy
+Luigi,Blizzaurus,Enemy
+Luigi,Boom Boom,Enemy
+Luigi,Bowser,Enemy
+Luigi,Bowser Jr.,Enemy
+Luigi,Broggy,Enemy
+Luigi,Cackletta,Enemy
+Luigi,Chauncey,Enemy
+Luigi,Clawgrip,Enemy
+Luigi,Count Bleck,Enemy
+Luigi,Crazy Hand,Enemy
+Luigi,Dimentio,Enemy
+Luigi,Dr. Robotnik,Enemy
+Luigi,Fawful,Enemy
+Luigi,Foreman Spike,Enemy
+Luigi,Fryguy,Enemy
+Luigi,Guppy,Enemy
+Luigi,Hammer Bro,Enemy
+Luigi,Hellen Gravely,Enemy
+Luigi,Iggy Koopa,Enemy
+Luigi,Kamek,Enemy
+Luigi,King Bob-omb,Enemy
+Luigi,King Boo,Enemy
+Luigi,Koopa Ao,Enemy
+Luigi,Koopa Kid,Enemy
+Luigi,Koopa the Quick,Enemy
+Luigi,L33t Hamm3r Broz.,Enemy
+Luigi,Lakitu,Enemy
+Luigi,Larry Koopa,Enemy
+Luigi,Lemmy Koopa,Enemy
+Luigi,Ludwig Von Koopa,Enemy
+Luigi,Lydia,Enemy
+Luigi,Master Hand,Enemy
+Luigi,Monty Mole,Enemy
+Luigi,Morton Koopa Jr.,Enemy
+Luigi,Mouser,Enemy
+Luigi,Nastasia,Enemy
+Luigi,Neville,Enemy
+Luigi,O'Chunks,Enemy
+Luigi,Petey Piranha,Enemy
+Luigi,Pom Pom,Enemy
+Luigi,Popple,Enemy
+Luigi,Princess Shroob,Enemy
+Luigi,Roy Koopa,Enemy
+Luigi,Sandbag,Enemy
+Luigi,Scutlet,Enemy
+Luigi,Tabuu,Enemy
+Luigi,Tryclyde,Enemy
+Luigi,Waluigi,Enemy
+Luigi,Wario,Enemy
+Luigi,Wart,Enemy
+Luigi,Wendy O. Koopa,Enemy
+Luigi,Yoob,Enemy
+Wario,9-Volt,Friend
+Wario,Ana,Friend
+Wario,Andross,Friend
+Wario,Ashley,Friend
+Wario,Barbara the Bat,Friend
+Wario,Bowser,Friend
+Wario,Captain Falcon,Friend
+Wario,Captain Olimar,Friend
+Wario,Devil,Friend
+Wario,Diddy Kong,Friend
+Wario,Donkey Kong,Friend
+Wario,Dr. Arewonstein,Friend
+Wario,Dr. Crygor,Friend
+Wario,Dr. Wright,Friend
+Wario,Falco Lombardi,Friend
+Wario,Fox McCloud,Friend
+Wario,Ganon,Friend
+Wario,Goodstyle,Friend
+Wario,Gray Fox,Friend
+Wario,Hammer Bro,Friend
+Wario,Helirin,Friend
+Wario,Honey Queen,Friend
+Wario,Ice Climbers,Friend
+Wario,Ike,Friend
+Wario,Isaac,Friend
+Wario,Jigglypuff,Friend
+Wario,Jill,Friend
+Wario,Jimmy T,Friend
+Wario,Kat,Friend
+Wario,King Dedede,Friend
+Wario,Kirby,Friend
+Wario,Knuckle Joe,Friend
+Wario,Lakitu,Friend
+Wario,Lakitu Bros,Friend
+Wario,Little Mac,Friend
+Wario,Lucas,Friend
+Wario,Luigi,Friend
+Wario,Mario,Friend
+Wario,Marth,Friend
+Wario,Meta Knight,Friend
+Wario,Mewtwo,Friend
+Wario,Mike,Friend
+Wario,Mona,Friend
+Wario,Mr. Game & Watch,Friend
+Wario,Mr. Resetti,Friend
+Wario,Nintendog,Friend
+Wario,Orbulon,Friend
+Wario,Pac-Man,Friend
+Wario,Penny Crygor,Friend
+Wario,Pikachu,Friend
+Wario,Pit,Friend
+Wario,Princess Daisy,Friend
+Wario,Princess Peach,Friend
+Wario,Princess Shokora,Friend
+Wario,Queen Merelda,Friend
+Wario,R.O.B.,Friend
+Wario,Ray MK,Friend
+Wario,Red,Friend
+Wario,Saki Amamiya,Friend
+Wario,Samurai Goroh,Friend
+Wario,Shadow the Hedgehog,Friend
+Wario,Spitz,Friend
+Wario,Starfy,Friend
+Wario,Tatanga,Friend
+Wario,Tingle,Friend
+Wario,Waluigi,Friend
+Wario,Wolf O'Donnell,Friend
+Wario,Yoshi,Friend
+Wario,Young Cricket,Friend
+Wario,Zelda,Friend
+Wario,Ball Bunny,Enemy
+Wario,Bobo,Enemy
+Wario,Bowser,Enemy
+Wario,Captain Falcon,Enemy
+Wario,Captain Olimar,Enemy
+Wario,Captain Syrup,Enemy
+Wario,Carpaccio,Enemy
+Wario,Catbat,Enemy
+Wario,Count Cannoli,Enemy
+Wario,Crazy Hand,Enemy
+Wario,Diddy Kong,Enemy
+Wario,Donkey Kong,Enemy
+Wario,Falco Lombardi,Enemy
+Wario,Fox McCloud,Enemy
+Wario,Ganon,Enemy
+Wario,Golden Diva,Enemy
+Wario,Helio,Enemy
+Wario,Ice Climbers,Enemy
+Wario,Ike,Enemy
+Wario,Jigglypuff,Enemy
+Wario,Kamek,Enemy
+Wario,King Bob-omb,Enemy
+Wario,King Boo,Enemy
+Wario,King Dedede,Enemy
+Wario,Kirby,Enemy
+Wario,Koopa Kid,Enemy
+Wario,Koopa the Quick,Enemy
+Wario,Link,Enemy
+Wario,Lucario,Enemy
+Wario,Luigi,Enemy
+Wario,Lulu,Enemy
+Wario,Mario,Enemy
+Wario,Marth,Enemy
+Wario,Meta Knight,Enemy
+Wario,Mr. Game & Watch,Enemy
+Wario,Octo,Enemy
+Wario,Pikachu,Enemy
+Wario,Pit,Enemy
+Wario,Princess Peach,Enemy
+Wario,R.O.B.,Enemy
+Wario,Rudy The Clown,Enemy
+Wario,Shake King,Enemy
+Wario,Sonic the Hedgehog,Enemy
+Wario,Spoiled Rotten,Enemy
+Wario,Tabuu,Enemy
+Wario,Toad,Enemy
+Wario,Wolf O'Donnell,Enemy
+Wario,Yoshi,Enemy
+Toad,Birdo,Friend
+Toad,Brighton,Friend
+Toad,Chancellor,Friend
+Toad,Guppy,Friend
+Toad,Honey Queen,Friend
+Toad,Koopa Kid,Friend
+Toad,Luigi,Friend
+Toad,Mailtoad,Friend
+Toad,Mario,Friend
+Toad,MC Ballyhoo and Big Top,Friend
+Toad,Prince Florian,Friend
+Toad,Princess Daisy,Friend
+Toad,Princess Peach,Friend
+Toad,Professor E. Gadd,Friend
+Toad,Queen Bean,Friend
+Toad,Toadette,Friend
+Toad,Toadsworth,Friend
+Toad,Twila,Friend
+Toad,Yoshi,Friend
+Toad,Army Hammer Bro,Enemy
+Toad,Birdo,Enemy
+Toad,Blizzaurus,Enemy
+Toad,Bowser,Enemy
+Toad,Bowser Jr.,Enemy
+Toad,Bowyer,Enemy
+Toad,Clawgrip,Enemy
+Toad,Donkey Kong,Enemy
+Toad,Fryguy,Enemy
+Toad,Goomboss,Enemy
+Toad,Gooper Blooper,Enemy
+Toad,Hammer Bro,Enemy
+Toad,Hellen Gravely,Enemy
+Toad,Kamek,Enemy
+Toad,Kammy Koopa,Enemy
+Toad,King Bob-omb,Enemy
+Toad,King Boo,Enemy
+Toad,Koopa Kid,Enemy
+Toad,Lakitu,Enemy
+Toad,Lemmy Koopa,Enemy
+Toad,Mouser,Enemy
+Toad,Petey Piranha,Enemy
+Toad,Smithy,Enemy
+Toad,Tryclyde,Enemy
+Toad,Waluigi,Enemy
+Toad,Wario,Enemy
+Toad,Wart,Enemy
+Toad,Yaridovich,Enemy
+Princess Peach,Admiral Bobbery,Friend
+Princess Peach,Ana,Friend
+Princess Peach,Andross,Friend
+Princess Peach,Barbara the Bat,Friend
+Princess Peach,Barry,Friend
+Princess Peach,Birdo,Friend
+Princess Peach,Boomer,Friend
+Princess Peach,Brighton,Friend
+Princess Peach,Carrie,Friend
+Princess Peach,Chancellor,Friend
+Princess Peach,Cudge,Friend
+Princess Peach,Dashell,Friend
+Princess Peach,Devil,Friend
+Princess Peach,Donkey Kong,Friend
+Princess Peach,Dottie,Friend
+Princess Peach,Dr. Wright,Friend
+Princess Peach,Fleep,Friend
+Princess Peach,Francis,Friend
+Princess Peach,Frogfucious,Friend
+Princess Peach,Geno,Friend
+Princess Peach,Gray Fox,Friend
+Princess Peach,Hammer Bro,Friend
+Princess Peach,Helirin,Friend
+Princess Peach,Honey Queen,Friend
+Princess Peach,Huey,Friend
+Princess Peach,Isaac,Friend
+Princess Peach,Jill,Friend
+Princess Peach,Jinx,Friend
+Princess Peach,Kat,Friend
+Princess Peach,Knuckle Joe,Friend
+Princess Peach,Koopa Kid,Friend
+Princess Peach,Lakitu,Friend
+Princess Peach,Link,Friend
+Princess Peach,Little Mac,Friend
+Princess Peach,Lucas,Friend
+Princess Peach,Luigi,Friend
+Princess Peach,Madame Flurrie,Friend
+Princess Peach,Mailtoad,Friend
+Princess Peach,Mallow,Friend
+Princess Peach,Mario,Friend
+Princess Peach,MC Ballyhoo and Big Top,Friend
+Princess Peach,Mr. Resetti,Friend
+Princess Peach,Ms. Mowz,Friend
+Princess Peach,Mushroom Genie,Friend
+Princess Peach,Nintendog,Friend
+Princess Peach,Pac-Man,Friend
+Princess Peach,Piccolo,Friend
+Princess Peach,Prince Florian,Friend
+Princess Peach,Prince Peasley,Friend
+Princess Peach,Princess Daisy,Friend
+Princess Peach,Professor E. Gadd,Friend
+Princess Peach,Queen Bean,Friend
+Princess Peach,R.O.B.,Friend
+Princess Peach,Ray MK,Friend
+Princess Peach,Saki Amamiya,Friend
+Princess Peach,Samurai Goroh,Friend
+Princess Peach,Shadow the Hedgehog,Friend
+Princess Peach,Slim,Friend
+Princess Peach,Squirps,Friend
+Princess Peach,Starfy,Friend
+Princess Peach,Starlow,Friend
+Princess Peach,TEC-XX,Friend
+Princess Peach,Thoreau,Friend
+Princess Peach,Thudley,Friend
+Princess Peach,Tiara,Friend
+Princess Peach,Tingle,Friend
+Princess Peach,Tippi,Friend
+Princess Peach,Tiptron,Friend
+Princess Peach,Toad,Friend
+Princess Peach,Toadbert,Friend
+Princess Peach,Toadette,Friend
+Princess Peach,Toadsworth,Friend
+Princess Peach,Twila,Friend
+Princess Peach,Vivian,Friend
+Princess Peach,Waluigi,Friend
+Princess Peach,Wario,Friend
+Princess Peach,Wolf O'Donnell,Friend
+Princess Peach,Yoshi,Friend
+Princess Peach,Andross,Enemy
+Princess Peach,Army Hammer Bro,Enemy
+Princess Peach,Axem Rangers,Enemy
+Princess Peach,Belome,Enemy
+Princess Peach,Birdo,Enemy
+Princess Peach,Blizzaurus,Enemy
+Princess Peach,Boomer,Enemy
+Princess Peach,Booster,Enemy
+Princess Peach,Bowser,Enemy
+Princess Peach,Bowser Jr.,Enemy
+Princess Peach,Bowyer,Enemy
+Princess Peach,Chef Torte,Enemy
+Princess Peach,Clawgrip,Enemy
+Princess Peach,Count Bleck,Enemy
+Princess Peach,Crazy Hand,Enemy
+Princess Peach,Croco,Enemy
+Princess Peach,Dimentio,Enemy
+Princess Peach,Donkey Kong,Enemy
+Princess Peach,Exor,Enemy
+Princess Peach,Foreman Spike,Enemy
+Princess Peach,Fryguy,Enemy
+Princess Peach,Hammer Bro,Enemy
+Princess Peach,Hellen Gravely,Enemy
+Princess Peach,Jonathan Jones,Enemy
+Princess Peach,Kamek,Enemy
+Princess Peach,Kammy Koopa,Enemy
+Princess Peach,King Bob-omb,Enemy
+Princess Peach,King Boo,Enemy
+Princess Peach,King Croacus,Enemy
+Princess Peach,Koopa Kid,Enemy
+Princess Peach,Lakitu,Enemy
+Princess Peach,Lemmy Koopa,Enemy
+Princess Peach,Link,Enemy
+Princess Peach,Lucario,Enemy
+Princess Peach,Master Hand,Enemy
+Princess Peach,Mimi,Enemy
+Princess Peach,Mouser,Enemy
+Princess Peach,Nastasia,Enemy
+Princess Peach,O'Chunks,Enemy
+Princess Peach,Petey Piranha,Enemy
+Princess Peach,Popple,Enemy
+Princess Peach,Princess Shroob,Enemy
+Princess Peach,R.O.B.,Enemy
+Princess Peach,Roy Koopa,Enemy
+Princess Peach,Sandbag,Enemy
+Princess Peach,Shadow Queen,Enemy
+Princess Peach,Smithy,Enemy
+Princess Peach,Sonic the Hedgehog,Enemy
+Princess Peach,Tabuu,Enemy
+Princess Peach,Tryclyde,Enemy
+Princess Peach,Tubba Blubba,Enemy
+Princess Peach,Valentina,Enemy
+Princess Peach,Wario,Enemy
+Princess Peach,Wart,Enemy
+Princess Peach,Wolf O'Donnell,Enemy
+Princess Peach,Yaridovich,Enemy
+Princess Daisy,Amy Rose,Friend
+Princess Daisy,Birdo,Friend
+Princess Daisy,Blaze the Cat,Friend
+Princess Daisy,Cheese the Chao,Friend
+Princess Daisy,Cream the Rabbit,Friend
+Princess Daisy,Donkey Kong,Friend
+Princess Daisy,Honey Queen,Friend
+Princess Daisy,Knuckles,Friend
+Princess Daisy,Luigi,Friend
+Princess Daisy,Luma,Friend
+Princess Daisy,Mario,Friend
+Princess Daisy,Prince Florian,Friend
+Princess Daisy,Princess Peach,Friend
+Princess Daisy,Rosalina,Friend
+Princess Daisy,Rouge The Bat,Friend
+Princess Daisy,Shadow the Hedgehog,Friend
+Princess Daisy,Silver The Hedgehog,Friend
+Princess Daisy,Sonic the Hedgehog,Friend
+Princess Daisy,Tails,Friend
+Princess Daisy,Toad,Friend
+Princess Daisy,Toadette,Friend
+Princess Daisy,Waluigi,Friend
+Princess Daisy,Wario,Friend
+Princess Daisy,Yoshi,Friend
+Princess Daisy,Bowser,Enemy
+Princess Daisy,Bowser Jr.,Enemy
+Princess Daisy,Dr. Robotnik,Enemy
+Princess Daisy,Eggman Nega,Enemy
+Princess Daisy,Kamek,Enemy
+Princess Daisy,King Bob-omb,Enemy
+Princess Daisy,King Boo,Enemy
+Princess Daisy,Koopa Kid,Enemy
+Princess Daisy,Metal Sonic,Enemy
+Princess Daisy,Tatanga,Enemy
+Yoshi,Admiral Bobbery,Friend
+Yoshi,Ana,Friend
+Yoshi,Andross,Friend
+Yoshi,Barbara the Bat,Friend
+Yoshi,Birdo,Friend
+Yoshi,Bowser,Friend
+Yoshi,Brighton,Friend
+Yoshi,Captain Falcon,Friend
+Yoshi,Captain Olimar,Friend
+Yoshi,Devil,Friend
+Yoshi,Diddy Kong,Friend
+Yoshi,Donkey Kong,Friend
+Yoshi,Dr. Wright,Friend
+Yoshi,Falco Lombardi,Friend
+Yoshi,Fox McCloud,Friend
+Yoshi,Ganon,Friend
+Yoshi,Goombella,Friend
+Yoshi,Gray Fox,Friend
+Yoshi,Hammer Bro,Friend
+Yoshi,Helirin,Friend
+Yoshi,Honey Queen,Friend
+Yoshi,Ice Climbers,Friend
+Yoshi,Ike,Friend
+Yoshi,Isaac,Friend
+Yoshi,Jigglypuff,Friend
+Yoshi,Jill,Friend
+Yoshi,Jolene,Friend
+Yoshi,Kat,Friend
+Yoshi,King Dedede,Friend
+Yoshi,Kirby,Friend
+Yoshi,Knuckle Joe,Friend
+Yoshi,Koopa Kid,Friend
+Yoshi,Lakitu,Friend
+Yoshi,Lakitu Bros,Friend
+Yoshi,Link,Friend
+Yoshi,Little Mac,Friend
+Yoshi,Lubba,Friend
+Yoshi,Lucas,Friend
+Yoshi,Luigi,Friend
+Yoshi,Madame Flurrie,Friend
+Yoshi,Mario,Friend
+Yoshi,Marth,Friend
+Yoshi,MC Ballyhoo and Big Top,Friend
+Yoshi,Meta Knight,Friend
+Yoshi,Mewtwo,Friend
+Yoshi,Mr. Game & Watch,Friend
+Yoshi,Mr. Resetti,Friend
+Yoshi,Mushroom Genie,Friend
+Yoshi,Nintendog,Friend
+Yoshi,Pichu,Friend
+Yoshi,Pikachu,Friend
+Yoshi,Pit,Friend
+Yoshi,Poochy,Friend
+Yoshi,Prince Florian,Friend
+Yoshi,Princess Daisy,Friend
+Yoshi,Princess Peach,Friend
+Yoshi,Queen Bean,Friend
+Yoshi,R.O.B.,Friend
+Yoshi,Ray MK,Friend
+Yoshi,Roy,Friend
+Yoshi,Saki Amamiya,Friend
+Yoshi,Samurai Goroh,Friend
+Yoshi,Shadow the Hedgehog,Friend
+Yoshi,Spirit of Cuteness,Friend
+Yoshi,Spirit of Fright,Friend
+Yoshi,Spirit of Kindness,Friend
+Yoshi,Spirit of Money,Friend
+Yoshi,Spirit of Power,Friend
+Yoshi,Spirit of Speed,Friend
+Yoshi,Spirit Who Loves Surprises,Friend
+Yoshi,Starfy,Friend
+Yoshi,Tingle,Friend
+Yoshi,Toad,Friend
+Yoshi,Toadette,Friend
+Yoshi,Toadsworth,Friend
+Yoshi,Twila,Friend
+Yoshi,Waluigi,Friend
+Yoshi,Wario,Friend
+Yoshi,Wolf O'Donnell,Friend
+Yoshi,Zelda,Friend
+Yoshi,Andross,Enemy
+Yoshi,Bandit,Enemy
+Yoshi,Berserker,Enemy
+Yoshi,Bigger Boo,Enemy
+Yoshi,Blargg,Enemy
+Yoshi,Boshi,Enemy
+Yoshi,Bowser,Enemy
+Yoshi,Bowser Jr.,Enemy
+Yoshi,Burt the Bashful,Enemy
+Yoshi,Captain Falcon,Enemy
+Yoshi,Captain Olimar,Enemy
+Yoshi,Diddy Kong,Enemy
+Yoshi,Donkey Kong,Enemy
+Yoshi,Falco Lombardi,Enemy
+Yoshi,Fox McCloud,Enemy
+Yoshi,Ganon,Enemy
+Yoshi,Goomboss,Enemy
+Yoshi,Hookbill the Koopa,Enemy
+Yoshi,Ice Climbers,Enemy
+Yoshi,Ike,Enemy
+Yoshi,Inviso,Enemy
+Yoshi,Jigglypuff,Enemy
+Yoshi,Kamek,Enemy
+Yoshi,Kammy Koopa,Enemy
+Yoshi,King Bob-omb,Enemy
+Yoshi,King Boo,Enemy
+Yoshi,King Dedede,Enemy
+Yoshi,Kirby,Enemy
+Yoshi,Koopa Kid,Enemy
+Yoshi,Koopa the Quick,Enemy
+Yoshi,Lakitu,Enemy
+Yoshi,Lemmy Koopa,Enemy
+Yoshi,Link,Enemy
+Yoshi,Lucario,Enemy
+Yoshi,Marching Milde,Enemy
+Yoshi,Marilyn,Enemy
+Yoshi,Marth,Enemy
+Yoshi,Master Hand,Enemy
+Yoshi,Meta Knight,Enemy
+Yoshi,Mewtwo,Enemy
+Yoshi,Mr. Game & Watch,Enemy
+Yoshi,Naval Piranha,Enemy
+Yoshi,Pak E. Derm,Enemy
+Yoshi,Pichu,Enemy
+Yoshi,Pikachu,Enemy
+Yoshi,Pit,Enemy
+Yoshi,Princess Peach,Enemy
+Yoshi,Private Goomp,Enemy
+Yoshi,R.O.B.,Enemy
+Yoshi,Raphael the Raven,Enemy
+Yoshi,Rawk Hawk,Enemy
+Yoshi,Roger the Potted Ghost,Enemy
+Yoshi,Roy,Enemy
+Yoshi,Salvo the Slime,Enemy
+Yoshi,Sandbag,Enemy
+Yoshi,Shadow Queen,Enemy
+Yoshi,Sluggy the Unshaven,Enemy
+Yoshi,Smorg,Enemy
+Yoshi,Sonic the Hedgehog,Enemy
+Yoshi,Tabuu,Enemy
+Yoshi,Tap-Tap the Red Nose,Enemy
+Yoshi,Wario,Enemy
+Yoshi,Wolf O'Donnell,Enemy
+Yoshi,Yoob,Enemy
+Waluigi,Bowser,Friend
+Waluigi,Captain Falcon,Friend
+Waluigi,Captain Olimar,Friend
+Waluigi,Diddy Kong,Friend
+Waluigi,Donkey Kong,Friend
+Waluigi,Falco Lombardi,Friend
+Waluigi,Fox McCloud,Friend
+Waluigi,Ganon,Friend
+Waluigi,Ice Climbers,Friend
+Waluigi,Ike,Friend
+Waluigi,Jigglypuff,Friend
+Waluigi,King Dedede,Friend
+Waluigi,Kirby,Friend
+Waluigi,Koopa Kid,Friend
+Waluigi,Lucas,Friend
+Waluigi,Luigi,Friend
+Waluigi,Mario,Friend
+Waluigi,Marth,Friend
+Waluigi,Meta Knight,Friend
+Waluigi,Mr. Game & Watch,Friend
+Waluigi,Mushroom Genie,Friend
+Waluigi,Pac-Man,Friend
+Waluigi,Pikachu,Friend
+Waluigi,Pit,Friend
+Waluigi,Princess Daisy,Friend
+Waluigi,Princess Peach,Friend
+Waluigi,R.O.B.,Friend
+Waluigi,Wario,Friend
+Waluigi,Wolf O'Donnell,Friend
+Waluigi,Yoshi,Friend
+Waluigi,Zelda,Friend
+Waluigi,Diddy Kong,Enemy
+Waluigi,Kamek,Enemy
+Waluigi,King Bob-omb,Enemy
+Waluigi,King Boo,Enemy
+Waluigi,Koopa Kid,Enemy
+Waluigi,Luigi,Enemy
+Waluigi,Mario,Enemy
+Waluigi,Toad,Enemy
+Wart,Birdo,Friend
+Wart,Clawgrip,Friend
+Wart,Fryguy,Friend
+Wart,Link,Friend
+Wart,Mouser,Friend
+Wart,Tryclyde,Friend
+Wart,Imajin,Enemy
+Wart,Lina,Enemy
+Wart,Luigi,Enemy
+Wart,Mama,Enemy
+Wart,Mario,Enemy
+Wart,Papa,Enemy
+Wart,Princess Peach,Enemy
+Wart,The Kid,Enemy
+Wart,Toad,Enemy
+Bowser Jr.,Bowser,Friend
+Bowser Jr.,Dr. Robotnik,Friend
+Bowser Jr.,Dr. Wily,Friend
+Bowser Jr.,Ganon,Friend
+Bowser Jr.,Gooper Blooper,Friend
+Bowser Jr.,Iggy Koopa,Friend
+Bowser Jr.,Kamek,Friend
+Bowser Jr.,King Bob-omb,Friend
+Bowser Jr.,King Boo,Friend
+Bowser Jr.,Lakitu,Friend
+Bowser Jr.,Larry Koopa,Friend
+Bowser Jr.,Lemmy Koopa,Friend
+Bowser Jr.,Ludwig Von Koopa,Friend
+Bowser Jr.,Metal Sonic,Friend
+Bowser Jr.,Morton Koopa Jr.,Friend
+Bowser Jr.,Petey Piranha,Friend
+Bowser Jr.,Professor E. Gadd,Friend
+Bowser Jr.,Roy Koopa,Friend
+Bowser Jr.,Wendy O. Koopa,Friend
+Bowser Jr.,Birdo,Enemy
+Bowser Jr.,Diddy Kong,Enemy
+Bowser Jr.,Donkey Kong,Enemy
+Bowser Jr.,F.L.U.D.D.,Enemy
+Bowser Jr.,Honey Queen,Enemy
+Bowser Jr.,Lubba,Enemy
+Bowser Jr.,Luigi,Enemy
+Bowser Jr.,Luma,Enemy
+Bowser Jr.,Mario,Enemy
+Bowser Jr.,Prince Florian,Enemy
+Bowser Jr.,Princess Daisy,Enemy
+Bowser Jr.,Princess Peach,Enemy
+Bowser Jr.,Professor E. Gadd,Enemy
+Bowser Jr.,Rosalina,Enemy
+Bowser Jr.,Toad,Enemy
+Bowser Jr.,Toadette,Enemy
+Bowser Jr.,Toadsworth,Enemy
+Bowser Jr.,Yoshi,Enemy
+Mallow,Bowser,Friend
+Mallow,Chancellor,Friend
+Mallow,Frogfucious,Friend
+Mallow,Geno,Friend
+Mallow,Jinx,Friend
+Mallow,Mario,Friend
+Mallow,Princess Peach,Friend
+Mallow,Axem Rangers,Enemy
+Mallow,Belome,Enemy
+Mallow,Birdo,Enemy
+Mallow,Boomer,Enemy
+Mallow,Booster,Enemy
+Mallow,Bowyer,Enemy
+Mallow,Chef Torte,Enemy
+Mallow,Croco,Enemy
+Mallow,Exor,Enemy
+Mallow,Hammer Bro,Enemy
+Mallow,Jonathan Jones,Enemy
+Mallow,Smithy,Enemy
+Mallow,Valentina,Enemy
+Mallow,Yaridovich,Enemy
+Geno,Bowser,Friend
+Geno,Frogfucious,Friend
+Geno,Mallow,Friend
+Geno,Mario,Friend
+Geno,Princess Peach,Friend
+Geno,Axem Rangers,Enemy
+Geno,Belome,Enemy
+Geno,Birdo,Enemy
+Geno,Boomer,Enemy
+Geno,Booster,Enemy
+Geno,Bowyer,Enemy
+Geno,Chef Torte,Enemy
+Geno,Croco,Enemy
+Geno,Exor,Enemy
+Geno,Hammer Bro,Enemy
+Geno,Jonathan Jones,Enemy
+Geno,Smithy,Enemy
+Geno,Valentina,Enemy
+Geno,Yaridovich,Enemy
+Poochy,Luigi,Friend
+Poochy,Mario,Friend
+Poochy,Yoshi,Friend
+Poochy,Bowser,Enemy
+Poochy,Kamek,Enemy
+Lakitu,Bowser,Friend
+Lakitu,Bowser Jr.,Friend
+Lakitu,Captain Falcon,Friend
+Lakitu,Captain Olimar,Friend
+Lakitu,Diddy Kong,Friend
+Lakitu,Donkey Kong,Friend
+Lakitu,Falco Lombardi,Friend
+Lakitu,Fox McCloud,Friend
+Lakitu,Honey Queen,Friend
+Lakitu,Ice Climbers,Friend
+Lakitu,Iggy Koopa,Friend
+Lakitu,Ike,Friend
+Lakitu,Jigglypuff,Friend
+Lakitu,Kamek,Friend
+Lakitu,King Bob-omb,Friend
+Lakitu,King Dedede,Friend
+Lakitu,Kirby,Friend
+Lakitu,Lakilester,Friend
+Lakitu,Larry Koopa,Friend
+Lakitu,Lemmy Koopa,Friend
+Lakitu,Lucas,Friend
+Lakitu,Ludwig Von Koopa,Friend
+Lakitu,Luigi,Friend
+Lakitu,Marth,Friend
+Lakitu,Meta Knight,Friend
+Lakitu,Morton Koopa Jr.,Friend
+Lakitu,Mr. Game & Watch,Friend
+Lakitu,Pikachu,Friend
+Lakitu,Pit,Friend
+Lakitu,Princess Peach,Friend
+Lakitu,R.O.B.,Friend
+Lakitu,Roy Koopa,Friend
+Lakitu,Wario,Friend
+Lakitu,Wendy O. Koopa,Friend
+Lakitu,Wolf O'Donnell,Friend
+Lakitu,Yoshi,Friend
+Lakitu,Zelda,Friend
+Lakitu,Luigi,Enemy
+Lakitu,Mario,Enemy
+Lakitu,Princess Peach,Enemy
+Lakitu,Toad,Enemy
+Lakitu,Yoshi,Enemy
+Captain Syrup,Ball Bunny,Friend
+Captain Syrup,Bobo,Friend
+Captain Syrup,Queen Merelda,Friend
+Captain Syrup,Shake King,Enemy
+Captain Syrup,Wario,Enemy
+Birdo,Captain Rainbow,Friend
+Birdo,Clawgrip,Friend
+Birdo,Fryguy,Friend
+Birdo,Mario,Friend
+Birdo,MC Ballyhoo and Big Top,Friend
+Birdo,Mouser,Friend
+Birdo,Popple,Friend
+Birdo,Princess Daisy,Friend
+Birdo,Princess Peach,Friend
+Birdo,Toad,Friend
+Birdo,Toadette,Friend
+Birdo,Tryclyde,Friend
+Birdo,Wart,Friend
+Birdo,Yoshi,Friend
+Birdo,Bowser,Enemy
+Birdo,Bowser Jr.,Enemy
+Birdo,Geno,Enemy
+Birdo,Kamek,Enemy
+Birdo,King Bob-omb,Enemy
+Birdo,King Boo,Enemy
+Birdo,Koopa Kid,Enemy
+Birdo,Luigi,Enemy
+Birdo,Mallow,Enemy
+Birdo,Mappo,Enemy
+Birdo,Mario,Enemy
+Birdo,Princess Peach,Enemy
+Birdo,The Kid,Enemy
+Birdo,Toad,Enemy
+Rosalina,Honey Queen,Friend
+Rosalina,Lubba,Friend
+Rosalina,Luigi,Friend
+Rosalina,Luma,Friend
+Rosalina,Mario,Friend
+Rosalina,Polari,Friend
+Rosalina,Princess Daisy,Friend
+Rosalina,Bowser,Enemy
+Rosalina,Bowser Jr.,Enemy
+Toadette,Birdo,Friend
+Toadette,Brighton,Friend
+Toadette,Koopa Kid,Friend
+Toadette,Luigi,Friend
+Toadette,Mario,Friend
+Toadette,MC Ballyhoo and Big Top,Friend
+Toadette,Prince Florian,Friend
+Toadette,Princess Daisy,Friend
+Toadette,Princess Peach,Friend
+Toadette,Toad,Friend
+Toadette,Toadsworth,Friend
+Toadette,Twila,Friend
+Toadette,Yoshi,Friend
+Toadette,Bowser,Enemy
+Toadette,Bowser Jr.,Enemy
+Toadette,Kamek,Enemy
+Toadette,Larry Koopa,Enemy
+Toadette,Lemmy Koopa,Enemy
+Toadette,Ludwig Von Koopa,Enemy
+Toadette,Morton Koopa Jr.,Enemy
+Toadette,Roy Koopa,Enemy
+Toadette,Wendy O. Koopa,Enemy
+Toadsworth,Luigi,Friend
+Toadsworth,Mario,Friend
+Toadsworth,Prince Peasley,Friend
+Toadsworth,Princess Peach,Friend
+Toadsworth,Professor E. Gadd,Friend
+Toadsworth,Toad,Friend
+Toadsworth,Toadbert,Friend
+Toadsworth,Toadette,Friend
+Toadsworth,Yoshi,Friend
+Toadsworth,Army Hammer Bro,Enemy
+Toadsworth,Bowser,Enemy
+Toadsworth,Bowser Jr.,Enemy
+Toadsworth,Cackletta,Enemy
+Toadsworth,Fawful,Enemy
+Toadsworth,King Bob-omb,Enemy
+Toadsworth,King Boo,Enemy
+Toadsworth,Petey Piranha,Enemy
+Toadsworth,Princess Shroob,Enemy
+Kamek,Bandit,Friend
+Kamek,Bigger Boo,Friend
+Kamek,Blizzaurus,Friend
+Kamek,Bowser,Friend
+Kamek,Bowser Jr.,Friend
+Kamek,Burt the Bashful,Friend
+Kamek,Hammer Bro,Friend
+Kamek,Hookbill the Koopa,Friend
+Kamek,Iggy Koopa,Friend
+Kamek,Koopa Kid,Friend
+Kamek,Lakitu,Friend
+Kamek,Larry Koopa,Friend
+Kamek,Lemmy Koopa,Friend
+Kamek,Ludwig Von Koopa,Friend
+Kamek,Marching Milde,Friend
+Kamek,Morton Koopa Jr.,Friend
+Kamek,Naval Piranha,Friend
+Kamek,Raphael the Raven,Friend
+Kamek,Roger the Potted Ghost,Friend
+Kamek,Roy Koopa,Friend
+Kamek,Salvo the Slime,Friend
+Kamek,Sluggy the Unshaven,Friend
+Kamek,Tap-Tap the Red Nose,Friend
+Kamek,Wendy O. Koopa,Friend
+Kamek,Birdo,Enemy
+Kamek,Bombette,Enemy
+Kamek,Donkey Kong,Enemy
+Kamek,Goombario,Enemy
+Kamek,Hammer Bro,Enemy
+Kamek,Kooper,Enemy
+Kamek,Lady Bow,Enemy
+Kamek,Lakilester,Enemy
+Kamek,Luigi,Enemy
+Kamek,Mario,Enemy
+Kamek,Parakarry,Enemy
+Kamek,Poochy,Enemy
+Kamek,Princess Daisy,Enemy
+Kamek,Princess Peach,Enemy
+Kamek,Sushie,Enemy
+Kamek,Toad,Enemy
+Kamek,Toadette,Enemy
+Kamek,Waluigi,Enemy
+Kamek,Wario,Enemy
+Kamek,Watt,Enemy
+Kamek,Yoshi,Enemy
+Professor E. Gadd,Bowser Jr.,Friend
+Professor E. Gadd,F.L.U.D.D.,Friend
+Professor E. Gadd,Luigi,Friend
+Professor E. Gadd,Mario,Friend
+Professor E. Gadd,Princess Peach,Friend
+Professor E. Gadd,Queen Bean,Friend
+Professor E. Gadd,Robo Mario,Friend
+Professor E. Gadd,Toad,Friend
+Professor E. Gadd,Toadsworth,Friend
+Professor E. Gadd,Bowser,Enemy
+Professor E. Gadd,Bowser Jr.,Enemy
+Professor E. Gadd,Chauncey,Enemy
+Professor E. Gadd,Hellen Gravely,Enemy
+Professor E. Gadd,King Boo,Enemy
+Professor E. Gadd,Lydia,Enemy
+Professor E. Gadd,Neville,Enemy
+Professor E. Gadd,Princess Shroob,Enemy
+Petey Piranha,Blizzaurus,Friend
+Petey Piranha,Bowser Jr.,Friend
+Petey Piranha,King Boo,Friend
+Petey Piranha,Princess Shroob,Friend
+Petey Piranha,F.L.U.D.D.,Enemy
+Petey Piranha,Kirby,Enemy
+Petey Piranha,Luigi,Enemy
+Petey Piranha,Mario,Enemy
+Petey Piranha,Princess Peach,Enemy
+Petey Piranha,Sonic the Hedgehog,Enemy
+Petey Piranha,Toad,Enemy
+Petey Piranha,Toadsworth,Enemy
+Petey Piranha,Zelda,Enemy
+Ludwig Von Koopa,Bowser,Friend
+Ludwig Von Koopa,Bowser Jr.,Friend
+Ludwig Von Koopa,Hammer Bro,Friend
+Ludwig Von Koopa,Iggy Koopa,Friend
+Ludwig Von Koopa,Kamek,Friend
+Ludwig Von Koopa,Lakitu,Friend
+Ludwig Von Koopa,Larry Koopa,Friend
+Ludwig Von Koopa,Lemmy Koopa,Friend
+Ludwig Von Koopa,Morton Koopa Jr.,Friend
+Ludwig Von Koopa,Roy Koopa,Friend
+Ludwig Von Koopa,Wendy O. Koopa,Friend
+Ludwig Von Koopa,Luigi,Enemy
+Ludwig Von Koopa,Mario,Enemy
+Ludwig Von Koopa,Toadette,Enemy
+Wendy O. Koopa,Bowser,Friend
+Wendy O. Koopa,Bowser Jr.,Friend
+Wendy O. Koopa,Hammer Bro,Friend
+Wendy O. Koopa,Iggy Koopa,Friend
+Wendy O. Koopa,Kamek,Friend
+Wendy O. Koopa,Lakitu,Friend
+Wendy O. Koopa,Larry Koopa,Friend
+Wendy O. Koopa,Lemmy Koopa,Friend
+Wendy O. Koopa,Ludwig Von Koopa,Friend
+Wendy O. Koopa,Morton Koopa Jr.,Friend
+Wendy O. Koopa,Roy Koopa,Friend
+Wendy O. Koopa,Luigi,Enemy
+Wendy O. Koopa,Mario,Enemy
+Wendy O. Koopa,Toadette,Enemy
+Morton Koopa Jr.,Bowser,Friend
+Morton Koopa Jr.,Bowser Jr.,Friend
+Morton Koopa Jr.,Iggy Koopa,Friend
+Morton Koopa Jr.,Kamek,Friend
+Morton Koopa Jr.,Lakitu,Friend
+Morton Koopa Jr.,Larry Koopa,Friend
+Morton Koopa Jr.,Lemmy Koopa,Friend
+Morton Koopa Jr.,Ludwig Von Koopa,Friend
+Morton Koopa Jr.,Roy Koopa,Friend
+Morton Koopa Jr.,Wendy O. Koopa,Friend
+Morton Koopa Jr.,Luigi,Enemy
+Morton Koopa Jr.,Mario,Enemy
+Morton Koopa Jr.,Toadette,Enemy
+Larry Koopa,Bowser,Friend
+Larry Koopa,Bowser Jr.,Friend
+Larry Koopa,Hammer Bro,Friend
+Larry Koopa,Iggy Koopa,Friend
+Larry Koopa,Kamek,Friend
+Larry Koopa,Lakitu,Friend
+Larry Koopa,Lemmy Koopa,Friend
+Larry Koopa,Ludwig Von Koopa,Friend
+Larry Koopa,Morton Koopa Jr.,Friend
+Larry Koopa,Roy Koopa,Friend
+Larry Koopa,Wendy O. Koopa,Friend
+Larry Koopa,Luigi,Enemy
+Larry Koopa,Mario,Enemy
+Larry Koopa,Toadette,Enemy
+Iggy Koopa,Bowser,Friend
+Iggy Koopa,Bowser Jr.,Friend
+Iggy Koopa,Hammer Bro,Friend
+Iggy Koopa,Iggy Pop,Friend
+Iggy Koopa,Kamek,Friend
+Iggy Koopa,Lakitu,Friend
+Iggy Koopa,Larry Koopa,Friend
+Iggy Koopa,Lemmy Koopa,Friend
+Iggy Koopa,Ludwig Von Koopa,Friend
+Iggy Koopa,Morton Koopa Jr.,Friend
+Iggy Koopa,Roy Koopa,Friend
+Iggy Koopa,Wendy O. Koopa,Friend
+Iggy Koopa,Luigi,Enemy
+Iggy Koopa,Mario,Enemy
+Roy Koopa,Bowser,Friend
+Roy Koopa,Bowser Jr.,Friend
+Roy Koopa,Iggy Koopa,Friend
+Roy Koopa,Kamek,Friend
+Roy Koopa,Lakitu,Friend
+Roy Koopa,Larry Koopa,Friend
+Roy Koopa,Lemmy Koopa,Friend
+Roy Koopa,Ludwig Von Koopa,Friend
+Roy Koopa,Morton Koopa Jr.,Friend
+Roy Koopa,Wendy O. Koopa,Friend
+Roy Koopa,Luigi,Enemy
+Roy Koopa,Mario,Enemy
+Roy Koopa,Princess Peach,Enemy
+Roy Koopa,Toadette,Enemy
+Lemmy Koopa,Bowser,Friend
+Lemmy Koopa,Bowser Jr.,Friend
+Lemmy Koopa,Hammer Bro,Friend
+Lemmy Koopa,Iggy Koopa,Friend
+Lemmy Koopa,Kamek,Friend
+Lemmy Koopa,Lakitu,Friend
+Lemmy Koopa,Larry Koopa,Friend
+Lemmy Koopa,Ludwig Von Koopa,Friend
+Lemmy Koopa,Morton Koopa Jr.,Friend
+Lemmy Koopa,Roy Koopa,Friend
+Lemmy Koopa,Wendy O. Koopa,Friend
+Lemmy Koopa,Cackletta,Enemy
+Lemmy Koopa,Fawful,Enemy
+Lemmy Koopa,Luigi,Enemy
+Lemmy Koopa,Mario,Enemy
+Lemmy Koopa,Princess Peach,Enemy
+Lemmy Koopa,Toad,Enemy
+Lemmy Koopa,Toadette,Enemy
+Lemmy Koopa,Yoshi,Enemy
+Smithy,Axem Rangers,Friend
+Smithy,Bowyer,Friend
+Smithy,Exor,Friend
+Smithy,Hammer Bro,Friend
+Smithy,Yaridovich,Friend
+Smithy,Bowser,Enemy
+Smithy,Chancellor,Enemy
+Smithy,Frogfucious,Enemy
+Smithy,Geno,Enemy
+Smithy,Mallow,Enemy
+Smithy,Mario,Enemy
+Smithy,Princess Peach,Enemy
+Smithy,Toad,Enemy
+Big Boo,Mario,Enemy
+Tatanga,Wario,Friend
+Tatanga,Mario,Enemy
+Tatanga,Princess Daisy,Enemy
+F.L.U.D.D.,Mario,Friend
+F.L.U.D.D.,Professor E. Gadd,Friend
+F.L.U.D.D.,Bowser,Enemy
+F.L.U.D.D.,Bowser Jr.,Enemy
+F.L.U.D.D.,Gooper Blooper,Enemy
+F.L.U.D.D.,Petey Piranha,Enemy
+Count Bleck,Dimentio,Friend
+Count Bleck,Mimi,Friend
+Count Bleck,Nastasia,Friend
+Count Bleck,O'Chunks,Friend
+Count Bleck,Tippi,Friend
+Count Bleck,Barry,Enemy
+Count Bleck,Boomer,Enemy
+Count Bleck,Bowser,Enemy
+Count Bleck,Carrie,Enemy
+Count Bleck,Cudge,Enemy
+Count Bleck,Dashell,Enemy
+Count Bleck,Dimentio,Enemy
+Count Bleck,Dottie,Enemy
+Count Bleck,Fleep,Enemy
+Count Bleck,Luigi,Enemy
+Count Bleck,Mario,Enemy
+Count Bleck,Piccolo,Enemy
+Count Bleck,Princess Peach,Enemy
+Count Bleck,Slim,Enemy
+Count Bleck,Thoreau,Enemy
+Count Bleck,Thudley,Enemy
+Dimentio,Count Bleck,Friend
+Dimentio,Mimi,Friend
+Dimentio,Nastasia,Friend
+Dimentio,O'Chunks,Friend
+Dimentio,Bowser,Enemy
+Dimentio,Count Bleck,Enemy
+Dimentio,Luigi,Enemy
+Dimentio,Mario,Enemy
+Dimentio,Mimi,Enemy
+Dimentio,O'Chunks,Enemy
+Dimentio,Princess Peach,Enemy
+Dimentio,Tippi,Enemy
+Fawful,Cackletta,Friend
+Fawful,Corporal Paraplonk,Friend
+Fawful,Midbus,Friend
+Fawful,Private Goomp,Friend
+Fawful,Sergeant Guy,Friend
+Fawful,Bowser,Enemy
+Fawful,Corporal Paraplonk,Enemy
+Fawful,Lemmy Koopa,Enemy
+Fawful,Luigi,Enemy
+Fawful,Mario,Enemy
+Fawful,Prince Peasley,Enemy
+Fawful,Queen Bean,Enemy
+Fawful,Sergeant Guy,Enemy
+Fawful,Starlow,Enemy
+Fawful,Toadsworth,Enemy
+Polari,Luma,Friend
+Polari,Rosalina,Friend
+Monty Mole,Luigi,Enemy
+Il Piantissimo,Mario,Enemy
+King Boo,Bowser,Friend
+King Boo,Bowser Jr.,Friend
+King Boo,Chauncey,Friend
+King Boo,Hellen Gravely,Friend
+King Boo,King Bob-omb,Friend
+King Boo,King K. Rool,Friend
+King Boo,Lydia,Friend
+King Boo,Neville,Friend
+King Boo,Petey Piranha,Friend
+King Boo,Birdo,Enemy
+King Boo,Luigi,Enemy
+King Boo,Mario,Enemy
+King Boo,Princess Daisy,Enemy
+King Boo,Princess Peach,Enemy
+King Boo,Professor E. Gadd,Enemy
+King Boo,Toad,Enemy
+King Boo,Toadsworth,Enemy
+King Boo,Waluigi,Enemy
+King Boo,Wario,Enemy
+King Boo,Yoshi,Enemy
+Booster,Chef Torte,Friend
+Booster,Valentina,Friend
+Booster,Bowser,Enemy
+Booster,Geno,Enemy
+Booster,Mallow,Enemy
+Booster,Mario,Enemy
+Booster,Princess Peach,Enemy
+Toadofsky,Frogfucious,Friend
+Francis,Princess Peach,Friend
+Francis,Tippi,Friend
+Francis,Tiptron,Friend
+Francis,Bowser,Enemy
+Francis,Mario,Enemy
+L33t Hamm3r Broz.,Luigi,Enemy
+L33t Hamm3r Broz.,Mario,Enemy
+Princess Shroob,Petey Piranha,Friend
+Princess Shroob,Yoob,Friend
+Princess Shroob,Luigi,Enemy
+Princess Shroob,Mario,Enemy
+Princess Shroob,Princess Peach,Enemy
+Princess Shroob,Professor E. Gadd,Enemy
+Princess Shroob,Toadsworth,Enemy
+Hammer Bro,Bowser,Friend
+Hammer Bro,Captain Falcon,Friend
+Hammer Bro,Captain Olimar,Friend
+Hammer Bro,Diddy Kong,Friend
+Hammer Bro,Donkey Kong,Friend
+Hammer Bro,Falco Lombardi,Friend
+Hammer Bro,Fox McCloud,Friend
+Hammer Bro,Ice Climbers,Friend
+Hammer Bro,Iggy Koopa,Friend
+Hammer Bro,Ike,Friend
+Hammer Bro,Jigglypuff,Friend
+Hammer Bro,Kamek,Friend
+Hammer Bro,King Dedede,Friend
+Hammer Bro,Kirby,Friend
+Hammer Bro,Larry Koopa,Friend
+Hammer Bro,Lemmy Koopa,Friend
+Hammer Bro,Lucas,Friend
+Hammer Bro,Luigi,Friend
+Hammer Bro,Marth,Friend
+Hammer Bro,Meta Knight,Friend
+Hammer Bro,Mr. Game & Watch,Friend
+Hammer Bro,Pikachu,Friend
+Hammer Bro,Pit,Friend
+Hammer Bro,Princess Peach,Friend
+Hammer Bro,R.O.B.,Friend
+Hammer Bro,Smithy,Friend
+Hammer Bro,Wario,Friend
+Hammer Bro,Wendy O. Koopa,Friend
+Hammer Bro,Wolf O'Donnell,Friend
+Hammer Bro,Yoshi,Friend
+Hammer Bro,Zelda,Friend
+Hammer Bro,Geno,Enemy
+Hammer Bro,Kamek,Enemy
+Hammer Bro,Luigi,Enemy
+Hammer Bro,Mallow,Enemy
+Hammer Bro,Mario,Enemy
+Hammer Bro,Princess Peach,Enemy
+Hammer Bro,Toad,Enemy
+Yoob,Princess Shroob,Friend
+Yoob,Luigi,Enemy
+Yoob,Mario,Enemy
+Yoob,Yoshi,Enemy
+Axem Rangers,Bowyer,Friend
+Axem Rangers,Smithy,Friend
+Axem Rangers,Bowser,Enemy
+Axem Rangers,Geno,Enemy
+Axem Rangers,Mallow,Enemy
+Axem Rangers,Mario,Enemy
+Axem Rangers,Princess Peach,Enemy
+Mouser,Birdo,Friend
+Mouser,Clawgrip,Friend
+Mouser,Fryguy,Friend
+Mouser,Tryclyde,Friend
+Mouser,Wart,Friend
+Mouser,Luigi,Enemy
+Mouser,Mario,Enemy
+Mouser,Princess Peach,Enemy
+Mouser,Toad,Enemy
+Blargg,Luigi,Enemy
+Blargg,Yoshi,Enemy
+Frogfucious,Geno,Friend
+Frogfucious,Mallow,Friend
+Frogfucious,Mario,Friend
+Frogfucious,Princess Peach,Friend
+Frogfucious,Toadofsky,Friend
+Frogfucious,Smithy,Enemy
+Mimi,Count Bleck,Friend
+Mimi,Dimentio,Friend
+Mimi,Nastasia,Friend
+Mimi,O'Chunks,Friend
+Mimi,Bowser,Enemy
+Mimi,Dimentio,Enemy
+Mimi,Mario,Enemy
+Mimi,Princess Peach,Enemy
+Mimi,Tippi,Enemy
+Cackletta,Fawful,Friend
+Cackletta,Bowser,Enemy
+Cackletta,Lemmy Koopa,Enemy
+Cackletta,Luigi,Enemy
+Cackletta,Mario,Enemy
+Cackletta,Prince Peasley,Enemy
+Cackletta,Queen Bean,Enemy
+Cackletta,Toadsworth,Enemy
+Yaridovich,Bowyer,Friend
+Yaridovich,Exor,Friend
+Yaridovich,Smithy,Friend
+Yaridovich,Bowser,Enemy
+Yaridovich,Geno,Enemy
+Yaridovich,Mallow,Enemy
+Yaridovich,Mario,Enemy
+Yaridovich,Princess Peach,Enemy
+Yaridovich,Toad,Enemy
+Exor,Smithy,Friend
+Exor,Yaridovich,Friend
+Exor,Bowser,Enemy
+Exor,Chancellor,Enemy
+Exor,Geno,Enemy
+Exor,Mallow,Enemy
+Exor,Mario,Enemy
+Exor,Princess Peach,Enemy
+Nastasia,Count Bleck,Friend
+Nastasia,Dimentio,Friend
+Nastasia,Mimi,Friend
+Nastasia,O'Chunks,Friend
+Nastasia,Bowser,Enemy
+Nastasia,Luigi,Enemy
+Nastasia,Mario,Enemy
+Nastasia,Princess Peach,Enemy
+Nastasia,Tippi,Enemy
+O'Chunks,Count Bleck,Friend
+O'Chunks,Dimentio,Friend
+O'Chunks,Mimi,Friend
+O'Chunks,Nastasia,Friend
+O'Chunks,Bowser,Enemy
+O'Chunks,Dimentio,Enemy
+O'Chunks,Luigi,Enemy
+O'Chunks,Mario,Enemy
+O'Chunks,Princess Peach,Enemy
+O'Chunks,Tippi,Enemy
+Chancellor,Mallow,Friend
+Chancellor,Princess Peach,Friend
+Chancellor,Toad,Friend
+Chancellor,Exor,Enemy
+Chancellor,Smithy,Enemy
+Tippi,Barry,Friend
+Tippi,Boomer,Friend
+Tippi,Carrie,Friend
+Tippi,Count Bleck,Friend
+Tippi,Cudge,Friend
+Tippi,Dashell,Friend
+Tippi,Dottie,Friend
+Tippi,Fleep,Friend
+Tippi,Francis,Friend
+Tippi,Luigi,Friend
+Tippi,Mario,Friend
+Tippi,Piccolo,Friend
+Tippi,Princess Peach,Friend
+Tippi,Slim,Friend
+Tippi,Thoreau,Friend
+Tippi,Thudley,Friend
+Tippi,Tiptron,Friend
+Tippi,Dimentio,Enemy
+Tippi,Mimi,Enemy
+Tippi,Nastasia,Enemy
+Tippi,O'Chunks,Enemy
+Bowyer,Axem Rangers,Friend
+Bowyer,Smithy,Friend
+Bowyer,Yaridovich,Friend
+Bowyer,Bowser,Enemy
+Bowyer,Geno,Enemy
+Bowyer,Mallow,Enemy
+Bowyer,Mario,Enemy
+Bowyer,Princess Peach,Enemy
+Bowyer,Toad,Enemy
+Thoreau,Barry,Friend
+Thoreau,Boomer,Friend
+Thoreau,Carrie,Friend
+Thoreau,Cudge,Friend
+Thoreau,Dashell,Friend
+Thoreau,Dottie,Friend
+Thoreau,Fleep,Friend
+Thoreau,Luigi,Friend
+Thoreau,Mario,Friend
+Thoreau,Piccolo,Friend
+Thoreau,Princess Peach,Friend
+Thoreau,Slim,Friend
+Thoreau,Thudley,Friend
+Thoreau,Tippi,Friend
+Thoreau,Count Bleck,Enemy
+Boomer,Carrie,Friend
+Boomer,Cudge,Friend
+Boomer,Dashell,Friend
+Boomer,Dottie,Friend
+Boomer,Fleep,Friend
+Boomer,Luigi,Friend
+Boomer,Mario,Friend
+Boomer,Piccolo,Friend
+Boomer,Princess Peach,Friend
+Boomer,Slim,Friend
+Boomer,Thoreau,Friend
+Boomer,Thudley,Friend
+Boomer,Tippi,Friend
+Boomer,Count Bleck,Enemy
+Slim,Barry,Friend
+Slim,Boomer,Friend
+Slim,Carrie,Friend
+Slim,Cudge,Friend
+Slim,Dashell,Friend
+Slim,Dottie,Friend
+Slim,Fleep,Friend
+Slim,Luigi,Friend
+Slim,Mario,Friend
+Slim,Piccolo,Friend
+Slim,Princess Peach,Friend
+Slim,Thoreau,Friend
+Slim,Thudley,Friend
+Slim,Tippi,Friend
+Slim,Count Bleck,Enemy
+Thudley,Barry,Friend
+Thudley,Boomer,Friend
+Thudley,Carrie,Friend
+Thudley,Cudge,Friend
+Thudley,Dashell,Friend
+Thudley,Dottie,Friend
+Thudley,Fleep,Friend
+Thudley,Luigi,Friend
+Thudley,Mario,Friend
+Thudley,Piccolo,Friend
+Thudley,Princess Peach,Friend
+Thudley,Slim,Friend
+Thudley,Thoreau,Friend
+Thudley,Tippi,Friend
+Thudley,Count Bleck,Enemy
+Carrie,Barry,Friend
+Carrie,Boomer,Friend
+Carrie,Cudge,Friend
+Carrie,Dashell,Friend
+Carrie,Dottie,Friend
+Carrie,Fleep,Friend
+Carrie,Luigi,Friend
+Carrie,Mario,Friend
+Carrie,Piccolo,Friend
+Carrie,Princess Peach,Friend
+Carrie,Slim,Friend
+Carrie,Thoreau,Friend
+Carrie,Thudley,Friend
+Carrie,Tippi,Friend
+Carrie,Count Bleck,Enemy
+Fleep,Barry,Friend
+Fleep,Boomer,Friend
+Fleep,Carrie,Friend
+Fleep,Cudge,Friend
+Fleep,Dashell,Friend
+Fleep,Dottie,Friend
+Fleep,Luigi,Friend
+Fleep,Mario,Friend
+Fleep,Piccolo,Friend
+Fleep,Princess Peach,Friend
+Fleep,Slim,Friend
+Fleep,Thoreau,Friend
+Fleep,Thudley,Friend
+Fleep,Tippi,Friend
+Fleep,Count Bleck,Enemy
+Cudge,Barry,Friend
+Cudge,Boomer,Friend
+Cudge,Carrie,Friend
+Cudge,Dashell,Friend
+Cudge,Dottie,Friend
+Cudge,Fleep,Friend
+Cudge,Luigi,Friend
+Cudge,Mario,Friend
+Cudge,Piccolo,Friend
+Cudge,Princess Peach,Friend
+Cudge,Slim,Friend
+Cudge,Thoreau,Friend
+Cudge,Thudley,Friend
+Cudge,Tippi,Friend
+Cudge,Count Bleck,Enemy
+Dottie,Barry,Friend
+Dottie,Boomer,Friend
+Dottie,Carrie,Friend
+Dottie,Cudge,Friend
+Dottie,Dashell,Friend
+Dottie,Fleep,Friend
+Dottie,Luigi,Friend
+Dottie,Mario,Friend
+Dottie,Piccolo,Friend
+Dottie,Princess Peach,Friend
+Dottie,Slim,Friend
+Dottie,Thoreau,Friend
+Dottie,Thudley,Friend
+Dottie,Tippi,Friend
+Dottie,Count Bleck,Enemy
+Barry,Carrie,Friend
+Barry,Cudge,Friend
+Barry,Dashell,Friend
+Barry,Dottie,Friend
+Barry,Fleep,Friend
+Barry,Luigi,Friend
+Barry,Mario,Friend
+Barry,Piccolo,Friend
+Barry,Princess Peach,Friend
+Barry,Slim,Friend
+Barry,Thoreau,Friend
+Barry,Thudley,Friend
+Barry,Tippi,Friend
+Barry,Count Bleck,Enemy
+Dashell,Barry,Friend
+Dashell,Boomer,Friend
+Dashell,Carrie,Friend
+Dashell,Cudge,Friend
+Dashell,Dottie,Friend
+Dashell,Fleep,Friend
+Dashell,Luigi,Friend
+Dashell,Mario,Friend
+Dashell,Piccolo,Friend
+Dashell,Princess Peach,Friend
+Dashell,Slim,Friend
+Dashell,Thoreau,Friend
+Dashell,Thudley,Friend
+Dashell,Tippi,Friend
+Dashell,Count Bleck,Enemy
+Piccolo,Barry,Friend
+Piccolo,Boomer,Friend
+Piccolo,Carrie,Friend
+Piccolo,Cudge,Friend
+Piccolo,Dashell,Friend
+Piccolo,Dottie,Friend
+Piccolo,Fleep,Friend
+Piccolo,Luigi,Friend
+Piccolo,Mario,Friend
+Piccolo,Princess Peach,Friend
+Piccolo,Slim,Friend
+Piccolo,Thoreau,Friend
+Piccolo,Thudley,Friend
+Piccolo,Tippi,Friend
+Piccolo,Count Bleck,Enemy
+Tiptron,Francis,Friend
+Tiptron,Luigi,Friend
+Tiptron,Mario,Friend
+Tiptron,Princess Peach,Friend
+Tiptron,Tippi,Friend
+Kooper,Bombette,Friend
+Kooper,Goombario,Friend
+Kooper,King Bob-omb,Friend
+Kooper,Kolorado,Friend
+Kooper,Lady Bow,Friend
+Kooper,Lakilester,Friend
+Kooper,Mario,Friend
+Kooper,Parakarry,Friend
+Kooper,Sushie,Friend
+Kooper,Watt,Friend
+Kooper,Bowser,Enemy
+Kooper,Kamek,Enemy
+Kooper,Kammy Koopa,Enemy
+Kooper,Koopa Bros,Enemy
+Kooper,Tubba Blubba,Enemy
+King Bob-omb,Bowser,Friend
+King Bob-omb,Bowser Jr.,Friend
+King Bob-omb,King Boo,Friend
+King Bob-omb,Kooper,Friend
+King Bob-omb,Lakitu,Friend
+King Bob-omb,Birdo,Enemy
+King Bob-omb,Luigi,Enemy
+King Bob-omb,Mario,Enemy
+King Bob-omb,Princess Daisy,Enemy
+King Bob-omb,Princess Peach,Enemy
+King Bob-omb,Toad,Enemy
+King Bob-omb,Toadsworth,Enemy
+King Bob-omb,Waluigi,Enemy
+King Bob-omb,Wario,Enemy
+King Bob-omb,Yoshi,Enemy
+Bobo,Captain Syrup,Friend
+Bobo,Wario,Enemy
+Tryclyde,Birdo,Friend
+Tryclyde,Clawgrip,Friend
+Tryclyde,Fryguy,Friend
+Tryclyde,Mouser,Friend
+Tryclyde,Wart,Friend
+Tryclyde,Luigi,Enemy
+Tryclyde,Mario,Enemy
+Tryclyde,Princess Peach,Enemy
+Tryclyde,Toad,Enemy
+Prince Peasley,Luigi,Friend
+Prince Peasley,Mario,Friend
+Prince Peasley,Princess Peach,Friend
+Prince Peasley,Queen Bean,Friend
+Prince Peasley,Toadsworth,Friend
+Prince Peasley,Bowser,Enemy
+Prince Peasley,Cackletta,Enemy
+Prince Peasley,Fawful,Enemy
+Popple,Birdo,Friend
+Popple,Luigi,Enemy
+Popple,Mario,Enemy
+Popple,Princess Peach,Enemy
+Fryguy,Birdo,Friend
+Fryguy,Clawgrip,Friend
+Fryguy,Mouser,Friend
+Fryguy,Tryclyde,Friend
+Fryguy,Wart,Friend
+Fryguy,Luigi,Enemy
+Fryguy,Mario,Enemy
+Fryguy,Princess Peach,Enemy
+Fryguy,Toad,Enemy
+Queen Bean,Luigi,Friend
+Queen Bean,Prince Peasley,Friend
+Queen Bean,Princess Peach,Friend
+Queen Bean,Professor E. Gadd,Friend
+Queen Bean,Toad,Friend
+Queen Bean,Yoshi,Friend
+Queen Bean,Bowser,Enemy
+Queen Bean,Cackletta,Enemy
+Queen Bean,Fawful,Enemy
+Chef Torte,Booster,Friend
+Chef Torte,Bowser,Enemy
+Chef Torte,Geno,Enemy
+Chef Torte,Mallow,Enemy
+Chef Torte,Mario,Enemy
+Chef Torte,Princess Peach,Enemy
+Parakarry,Bombette,Friend
+Parakarry,Goombario,Friend
+Parakarry,Kolorado,Friend
+Parakarry,Kooper,Friend
+Parakarry,Lady Bow,Friend
+Parakarry,Lakilester,Friend
+Parakarry,Mario,Friend
+Parakarry,Sushie,Friend
+Parakarry,Watt,Friend
+Parakarry,Bowser,Enemy
+Parakarry,Kamek,Enemy
+Parakarry,Kammy Koopa,Enemy
+Parakarry,Tubba Blubba,Enemy
+Pauline,Mario,Friend
+Pauline,Cranky Kong,Enemy
+Pauline,Donkey Kong,Enemy
+Pauline,Donkey Kong Jr.,Enemy
+Pauline,Grumpy Kong,Enemy
+Pauline,Poppy Kong,Enemy
+Pauline,Void Kong,Enemy
+Goomboss,Goombario,Enemy
+Goomboss,Mario,Enemy
+Goomboss,Toad,Enemy
+Goomboss,Yoshi,Enemy
+MC Ballyhoo and Big Top,Birdo,Friend
+MC Ballyhoo and Big Top,Princess Peach,Friend
+MC Ballyhoo and Big Top,Toad,Friend
+MC Ballyhoo and Big Top,Toadette,Friend
+MC Ballyhoo and Big Top,Yoshi,Friend
+Raphael the Raven,Bandit,Friend
+Raphael the Raven,Kamek,Friend
+Raphael the Raven,Yoshi,Enemy
+Koopa Kid,Bowser,Friend
+Koopa Kid,Brighton,Friend
+Koopa Kid,Kamek,Friend
+Koopa Kid,Princess Peach,Friend
+Koopa Kid,Toad,Friend
+Koopa Kid,Toadette,Friend
+Koopa Kid,Twila,Friend
+Koopa Kid,Waluigi,Friend
+Koopa Kid,Yoshi,Friend
+Koopa Kid,Birdo,Enemy
+Koopa Kid,Bowser,Enemy
+Koopa Kid,Donkey Kong,Enemy
+Koopa Kid,Luigi,Enemy
+Koopa Kid,Mario,Enemy
+Koopa Kid,Princess Daisy,Enemy
+Koopa Kid,Princess Peach,Enemy
+Koopa Kid,Toad,Enemy
+Koopa Kid,Waluigi,Enemy
+Koopa Kid,Wario,Enemy
+Koopa Kid,Yoshi,Enemy
+Koops,Admiral Bobbery,Friend
+Koops,Goombella,Friend
+Koops,Jolene,Friend
+Koops,Madame Flurrie,Friend
+Koops,Mario,Friend
+Koops,Mini-Yoshi,Friend
+Koops,Ms. Mowz,Friend
+Koops,Vivian,Friend
+Koops,Doopliss,Enemy
+Koops,Hooktail,Enemy
+Koops,Kammy Koopa,Enemy
+Koops,Lord Crump,Enemy
+Koops,Marilyn,Enemy
+Koops,Rawk Hawk,Enemy
+Koops,Shadow Queen,Enemy
+Koops,Sir Grodus,Enemy
+Koops,Smorg,Enemy
+Squirps,Bowser,Friend
+Squirps,Mario,Friend
+Squirps,Princess Peach,Friend
+Twila,Brighton,Friend
+Twila,Koopa Kid,Friend
+Twila,Princess Peach,Friend
+Twila,Toad,Friend
+Twila,Toadette,Friend
+Twila,Yoshi,Friend
+Brighton,Koopa Kid,Friend
+Brighton,Luigi,Friend
+Brighton,Mario,Friend
+Brighton,Princess Peach,Friend
+Brighton,Toad,Friend
+Brighton,Toadette,Friend
+Brighton,Twila,Friend
+Brighton,Yoshi,Friend
+Rawk Hawk,Goombella,Enemy
+Rawk Hawk,Koops,Enemy
+Rawk Hawk,Madame Flurrie,Enemy
+Rawk Hawk,Mario,Enemy
+Rawk Hawk,Yoshi,Enemy
+Goombella,Admiral Bobbery,Friend
+Goombella,Jolene,Friend
+Goombella,Koops,Friend
+Goombella,Madame Flurrie,Friend
+Goombella,Mario,Friend
+Goombella,Mini-Yoshi,Friend
+Goombella,Ms. Mowz,Friend
+Goombella,Vivian,Friend
+Goombella,Yoshi,Friend
+Goombella,Bowser,Enemy
+Goombella,Doopliss,Enemy
+Goombella,Kammy Koopa,Enemy
+Goombella,Lord Crump,Enemy
+Goombella,Marilyn,Enemy
+Goombella,Rawk Hawk,Enemy
+Goombella,Shadow Queen,Enemy
+Goombella,Sir Grodus,Enemy
+Goombella,Smorg,Enemy
+Sir Grodus,Beldam,Friend
+Sir Grodus,Lord Crump,Friend
+Sir Grodus,Marilyn,Friend
+Sir Grodus,Vivian,Friend
+Sir Grodus,Admiral Bobbery,Enemy
+Sir Grodus,Goombella,Enemy
+Sir Grodus,Kammy Koopa,Enemy
+Sir Grodus,Koops,Enemy
+Sir Grodus,Madame Flurrie,Enemy
+Sir Grodus,Mario,Enemy
+Sir Grodus,Ms. Mowz,Enemy
+Sir Grodus,Pennington,Enemy
+Sir Grodus,Vivian,Enemy
+Admiral Bobbery,Goombella,Friend
+Admiral Bobbery,Jolene,Friend
+Admiral Bobbery,Koops,Friend
+Admiral Bobbery,Luigi,Friend
+Admiral Bobbery,Madame Flurrie,Friend
+Admiral Bobbery,Mario,Friend
+Admiral Bobbery,Mini-Yoshi,Friend
+Admiral Bobbery,Ms. Mowz,Friend
+Admiral Bobbery,Princess Peach,Friend
+Admiral Bobbery,Vivian,Friend
+Admiral Bobbery,Yoshi,Friend
+Admiral Bobbery,Doopliss,Enemy
+Admiral Bobbery,Kammy Koopa,Enemy
+Admiral Bobbery,Lord Crump,Enemy
+Admiral Bobbery,Marilyn,Enemy
+Admiral Bobbery,Shadow Queen,Enemy
+Admiral Bobbery,Sir Grodus,Enemy
+Admiral Bobbery,Smorg,Enemy
+Lady Bow,Bombette,Friend
+Lady Bow,Goombario,Friend
+Lady Bow,Kooper,Friend
+Lady Bow,Lakilester,Friend
+Lady Bow,Mario,Friend
+Lady Bow,Parakarry,Friend
+Lady Bow,Sushie,Friend
+Lady Bow,Watt,Friend
+Lady Bow,Bowser,Enemy
+Lady Bow,Kamek,Enemy
+Lady Bow,Kammy Koopa,Enemy
+Lady Bow,Tubba Blubba,Enemy
+Vivian,Admiral Bobbery,Friend
+Vivian,Beldam,Friend
+Vivian,Goombella,Friend
+Vivian,Jolene,Friend
+Vivian,Koops,Friend
+Vivian,Madame Flurrie,Friend
+Vivian,Marilyn,Friend
+Vivian,Mario,Friend
+Vivian,Mini-Yoshi,Friend
+Vivian,Ms. Mowz,Friend
+Vivian,Princess Peach,Friend
+Vivian,Sir Grodus,Friend
+Vivian,Beldam,Enemy
+Vivian,Doopliss,Enemy
+Vivian,Kammy Koopa,Enemy
+Vivian,Lord Crump,Enemy
+Vivian,Marilyn,Enemy
+Vivian,Shadow Queen,Enemy
+Vivian,Sir Grodus,Enemy
+Vivian,Smorg,Enemy
+Madame Flurrie,Admiral Bobbery,Friend
+Madame Flurrie,Goombella,Friend
+Madame Flurrie,Jolene,Friend
+Madame Flurrie,Koops,Friend
+Madame Flurrie,Mario,Friend
+Madame Flurrie,Mini-Yoshi,Friend
+Madame Flurrie,Ms. Mowz,Friend
+Madame Flurrie,Princess Peach,Friend
+Madame Flurrie,Vivian,Friend
+Madame Flurrie,Yoshi,Friend
+Madame Flurrie,Doopliss,Enemy
+Madame Flurrie,Kammy Koopa,Enemy
+Madame Flurrie,Lord Crump,Enemy
+Madame Flurrie,Marilyn,Enemy
+Madame Flurrie,Rawk Hawk,Enemy
+Madame Flurrie,Shadow Queen,Enemy
+Madame Flurrie,Sir Grodus,Enemy
+Madame Flurrie,Smorg,Enemy
+Shadow Queen,Beldam,Friend
+Shadow Queen,Marilyn,Friend
+Shadow Queen,Admiral Bobbery,Enemy
+Shadow Queen,Goombella,Enemy
+Shadow Queen,Koops,Enemy
+Shadow Queen,Madame Flurrie,Enemy
+Shadow Queen,Mario,Enemy
+Shadow Queen,Pennington,Enemy
+Shadow Queen,Princess Peach,Enemy
+Shadow Queen,Vivian,Enemy
+Shadow Queen,Yoshi,Enemy
+Ms. Mowz,Admiral Bobbery,Friend
+Ms. Mowz,Goombella,Friend
+Ms. Mowz,Jolene,Friend
+Ms. Mowz,Koops,Friend
+Ms. Mowz,Madame Flurrie,Friend
+Ms. Mowz,Mario,Friend
+Ms. Mowz,Mini-Yoshi,Friend
+Ms. Mowz,Princess Peach,Friend
+Ms. Mowz,Vivian,Friend
+Ms. Mowz,Bowser,Enemy
+Ms. Mowz,Doopliss,Enemy
+Ms. Mowz,Kammy Koopa,Enemy
+Ms. Mowz,Lord Crump,Enemy
+Ms. Mowz,Marilyn,Enemy
+Ms. Mowz,Sir Grodus,Enemy
+Ms. Mowz,Smorg,Enemy
+Kammy Koopa,Bowser,Friend
+Kammy Koopa,Koopa Bros,Friend
+Kammy Koopa,Tubba Blubba,Friend
+Kammy Koopa,Admiral Bobbery,Enemy
+Kammy Koopa,Bombette,Enemy
+Kammy Koopa,Goombario,Enemy
+Kammy Koopa,Goombella,Enemy
+Kammy Koopa,Jr. Troopa,Enemy
+Kammy Koopa,Kooper,Enemy
+Kammy Koopa,Koops,Enemy
+Kammy Koopa,Lady Bow,Enemy
+Kammy Koopa,Lakilester,Enemy
+Kammy Koopa,Madame Flurrie,Enemy
+Kammy Koopa,Mario,Enemy
+Kammy Koopa,Ms. Mowz,Enemy
+Kammy Koopa,Parakarry,Enemy
+Kammy Koopa,Pennington,Enemy
+Kammy Koopa,Princess Peach,Enemy
+Kammy Koopa,Sir Grodus,Enemy
+Kammy Koopa,Sushie,Enemy
+Kammy Koopa,Toad,Enemy
+Kammy Koopa,Vivian,Enemy
+Kammy Koopa,Watt,Enemy
+Kammy Koopa,Yoshi,Enemy
+Doopliss,Beldam,Friend
+Doopliss,Admiral Bobbery,Enemy
+Doopliss,Goombella,Enemy
+Doopliss,Koops,Enemy
+Doopliss,Madame Flurrie,Enemy
+Doopliss,Mario,Enemy
+Doopliss,Mini-Yoshi,Enemy
+Doopliss,Ms. Mowz,Enemy
+Doopliss,Vivian,Enemy
+Hooktail,Koops,Enemy
+Hooktail,Mario,Enemy
+Macho Grubba,Mario,Enemy
+Beldam,Doopliss,Friend
+Beldam,Marilyn,Friend
+Beldam,Shadow Queen,Friend
+Beldam,Sir Grodus,Friend
+Beldam,Vivian,Friend
+Beldam,Mario,Enemy
+Beldam,Vivian,Enemy
+Lord Crump,Marilyn,Friend
+Lord Crump,Sir Grodus,Friend
+Lord Crump,Admiral Bobbery,Enemy
+Lord Crump,Goombella,Enemy
+Lord Crump,Koops,Enemy
+Lord Crump,Madame Flurrie,Enemy
+Lord Crump,Mario,Enemy
+Lord Crump,Ms. Mowz,Enemy
+Lord Crump,Pennington,Enemy
+Lord Crump,Vivian,Enemy
+Bombette,Goombario,Friend
+Bombette,Kolorado,Friend
+Bombette,Kooper,Friend
+Bombette,Lady Bow,Friend
+Bombette,Lakilester,Friend
+Bombette,Mario,Friend
+Bombette,Parakarry,Friend
+Bombette,Sushie,Friend
+Bombette,Watt,Friend
+Bombette,Bowser,Enemy
+Bombette,Kamek,Enemy
+Bombette,Kammy Koopa,Enemy
+Bombette,Koopa Bros,Enemy
+Bombette,Tubba Blubba,Enemy
+Goombario,Bombette,Friend
+Goombario,Kolorado,Friend
+Goombario,Kooper,Friend
+Goombario,Lady Bow,Friend
+Goombario,Lakilester,Friend
+Goombario,Mario,Friend
+Goombario,Parakarry,Friend
+Goombario,Sushie,Friend
+Goombario,Watt,Friend
+Goombario,Bowser,Enemy
+Goombario,Goomboss,Enemy
+Goombario,Kamek,Enemy
+Goombario,Kammy Koopa,Enemy
+Goombario,Tubba Blubba,Enemy
+Watt,Bombette,Friend
+Watt,Goombario,Friend
+Watt,Kooper,Friend
+Watt,Lady Bow,Friend
+Watt,Lakilester,Friend
+Watt,Mario,Friend
+Watt,Parakarry,Friend
+Watt,Sushie,Friend
+Watt,Bowser,Enemy
+Watt,Kamek,Enemy
+Watt,Kammy Koopa,Enemy
+Sushie,Bombette,Friend
+Sushie,Goombario,Friend
+Sushie,Kolorado,Friend
+Sushie,Kooper,Friend
+Sushie,Lady Bow,Friend
+Sushie,Lakilester,Friend
+Sushie,Mario,Friend
+Sushie,Parakarry,Friend
+Sushie,Watt,Friend
+Sushie,Bowser,Enemy
+Sushie,Kamek,Enemy
+Sushie,Kammy Koopa,Enemy
+Lakilester,Bombette,Friend
+Lakilester,Goombario,Friend
+Lakilester,Kooper,Friend
+Lakilester,Lady Bow,Friend
+Lakilester,Lakitu,Friend
+Lakilester,Mario,Friend
+Lakilester,Parakarry,Friend
+Lakilester,Sushie,Friend
+Lakilester,Watt,Friend
+Lakilester,Bowser,Enemy
+Lakilester,Huff N. Puff,Enemy
+Lakilester,Kamek,Enemy
+Lakilester,Kammy Koopa,Enemy
+Jr. Troopa,Kammy Koopa,Enemy
+Jr. Troopa,Mario,Enemy
+Tubba Blubba,Kammy Koopa,Friend
+Tubba Blubba,Bombette,Enemy
+Tubba Blubba,Goombario,Enemy
+Tubba Blubba,Kooper,Enemy
+Tubba Blubba,Lady Bow,Enemy
+Tubba Blubba,Mario,Enemy
+Tubba Blubba,Parakarry,Enemy
+Tubba Blubba,Princess Peach,Enemy
+Tutankoopa,Mario,Enemy
+General Guy,Mario,Enemy
+Lava Piranha,Mario,Enemy
+Crystal King,Mario,Enemy
+Huff N. Puff,Lakilester,Enemy
+Huff N. Puff,Mario,Enemy
+Rudy The Clown,Mario,Enemy
+Rudy The Clown,Wario,Enemy
+Marilyn,Beldam,Friend
+Marilyn,Lord Crump,Friend
+Marilyn,Shadow Queen,Friend
+Marilyn,Sir Grodus,Friend
+Marilyn,Vivian,Friend
+Marilyn,Admiral Bobbery,Enemy
+Marilyn,Goombella,Enemy
+Marilyn,Koops,Enemy
+Marilyn,Madame Flurrie,Enemy
+Marilyn,Mario,Enemy
+Marilyn,Ms. Mowz,Enemy
+Marilyn,Vivian,Enemy
+Marilyn,Yoshi,Enemy
+Gooper Blooper,Blizzaurus,Friend
+Gooper Blooper,Bowser Jr.,Friend
+Gooper Blooper,F.L.U.D.D.,Enemy
+Gooper Blooper,Mario,Enemy
+Gooper Blooper,Toad,Enemy
+Clawgrip,Birdo,Friend
+Clawgrip,Fryguy,Friend
+Clawgrip,Mouser,Friend
+Clawgrip,Tryclyde,Friend
+Clawgrip,Wart,Friend
+Clawgrip,Luigi,Enemy
+Clawgrip,Mario,Enemy
+Clawgrip,Princess Peach,Enemy
+Clawgrip,Toad,Enemy
+Bouldergeist,Mario,Enemy
+Luma,Lubba,Friend
+Luma,Luigi,Friend
+Luma,Mario,Friend
+Luma,Polari,Friend
+Luma,Princess Daisy,Friend
+Luma,Rosalina,Friend
+Luma,Bowser,Enemy
+Luma,Bowser Jr.,Enemy
+King Kaliente,Mario,Enemy
+Prince Froggy,Bandit,Friend
+Sluggy the Unshaven,Kamek,Friend
+Sluggy the Unshaven,Yoshi,Enemy
+King Watinga,Mario,Enemy
+Salvo the Slime,Kamek,Friend
+Salvo the Slime,Yoshi,Enemy
+Burt the Bashful,Kamek,Friend
+Burt the Bashful,Yoshi,Enemy
+Roger the Potted Ghost,Bigger Boo,Friend
+Roger the Potted Ghost,Kamek,Friend
+Roger the Potted Ghost,Yoshi,Enemy
+Tap-Tap the Red Nose,Kamek,Friend
+Tap-Tap the Red Nose,Yoshi,Enemy
+Hookbill the Koopa,Bandit,Friend
+Hookbill the Koopa,Kamek,Friend
+Hookbill the Koopa,Mario,Enemy
+Hookbill the Koopa,Yoshi,Enemy
+Marching Milde,Kamek,Friend
+Marching Milde,Yoshi,Enemy
+Naval Piranha,Kamek,Friend
+Naval Piranha,Yoshi,Enemy
+Starlow,Bowser,Friend
+Starlow,Luigi,Friend
+Starlow,Mario,Friend
+Starlow,Princess Peach,Friend
+Starlow,Fawful,Enemy
+Broque Monsieur,Bowser,Friend
+Broque Monsieur,Broggy,Friend
+Broggy,Bowser,Friend
+Broggy,Broque Monsieur,Friend
+Broggy,Luigi,Enemy
+Broque Madame,Bowser,Friend
+Toadbert,Luigi,Friend
+Toadbert,Mario,Friend
+Toadbert,Princess Peach,Friend
+Toadbert,Toadsworth,Friend
+Bigger Boo,Kamek,Friend
+Bigger Boo,Roger the Potted Ghost,Friend
+Bigger Boo,Mario,Enemy
+Bigger Boo,Yoshi,Enemy
+Midbus,Fawful,Friend
+Midbus,Bowser,Enemy
+Sergeant Guy,Bowser,Friend
+Sergeant Guy,Corporal Paraplonk,Friend
+Sergeant Guy,Fawful,Friend
+Sergeant Guy,Private Goomp,Friend
+Sergeant Guy,Fawful,Enemy
+Corporal Paraplonk,Bowser,Friend
+Corporal Paraplonk,Fawful,Friend
+Corporal Paraplonk,Private Goomp,Friend
+Corporal Paraplonk,Sergeant Guy,Friend
+Corporal Paraplonk,Fawful,Enemy
+Private Goomp,Bowser,Friend
+Private Goomp,Corporal Paraplonk,Friend
+Private Goomp,Fawful,Friend
+Private Goomp,Sergeant Guy,Friend
+Private Goomp,Yoshi,Enemy
+Dino Piranha,Mario,Enemy
+Guppy,Luigi,Friend
+Guppy,Mario,Friend
+Guppy,Toad,Friend
+Guppy,Luigi,Enemy
+Mushroom Genie,Princess Peach,Friend
+Mushroom Genie,Waluigi,Friend
+Mushroom Genie,Yoshi,Friend
+Metal Mario,Honey Queen,Friend
+Croco,Bowser,Enemy
+Croco,Geno,Enemy
+Croco,Mallow,Enemy
+Croco,Mario,Enemy
+Croco,Princess Peach,Enemy
+Valentina,Booster,Friend
+Valentina,Bowser,Enemy
+Valentina,Geno,Enemy
+Valentina,Mallow,Enemy
+Valentina,Mario,Enemy
+Valentina,Princess Peach,Enemy
+Culex,Mario,Friend
+Boshi,Yoshi,Enemy
+Jinx,Bowser,Friend
+Jinx,Mallow,Friend
+Jinx,Mario,Friend
+Jinx,Princess Peach,Friend
+Jonathan Jones,Bowser,Enemy
+Jonathan Jones,Geno,Enemy
+Jonathan Jones,Mallow,Enemy
+Jonathan Jones,Mario,Enemy
+Jonathan Jones,Princess Peach,Enemy
+Koopa the Quick,Luigi,Enemy
+Koopa the Quick,Mario,Enemy
+Koopa the Quick,Wario,Enemy
+Koopa the Quick,Yoshi,Enemy
+Koopa Bros,Kammy Koopa,Friend
+Koopa Bros,Bombette,Enemy
+Koopa Bros,Kooper,Enemy
+Koopa Bros,Mario,Enemy
+Boom Boom,Bowser,Friend
+Boom Boom,Pom Pom,Friend
+Boom Boom,Luigi,Enemy
+Boom Boom,Mario,Enemy
+Lakitu Bros,Luigi,Friend
+Lakitu Bros,Mario,Friend
+Lakitu Bros,Wario,Friend
+Lakitu Bros,Yoshi,Friend
+Army Hammer Bro,Blizzaurus,Friend
+Army Hammer Bro,Bowser,Friend
+Army Hammer Bro,Luigi,Enemy
+Army Hammer Bro,Mario,Enemy
+Army Hammer Bro,Princess Peach,Enemy
+Army Hammer Bro,Toad,Enemy
+Army Hammer Bro,Toadsworth,Enemy
+Kolorado,Bombette,Friend
+Kolorado,Goombario,Friend
+Kolorado,Kooper,Friend
+Kolorado,Mario,Friend
+Kolorado,Parakarry,Friend
+Kolorado,Sushie,Friend
+Mailtoad,Luigi,Friend
+Mailtoad,Princess Peach,Friend
+Mailtoad,Toad,Friend
+Mailtoad,Bowser,Enemy
+Blizzaurus,Army Hammer Bro,Friend
+Blizzaurus,Bowser,Friend
+Blizzaurus,Gooper Blooper,Friend
+Blizzaurus,Kamek,Friend
+Blizzaurus,Petey Piranha,Friend
+Blizzaurus,Luigi,Enemy
+Blizzaurus,Mario,Enemy
+Blizzaurus,Princess Peach,Enemy
+Blizzaurus,Toad,Enemy
+Pennington,Luigi,Friend
+Pennington,Mario,Friend
+Pennington,Bowser,Enemy
+Pennington,Kammy Koopa,Enemy
+Pennington,Lord Crump,Enemy
+Pennington,Shadow Queen,Enemy
+Pennington,Sir Grodus,Enemy
+The Chimp,Luigi,Friend
+The Chimp,Mario,Friend
+MIPS,Bowser,Friend
+MIPS,Mario,Enemy
+Smorg,Admiral Bobbery,Enemy
+Smorg,Goombella,Enemy
+Smorg,Koops,Enemy
+Smorg,Madame Flurrie,Enemy
+Smorg,Mario,Enemy
+Smorg,Ms. Mowz,Enemy
+Smorg,Vivian,Enemy
+Smorg,Yoshi,Enemy
+King Croacus,Floro Sapien,Friend
+King Croacus,Bowser,Enemy
+King Croacus,Mario,Enemy
+King Croacus,Princess Peach,Enemy
+Lubba,Luigi,Friend
+Lubba,Luma,Friend
+Lubba,Mario,Friend
+Lubba,Rosalina,Friend
+Lubba,Yoshi,Friend
+Lubba,Bowser,Enemy
+Lubba,Bowser Jr.,Enemy
+Fluzzard,Luigi,Friend
+Fluzzard,Mario,Friend
+Squizzard,Mario,Enemy
+Vinny,Don Pianta,Friend
+Vinny,Francesca Pianta,Friend
+Don Pianta,Francesca Pianta,Friend
+Don Pianta,Vinny,Friend
+Don Pianta,Mario,Enemy
+Francesca Pianta,Don Pianta,Friend
+Francesca Pianta,Vinny,Friend
+Lina,Imajin,Friend
+Lina,Mama,Friend
+Lina,Papa,Friend
+Lina,Wart,Enemy
+Mama,Imajin,Friend
+Mama,Lina,Friend
+Mama,Papa,Friend
+Mama,Wart,Enemy
+Imajin,Lina,Friend
+Imajin,Mama,Friend
+Imajin,Papa,Friend
+Imajin,Wart,Enemy
+Papa,Imajin,Friend
+Papa,Lina,Friend
+Papa,Mama,Friend
+Papa,Wart,Enemy
+Bandit,Hookbill the Koopa,Friend
+Bandit,Kamek,Friend
+Bandit,Prince Froggy,Friend
+Bandit,Raphael the Raven,Friend
+Bandit,Yoshi,Enemy
+King Tut,Bowser,Friend
+King Tut,Mario,Enemy
+King Tut,The Riddler,Enemy
+Jolene,Admiral Bobbery,Friend
+Jolene,Goombella,Friend
+Jolene,Koops,Friend
+Jolene,Madame Flurrie,Friend
+Jolene,Mario,Friend
+Jolene,Ms. Mowz,Friend
+Jolene,Prince Mush,Friend
+Jolene,Vivian,Friend
+Jolene,Yoshi,Friend
+Prince Mush,Jolene,Friend
+Honey Queen,Donkey Kong,Friend
+Honey Queen,Lakitu,Friend
+Honey Queen,Luigi,Friend
+Honey Queen,Mario,Friend
+Honey Queen,Metal Mario,Friend
+Honey Queen,Princess Daisy,Friend
+Honey Queen,Princess Peach,Friend
+Honey Queen,Rosalina,Friend
+Honey Queen,Toad,Friend
+Honey Queen,Wario,Friend
+Honey Queen,Yoshi,Friend
+Honey Queen,Bowser,Enemy
+Honey Queen,Bowser Jr.,Enemy
+Foreman Spike,Bowser,Friend
+Foreman Spike,Luigi,Enemy
+Foreman Spike,Mario,Enemy
+Foreman Spike,Princess Peach,Enemy
+Neville,Chauncey,Friend
+Neville,King Boo,Friend
+Neville,Lydia,Friend
+Neville,Luigi,Enemy
+Neville,Professor E. Gadd,Enemy
+Lydia,Chauncey,Friend
+Lydia,King Boo,Friend
+Lydia,Neville,Friend
+Lydia,Luigi,Enemy
+Lydia,Professor E. Gadd,Enemy
+Chauncey,King Boo,Friend
+Chauncey,Lydia,Friend
+Chauncey,Neville,Friend
+Chauncey,Luigi,Enemy
+Chauncey,Professor E. Gadd,Enemy
+Squawks the Parrot,Diddy Kong,Friend
+Squawks the Parrot,Dixie Kong,Friend
+Squawks the Parrot,Donkey Kong,Friend
+Squawks the Parrot,Enguarde the Swordfish,Friend
+Squawks the Parrot,Expresso the Ostrich,Friend
+Squawks the Parrot,Kiddy Kong,Friend
+Squawks the Parrot,Rambi the Rhino,Friend
+Squawks the Parrot,Rattly the Snake,Friend
+Squawks the Parrot,Winky the Frog,Friend
+Squawks the Parrot,King K. Rool,Enemy
+Squawks the Parrot,King Zing,Enemy
+King Zing,Queen B,Friend
+King Zing,Squawks the Parrot,Enemy
+Squitter,Rattly the Snake,Friend
+Pak E. Derm,Yoshi,Enemy
+9-Volt,18-Volt,Friend
+9-Volt,Ana,Friend
+9-Volt,Ashley,Friend
+9-Volt,Jimmy T,Friend
+9-Volt,Kat,Friend
+9-Volt,Mike,Friend
+9-Volt,Mona,Friend
+9-Volt,Orbulon,Friend
+9-Volt,Penny Crygor,Friend
+9-Volt,Red,Friend
+9-Volt,Spitz,Friend
+9-Volt,Wario,Friend
+Ana,9-Volt,Friend
+Ana,Ashley,Friend
+Ana,Bowser,Friend
+Ana,Captain Falcon,Friend
+Ana,Captain Olimar,Friend
+Ana,Diddy Kong,Friend
+Ana,Donkey Kong,Friend
+Ana,Dr. Crygor,Friend
+Ana,Falco Lombardi,Friend
+Ana,Fox McCloud,Friend
+Ana,Ice Climbers,Friend
+Ana,Ike,Friend
+Ana,Jigglypuff,Friend
+Ana,Jimmy T,Friend
+Ana,Kat,Friend
+Ana,King Dedede,Friend
+Ana,Kirby,Friend
+Ana,Lucas,Friend
+Ana,Luigi,Friend
+Ana,Marth,Friend
+Ana,Meta Knight,Friend
+Ana,Mike,Friend
+Ana,Mona,Friend
+Ana,Mr. Game & Watch,Friend
+Ana,Penny Crygor,Friend
+Ana,Pikachu,Friend
+Ana,Pit,Friend
+Ana,Princess Peach,Friend
+Ana,R.O.B.,Friend
+Ana,Red,Friend
+Ana,Spitz,Friend
+Ana,Wario,Friend
+Ana,Wolf O'Donnell,Friend
+Ana,Yoshi,Friend
+Ana,Zelda,Friend
+18-Volt,9-Volt,Friend
+18-Volt,Ashley,Friend
+18-Volt,Jimmy T,Friend
+18-Volt,Kat,Friend
+18-Volt,Mike,Friend
+18-Volt,Mona,Friend
+18-Volt,Penny Crygor,Friend
+18-Volt,Red,Friend
+18-Volt,13-Amp,Enemy
+Zoda,Black Shadow,Friend
+Zoda,Captain Falcon,Enemy
+Zoda,Jack Levin,Enemy
+Zoda,James McCloud,Enemy
+Zoda,Lily Flyer,Enemy
+Zoda,Lisa Brilliant,Enemy
+Zoda,Lucy Liberty,Enemy
+Zoda,Luna Ryder,Enemy
+Zoda,Mrs. Arrow,Enemy
+Zoda,Rick Wheeler,Enemy
+Zoda,Samurai Goroh,Enemy
+Zoda,Super Arrow,Enemy

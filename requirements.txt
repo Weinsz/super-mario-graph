@@ -1,0 +1,12 @@
+requests
+bs4
+re
+tqdm
+urllib3
+pandas
+neo4j
+os
+time
+dotenv
+plotly
+seaborn

@@ -1,0 +1,2525 @@
+Figure,RelatedCharacter,RelationshipType,FigureSpecies,RelatedCharacterSpecies
+mario,admiral bobbery,FRIEND_WITH,Human,
+mario,birdo,FRIEND_WITH,Human,
+mario,bombette,FRIEND_WITH,Human,
+mario,bowser,FRIEND_WITH,Human,Koopa
+mario,brighton,FRIEND_WITH,Human,
+mario,cappy,FRIEND_WITH,Human,Bonneter
+mario,captain falcon,FRIEND_WITH,Human,
+mario,captain toad,FRIEND_WITH,Human,Toad
+mario,cranky kong,FRIEND_WITH,Human,Kong
+mario,diddy kong,FRIEND_WITH,Human,Kong
+mario,dixie kong,FRIEND_WITH,Human,Kong
+mario,donkey kong,FRIEND_WITH,Human,Kong
+mario,f.l.u.d.d.,FRIEND_WITH,Human,Robot
+mario,fox mccloud,FRIEND_WITH,Human,
+mario,geno,FRIEND_WITH,Human,Star
+mario,goombario,FRIEND_WITH,Human,
+mario,goombella,FRIEND_WITH,Human,
+mario,huey,FRIEND_WITH,Human,
+mario,kid,FRIEND_WITH,Human,
+mario,kirby,FRIEND_WITH,Human,Kirby
+mario,kolorado,FRIEND_WITH,Human,
+mario,kooper,FRIEND_WITH,Human,
+mario,koops,FRIEND_WITH,Human,
+mario,lady bow,FRIEND_WITH,Human,
+mario,lakilester,FRIEND_WITH,Human,Lakitu
+mario,link,FRIEND_WITH,Human,Hylian
+mario,little mac,FRIEND_WITH,Human,
+mario,luigi,FRIEND_WITH,Human,Human
+mario,luma,FRIEND_WITH,Human,
+mario,madame flurrie,FRIEND_WITH,Human,
+mario,mallow,FRIEND_WITH,Human,
+mario,mega man,FRIEND_WITH,Human,
+mario,mini-yoshi,FRIEND_WITH,Human,
+mario,mr. game & watch,FRIEND_WITH,Human,
+mario,ms. mowz,FRIEND_WITH,Human,
+mario,ness,FRIEND_WITH,Human,
+mario,pac-man,FRIEND_WITH,Human,
+mario,parakarry,FRIEND_WITH,Human,
+mario,pikachu,FRIEND_WITH,Human,
+mario,pit,FRIEND_WITH,Human,
+mario,prince florian,FRIEND_WITH,Human,
+mario,princess daisy,FRIEND_WITH,Human,Human
+mario,princess peach,FRIEND_WITH,Human,Human
+mario,professor e. gadd,FRIEND_WITH,Human,Human
+mario,rosalina,FRIEND_WITH,Human,Human
+mario,ryu,FRIEND_WITH,Human,
+mario,samus aran,FRIEND_WITH,Human,
+mario,sonic the hedgehog,FRIEND_WITH,Human,Hedgehog
+mario,starlow,FRIEND_WITH,Human,Star Sprite
+mario,sushie,FRIEND_WITH,Human,
+mario,tec-xx,FRIEND_WITH,Human,
+mario,tippi,FRIEND_WITH,Human,
+mario,toad,FRIEND_WITH,Human,Toad
+mario,toadette,FRIEND_WITH,Human,Toad
+mario,toadsworth,FRIEND_WITH,Human,Toad
+mario,undodog,FRIEND_WITH,Human,
+mario,villager,FRIEND_WITH,Human,
+mario,vivian,FRIEND_WITH,Human,
+mario,waluigi,FRIEND_WITH,Human,Human
+mario,wario,FRIEND_WITH,Human,
+mario,watt,FRIEND_WITH,Human,
+mario,yoshi,FRIEND_WITH,Human,Yoshi
+mario,zelda,FRIEND_WITH,Human,
+mario,axem rangers,ENEMY_WITH,Human,
+mario,bandit,ENEMY_WITH,Human,
+mario,beldam,ENEMY_WITH,Human,
+mario,belome,ENEMY_WITH,Human,
+mario,birdo,ENEMY_WITH,Human,
+mario,boomer,ENEMY_WITH,Human,
+mario,booster,ENEMY_WITH,Human,
+mario,bowser,ENEMY_WITH,Human,Koopa
+mario,bowser jr.,ENEMY_WITH,Human,Koopa
+mario,bowyer,ENEMY_WITH,Human,
+mario,brigadier mollosque-lanceur iii,ENEMY_WITH,Human,
+mario,cookatiel,ENEMY_WITH,Human,
+mario,count bleck,ENEMY_WITH,Human,
+mario,croco,ENEMY_WITH,Human,
+mario,crystal king,ENEMY_WITH,Human,
+mario,culex,ENEMY_WITH,Human,
+mario,donkey kong,ENEMY_WITH,Human,Kong
+mario,doopliss,ENEMY_WITH,Human,
+mario,dr. robotnik,ENEMY_WITH,Human,
+mario,exor,ENEMY_WITH,Human,
+mario,fryguy,ENEMY_WITH,Human,
+mario,ganon,ENEMY_WITH,Human,
+mario,general guy,ENEMY_WITH,Human,
+mario,goomboss,ENEMY_WITH,Human,Goomba
+mario,hammer bro,ENEMY_WITH,Human,
+mario,hariet,ENEMY_WITH,Human,
+mario,helio,ENEMY_WITH,Human,
+mario,hellen gravely,ENEMY_WITH,Human,
+mario,hooktail,ENEMY_WITH,Human,
+mario,huff n. puff,ENEMY_WITH,Human,
+mario,jr. troopa,ENEMY_WITH,Human,Koopa Troopa
+mario,kamek,ENEMY_WITH,Human,Magikoopa
+mario,kammy koopa,ENEMY_WITH,Human,Magikoopa
+mario,kent c. koopa,ENEMY_WITH,Human,
+mario,king boo,ENEMY_WITH,Human,Big Boo;Boo
+mario,knucklotec,ENEMY_WITH,Human,
+mario,koopa ao,ENEMY_WITH,Human,
+mario,koopa bros,ENEMY_WITH,Human,
+mario,kurosu,ENEMY_WITH,Human,
+mario,lava piranha,ENEMY_WITH,Human,
+mario,madame broode,ENEMY_WITH,Human,
+mario,marilyn,ENEMY_WITH,Human,
+mario,mechawiggler,ENEMY_WITH,Human,
+mario,mips,ENEMY_WITH,Human,
+mario,mouser,ENEMY_WITH,Human,Mouse
+mario,pom pom,ENEMY_WITH,Human,Boom Boom
+mario,rango,ENEMY_WITH,Human,
+mario,rawk hawk,ENEMY_WITH,Human,
+mario,rikki,ENEMY_WITH,Human,
+mario,ruined dragon,ENEMY_WITH,Human,
+mario,sabatha,ENEMY_WITH,Human,
+mario,scutlet,ENEMY_WITH,Human,
+mario,shadow queen,ENEMY_WITH,Human,
+mario,shy bandit,ENEMY_WITH,Human,
+mario,smithy,ENEMY_WITH,Human,
+mario,smorg,ENEMY_WITH,Human,
+mario,sonic the hedgehog,ENEMY_WITH,Human,Hedgehog
+mario,spewart,ENEMY_WITH,Human,
+mario,topper,ENEMY_WITH,Human,
+mario,tubba blubba,ENEMY_WITH,Human,Spike
+mario,tutankoopa,ENEMY_WITH,Human,
+mario,waluigi,ENEMY_WITH,Human,Human
+mario,wario,ENEMY_WITH,Human,
+mario,wart,ENEMY_WITH,Human,Toad
+mario,yaridovich,ENEMY_WITH,Human,
+bowser,ana,FRIEND_WITH,Koopa,
+bowser,andross,FRIEND_WITH,Koopa,
+bowser,army hammer bro,FRIEND_WITH,Koopa,
+bowser,barbara the bat,FRIEND_WITH,Koopa,
+bowser,blizzaurus,FRIEND_WITH,Koopa,
+bowser,boom boom,FRIEND_WITH,Koopa,
+bowser,bowser jr.,FRIEND_WITH,Koopa,Koopa
+bowser,broggy,FRIEND_WITH,Koopa,
+bowser,broque madame,FRIEND_WITH,Koopa,
+bowser,broque monsieur,FRIEND_WITH,Koopa,
+bowser,devil,FRIEND_WITH,Koopa,
+bowser,donkey kong,FRIEND_WITH,Koopa,Kong
+bowser,dr. robotnik,FRIEND_WITH,Koopa,
+bowser,dr. wright,FRIEND_WITH,Koopa,
+bowser,foreman spike,FRIEND_WITH,Koopa,Human
+bowser,ganon,FRIEND_WITH,Koopa,
+bowser,geno,FRIEND_WITH,Koopa,Star
+bowser,gray fox,FRIEND_WITH,Koopa,
+bowser,hammer bro,FRIEND_WITH,Koopa,
+bowser,hariet,FRIEND_WITH,Koopa,
+bowser,helirin,FRIEND_WITH,Koopa,
+bowser,iggy koopa,FRIEND_WITH,Koopa,Koopa
+bowser,isaac,FRIEND_WITH,Koopa,
+bowser,jill,FRIEND_WITH,Koopa,
+bowser,jinx,FRIEND_WITH,Koopa,
+bowser,kamek,FRIEND_WITH,Koopa,Magikoopa
+bowser,kammy koopa,FRIEND_WITH,Koopa,Magikoopa
+bowser,kat,FRIEND_WITH,Koopa,
+bowser,king bob-omb,FRIEND_WITH,Koopa,Bob-omb
+bowser,king boo,FRIEND_WITH,Koopa,Big Boo;Boo
+bowser,king tut,FRIEND_WITH,Koopa,
+bowser,knuckle joe,FRIEND_WITH,Koopa,
+bowser,koopa ao,FRIEND_WITH,Koopa,
+bowser,koopa kid,FRIEND_WITH,Koopa,
+bowser,lakitu,FRIEND_WITH,Koopa,
+bowser,larry koopa,FRIEND_WITH,Koopa,Koopa
+bowser,lemmy koopa,FRIEND_WITH,Koopa,Koopa
+bowser,little mac,FRIEND_WITH,Koopa,
+bowser,lucas,FRIEND_WITH,Koopa,
+bowser,ludwig von koopa,FRIEND_WITH,Koopa,Koopa
+bowser,m. bison,FRIEND_WITH,Koopa,
+bowser,madame broode,FRIEND_WITH,Koopa,
+bowser,mallow,FRIEND_WITH,Koopa,
+bowser,mario,FRIEND_WITH,Koopa,Human
+bowser,metal sonic,FRIEND_WITH,Koopa,
+bowser,mips,FRIEND_WITH,Koopa,
+bowser,morton koopa jr.,FRIEND_WITH,Koopa,Koopa
+bowser,mr. resetti,FRIEND_WITH,Koopa,
+bowser,neff,FRIEND_WITH,Koopa,
+bowser,nintendog,FRIEND_WITH,Koopa,
+bowser,pom pom,FRIEND_WITH,Koopa,Boom Boom
+bowser,ralph,FRIEND_WITH,Koopa,
+bowser,rango,FRIEND_WITH,Koopa,
+bowser,ray mk,FRIEND_WITH,Koopa,
+bowser,ridley,FRIEND_WITH,Koopa,
+bowser,roy koopa,FRIEND_WITH,Koopa,Koopa
+bowser,saki amamiya,FRIEND_WITH,Koopa,
+bowser,samurai goroh,FRIEND_WITH,Koopa,
+bowser,shadow the hedgehog,FRIEND_WITH,Koopa,Hedgehog
+bowser,spewart,FRIEND_WITH,Koopa,
+bowser,squirps,FRIEND_WITH,Koopa,
+bowser,starlow,FRIEND_WITH,Koopa,Star Sprite
+bowser,topper,FRIEND_WITH,Koopa,
+bowser,waluigi,FRIEND_WITH,Koopa,Human
+bowser,wario,FRIEND_WITH,Koopa,
+bowser,wendy o. koopa,FRIEND_WITH,Koopa,Koopa
+bowser,wolf o'donnell,FRIEND_WITH,Koopa,
+bowser,axem rangers,ENEMY_WITH,Koopa,
+bowser,birdo,ENEMY_WITH,Koopa,
+bowser,bombette,ENEMY_WITH,Koopa,
+bowser,boomer,ENEMY_WITH,Koopa,
+bowser,booster,ENEMY_WITH,Koopa,
+bowser,bowyer,ENEMY_WITH,Koopa,
+bowser,cackletta,ENEMY_WITH,Koopa,Beanish
+bowser,cappy,ENEMY_WITH,Koopa,Bonneter
+bowser,chef torte,ENEMY_WITH,Koopa,
+bowser,count bleck,ENEMY_WITH,Koopa,
+bowser,croco,ENEMY_WITH,Koopa,
+bowser,diddy kong,ENEMY_WITH,Koopa,Kong
+bowser,dimentio,ENEMY_WITH,Koopa,
+bowser,donkey kong,ENEMY_WITH,Koopa,Kong
+bowser,exor,ENEMY_WITH,Koopa,
+bowser,f.l.u.d.d.,ENEMY_WITH,Koopa,Robot
+bowser,fawful,ENEMY_WITH,Koopa,Beanish
+bowser,francis,ENEMY_WITH,Koopa,
+bowser,goombario,ENEMY_WITH,Koopa,
+bowser,goombella,ENEMY_WITH,Koopa,
+bowser,honey queen,ENEMY_WITH,Koopa,Honeybee
+bowser,hongo,ENEMY_WITH,Koopa,
+bowser,jonathan jones,ENEMY_WITH,Koopa,
+bowser,king croacus,ENEMY_WITH,Koopa,
+bowser,koopa kid,ENEMY_WITH,Koopa,
+bowser,kooper,ENEMY_WITH,Koopa,
+bowser,lady bow,ENEMY_WITH,Koopa,
+bowser,lakilester,ENEMY_WITH,Koopa,Lakitu
+bowser,link,ENEMY_WITH,Koopa,Hylian
+bowser,lubba,ENEMY_WITH,Koopa,
+bowser,lucario,ENEMY_WITH,Koopa,
+bowser,luigi,ENEMY_WITH,Koopa,Human
+bowser,luma,ENEMY_WITH,Koopa,
+bowser,mailtoad,ENEMY_WITH,Koopa,
+bowser,mario,ENEMY_WITH,Koopa,Human
+bowser,mega man,ENEMY_WITH,Koopa,
+bowser,midbus,ENEMY_WITH,Koopa,
+bowser,mimi,ENEMY_WITH,Koopa,
+bowser,ms. mowz,ENEMY_WITH,Koopa,
+bowser,nastasia,ENEMY_WITH,Koopa,
+bowser,o'chunks,ENEMY_WITH,Koopa,
+bowser,parakarry,ENEMY_WITH,Koopa,
+bowser,pennington,ENEMY_WITH,Koopa,
+bowser,poochy,ENEMY_WITH,Koopa,
+bowser,prince florian,ENEMY_WITH,Koopa,
+bowser,prince peasley,ENEMY_WITH,Koopa,
+bowser,princess daisy,ENEMY_WITH,Koopa,Human
+bowser,princess peach,ENEMY_WITH,Koopa,Human
+bowser,professor e. gadd,ENEMY_WITH,Koopa,Human
+bowser,queen bean,ENEMY_WITH,Koopa,
+bowser,r.o.b.,ENEMY_WITH,Koopa,Robot
+bowser,rosalina,ENEMY_WITH,Koopa,Human
+bowser,shadow the hedgehog,ENEMY_WITH,Koopa,Hedgehog
+bowser,smithy,ENEMY_WITH,Koopa,
+bowser,sonic the hedgehog,ENEMY_WITH,Koopa,Hedgehog
+bowser,sushie,ENEMY_WITH,Koopa,
+bowser,tabuu,ENEMY_WITH,Koopa,
+bowser,the kid,ENEMY_WITH,Koopa,
+bowser,tiara,ENEMY_WITH,Koopa,
+bowser,toad,ENEMY_WITH,Koopa,Toad
+bowser,toadette,ENEMY_WITH,Koopa,Toad
+bowser,toadsworth,ENEMY_WITH,Koopa,Toad
+bowser,valentina,ENEMY_WITH,Koopa,
+bowser,wario,ENEMY_WITH,Koopa,
+bowser,watt,ENEMY_WITH,Koopa,
+bowser,wolf o'donnell,ENEMY_WITH,Koopa,
+bowser,yaridovich,ENEMY_WITH,Koopa,
+bowser,yoshi,ENEMY_WITH,Koopa,Yoshi
+luigi,admiral bobbery,FRIEND_WITH,Human,
+luigi,ana,FRIEND_WITH,Human,
+luigi,andross,FRIEND_WITH,Human,
+luigi,barbara the bat,FRIEND_WITH,Human,
+luigi,barry,FRIEND_WITH,Human,
+luigi,boomer,FRIEND_WITH,Human,
+luigi,brighton,FRIEND_WITH,Human,
+luigi,carrie,FRIEND_WITH,Human,
+luigi,cudge,FRIEND_WITH,Human,
+luigi,dashell,FRIEND_WITH,Human,
+luigi,devil,FRIEND_WITH,Human,
+luigi,donkey kong,FRIEND_WITH,Human,Kong
+luigi,dottie,FRIEND_WITH,Human,
+luigi,dr. wright,FRIEND_WITH,Human,
+luigi,fleep,FRIEND_WITH,Human,
+luigi,fluzzard,FRIEND_WITH,Human,
+luigi,gray fox,FRIEND_WITH,Human,
+luigi,guppy,FRIEND_WITH,Human,
+luigi,hammer bro,FRIEND_WITH,Human,
+luigi,helirin,FRIEND_WITH,Human,
+luigi,honey queen,FRIEND_WITH,Human,Honeybee
+luigi,isaac,FRIEND_WITH,Human,
+luigi,jill,FRIEND_WITH,Human,
+luigi,kat,FRIEND_WITH,Human,
+luigi,knuckle joe,FRIEND_WITH,Human,
+luigi,lakitu,FRIEND_WITH,Human,
+luigi,lakitu bros,FRIEND_WITH,Human,
+luigi,little mac,FRIEND_WITH,Human,
+luigi,lubba,FRIEND_WITH,Human,
+luigi,lucas,FRIEND_WITH,Human,
+luigi,luma,FRIEND_WITH,Human,
+luigi,mailtoad,FRIEND_WITH,Human,
+luigi,mario,FRIEND_WITH,Human,Human
+luigi,mr. resetti,FRIEND_WITH,Human,
+luigi,nintendog,FRIEND_WITH,Human,
+luigi,pac-man,FRIEND_WITH,Human,
+luigi,pennington,FRIEND_WITH,Human,
+luigi,piccolo,FRIEND_WITH,Human,
+luigi,prince florian,FRIEND_WITH,Human,
+luigi,prince peasley,FRIEND_WITH,Human,
+luigi,princess daisy,FRIEND_WITH,Human,Human
+luigi,princess peach,FRIEND_WITH,Human,Human
+luigi,professor e. gadd,FRIEND_WITH,Human,Human
+luigi,queen bean,FRIEND_WITH,Human,
+luigi,r.o.b.,FRIEND_WITH,Human,Robot
+luigi,ray mk,FRIEND_WITH,Human,
+luigi,rosalina,FRIEND_WITH,Human,Human
+luigi,saki amamiya,FRIEND_WITH,Human,
+luigi,samurai goroh,FRIEND_WITH,Human,
+luigi,shadow the hedgehog,FRIEND_WITH,Human,Hedgehog
+luigi,slim,FRIEND_WITH,Human,
+luigi,starfy,FRIEND_WITH,Human,
+luigi,starlow,FRIEND_WITH,Human,Star Sprite
+luigi,the chimp,FRIEND_WITH,Human,
+luigi,thoreau,FRIEND_WITH,Human,
+luigi,thudley,FRIEND_WITH,Human,
+luigi,tingle,FRIEND_WITH,Human,
+luigi,tippi,FRIEND_WITH,Human,
+luigi,tiptron,FRIEND_WITH,Human,
+luigi,toad,FRIEND_WITH,Human,Toad
+luigi,toadbert,FRIEND_WITH,Human,
+luigi,toadette,FRIEND_WITH,Human,Toad
+luigi,toadsworth,FRIEND_WITH,Human,Toad
+luigi,waluigi,FRIEND_WITH,Human,Human
+luigi,wario,FRIEND_WITH,Human,
+luigi,wolf o'donnell,FRIEND_WITH,Human,
+luigi,yoshi,FRIEND_WITH,Human,Yoshi
+luigi,andross,ENEMY_WITH,Human,
+luigi,army hammer bro,ENEMY_WITH,Human,
+luigi,birdo,ENEMY_WITH,Human,
+luigi,blargg,ENEMY_WITH,Human,
+luigi,blizzaurus,ENEMY_WITH,Human,
+luigi,boom boom,ENEMY_WITH,Human,
+luigi,bowser,ENEMY_WITH,Human,Koopa
+luigi,bowser jr.,ENEMY_WITH,Human,Koopa
+luigi,broggy,ENEMY_WITH,Human,
+luigi,cackletta,ENEMY_WITH,Human,Beanish
+luigi,chauncey,ENEMY_WITH,Human,
+luigi,clawgrip,ENEMY_WITH,Human,Sidestepper
+luigi,count bleck,ENEMY_WITH,Human,
+luigi,crazy hand,ENEMY_WITH,Human,
+luigi,dimentio,ENEMY_WITH,Human,
+luigi,dr. robotnik,ENEMY_WITH,Human,
+luigi,fawful,ENEMY_WITH,Human,Beanish
+luigi,foreman spike,ENEMY_WITH,Human,Human
+luigi,fryguy,ENEMY_WITH,Human,
+luigi,guppy,ENEMY_WITH,Human,
+luigi,hammer bro,ENEMY_WITH,Human,
+luigi,hellen gravely,ENEMY_WITH,Human,
+luigi,iggy koopa,ENEMY_WITH,Human,Koopa
+luigi,kamek,ENEMY_WITH,Human,Magikoopa
+luigi,king bob-omb,ENEMY_WITH,Human,Bob-omb
+luigi,king boo,ENEMY_WITH,Human,Big Boo;Boo
+luigi,koopa ao,ENEMY_WITH,Human,
+luigi,koopa kid,ENEMY_WITH,Human,
+luigi,koopa the quick,ENEMY_WITH,Human,
+luigi,l33t hamm3r broz.,ENEMY_WITH,Human,
+luigi,lakitu,ENEMY_WITH,Human,
+luigi,larry koopa,ENEMY_WITH,Human,Koopa
+luigi,lemmy koopa,ENEMY_WITH,Human,Koopa
+luigi,ludwig von koopa,ENEMY_WITH,Human,Koopa
+luigi,lydia,ENEMY_WITH,Human,
+luigi,master hand,ENEMY_WITH,Human,
+luigi,monty mole,ENEMY_WITH,Human,
+luigi,morton koopa jr.,ENEMY_WITH,Human,Koopa
+luigi,mouser,ENEMY_WITH,Human,Mouse
+luigi,nastasia,ENEMY_WITH,Human,
+luigi,neville,ENEMY_WITH,Human,
+luigi,o'chunks,ENEMY_WITH,Human,
+luigi,petey piranha,ENEMY_WITH,Human,Piranha Plant
+luigi,pom pom,ENEMY_WITH,Human,Boom Boom
+luigi,popple,ENEMY_WITH,Human,
+luigi,princess shroob,ENEMY_WITH,Human,Shroob
+luigi,roy koopa,ENEMY_WITH,Human,Koopa
+luigi,sandbag,ENEMY_WITH,Human,
+luigi,scutlet,ENEMY_WITH,Human,
+luigi,tabuu,ENEMY_WITH,Human,
+luigi,tryclyde,ENEMY_WITH,Human,Cobrat
+luigi,waluigi,ENEMY_WITH,Human,Human
+luigi,wario,ENEMY_WITH,Human,
+luigi,wart,ENEMY_WITH,Human,Toad
+luigi,wendy o. koopa,ENEMY_WITH,Human,Koopa
+luigi,yoob,ENEMY_WITH,Human,
+wario,9-volt,FRIEND_WITH,,Human
+wario,ana,FRIEND_WITH,,
+wario,andross,FRIEND_WITH,,
+wario,ashley,FRIEND_WITH,,Human
+wario,barbara the bat,FRIEND_WITH,,
+wario,bowser,FRIEND_WITH,,Koopa
+wario,captain falcon,FRIEND_WITH,,
+wario,captain olimar,FRIEND_WITH,,
+wario,devil,FRIEND_WITH,,
+wario,diddy kong,FRIEND_WITH,,Kong
+wario,donkey kong,FRIEND_WITH,,Kong
+wario,dr. arewonstein,FRIEND_WITH,,
+wario,dr. crygor,FRIEND_WITH,,Human
+wario,dr. wright,FRIEND_WITH,,
+wario,falco lombardi,FRIEND_WITH,,
+wario,fox mccloud,FRIEND_WITH,,
+wario,ganon,FRIEND_WITH,,
+wario,goodstyle,FRIEND_WITH,,
+wario,gray fox,FRIEND_WITH,,
+wario,hammer bro,FRIEND_WITH,,
+wario,helirin,FRIEND_WITH,,
+wario,honey queen,FRIEND_WITH,,Honeybee
+wario,ice climbers,FRIEND_WITH,,
+wario,ike,FRIEND_WITH,,
+wario,isaac,FRIEND_WITH,,
+wario,jigglypuff,FRIEND_WITH,,
+wario,jill,FRIEND_WITH,,
+wario,jimmy t,FRIEND_WITH,,Human
+wario,kat,FRIEND_WITH,,
+wario,king dedede,FRIEND_WITH,,
+wario,kirby,FRIEND_WITH,,Kirby
+wario,knuckle joe,FRIEND_WITH,,
+wario,lakitu,FRIEND_WITH,,
+wario,lakitu bros,FRIEND_WITH,,
+wario,little mac,FRIEND_WITH,,
+wario,lucas,FRIEND_WITH,,
+wario,luigi,FRIEND_WITH,,Human
+wario,mario,FRIEND_WITH,,Human
+wario,marth,FRIEND_WITH,,
+wario,meta knight,FRIEND_WITH,,
+wario,mewtwo,FRIEND_WITH,,
+wario,mike,FRIEND_WITH,,
+wario,mona,FRIEND_WITH,,Human
+wario,mr. game & watch,FRIEND_WITH,,
+wario,mr. resetti,FRIEND_WITH,,
+wario,nintendog,FRIEND_WITH,,
+wario,orbulon,FRIEND_WITH,,
+wario,pac-man,FRIEND_WITH,,
+wario,penny crygor,FRIEND_WITH,,
+wario,pikachu,FRIEND_WITH,,
+wario,pit,FRIEND_WITH,,
+wario,princess daisy,FRIEND_WITH,,Human
+wario,princess peach,FRIEND_WITH,,Human
+wario,princess shokora,FRIEND_WITH,,
+wario,queen merelda,FRIEND_WITH,,
+wario,r.o.b.,FRIEND_WITH,,Robot
+wario,ray mk,FRIEND_WITH,,
+wario,red,FRIEND_WITH,,
+wario,saki amamiya,FRIEND_WITH,,
+wario,samurai goroh,FRIEND_WITH,,
+wario,shadow the hedgehog,FRIEND_WITH,,Hedgehog
+wario,spitz,FRIEND_WITH,,
+wario,starfy,FRIEND_WITH,,
+wario,tatanga,FRIEND_WITH,,Alien
+wario,tingle,FRIEND_WITH,,
+wario,waluigi,FRIEND_WITH,,Human
+wario,wolf o'donnell,FRIEND_WITH,,
+wario,yoshi,FRIEND_WITH,,Yoshi
+wario,young cricket,FRIEND_WITH,,Human
+wario,zelda,FRIEND_WITH,,
+wario,ball bunny,ENEMY_WITH,,
+wario,bobo,ENEMY_WITH,,
+wario,bowser,ENEMY_WITH,,Koopa
+wario,captain falcon,ENEMY_WITH,,
+wario,captain olimar,ENEMY_WITH,,
+wario,captain syrup,ENEMY_WITH,,Human
+wario,carpaccio,ENEMY_WITH,,
+wario,catbat,ENEMY_WITH,,
+wario,count cannoli,ENEMY_WITH,,
+wario,crazy hand,ENEMY_WITH,,
+wario,diddy kong,ENEMY_WITH,,Kong
+wario,donkey kong,ENEMY_WITH,,Kong
+wario,falco lombardi,ENEMY_WITH,,
+wario,fox mccloud,ENEMY_WITH,,
+wario,ganon,ENEMY_WITH,,
+wario,golden diva,ENEMY_WITH,,
+wario,helio,ENEMY_WITH,,
+wario,ice climbers,ENEMY_WITH,,
+wario,ike,ENEMY_WITH,,
+wario,jigglypuff,ENEMY_WITH,,
+wario,kamek,ENEMY_WITH,,Magikoopa
+wario,king bob-omb,ENEMY_WITH,,Bob-omb
+wario,king boo,ENEMY_WITH,,Big Boo;Boo
+wario,king dedede,ENEMY_WITH,,
+wario,kirby,ENEMY_WITH,,Kirby
+wario,koopa kid,ENEMY_WITH,,
+wario,koopa the quick,ENEMY_WITH,,
+wario,link,ENEMY_WITH,,Hylian
+wario,lucario,ENEMY_WITH,,
+wario,luigi,ENEMY_WITH,,Human
+wario,lulu,ENEMY_WITH,,
+wario,mario,ENEMY_WITH,,Human
+wario,marth,ENEMY_WITH,,
+wario,meta knight,ENEMY_WITH,,
+wario,mr. game & watch,ENEMY_WITH,,
+wario,octo,ENEMY_WITH,,
+wario,pikachu,ENEMY_WITH,,
+wario,pit,ENEMY_WITH,,
+wario,princess peach,ENEMY_WITH,,Human
+wario,r.o.b.,ENEMY_WITH,,Robot
+wario,rudy the clown,ENEMY_WITH,,
+wario,shake king,ENEMY_WITH,,
+wario,sonic the hedgehog,ENEMY_WITH,,Hedgehog
+wario,spoiled rotten,ENEMY_WITH,,
+wario,tabuu,ENEMY_WITH,,
+wario,toad,ENEMY_WITH,,Toad
+wario,wolf o'donnell,ENEMY_WITH,,
+wario,yoshi,ENEMY_WITH,,Yoshi
+toad,birdo,FRIEND_WITH,Toad,
+toad,brighton,FRIEND_WITH,Toad,
+toad,chancellor,FRIEND_WITH,Toad,
+toad,guppy,FRIEND_WITH,Toad,
+toad,honey queen,FRIEND_WITH,Toad,Honeybee
+toad,koopa kid,FRIEND_WITH,Toad,
+toad,luigi,FRIEND_WITH,Toad,Human
+toad,mailtoad,FRIEND_WITH,Toad,
+toad,mario,FRIEND_WITH,Toad,Human
+toad,mc ballyhoo and big top,FRIEND_WITH,Toad,
+toad,prince florian,FRIEND_WITH,Toad,
+toad,princess daisy,FRIEND_WITH,Toad,Human
+toad,princess peach,FRIEND_WITH,Toad,Human
+toad,professor e. gadd,FRIEND_WITH,Toad,Human
+toad,queen bean,FRIEND_WITH,Toad,
+toad,toadette,FRIEND_WITH,Toad,Toad
+toad,toadsworth,FRIEND_WITH,Toad,Toad
+toad,twila,FRIEND_WITH,Toad,
+toad,yoshi,FRIEND_WITH,Toad,Yoshi
+toad,army hammer bro,ENEMY_WITH,Toad,
+toad,birdo,ENEMY_WITH,Toad,
+toad,blizzaurus,ENEMY_WITH,Toad,
+toad,bowser,ENEMY_WITH,Toad,Koopa
+toad,bowser jr.,ENEMY_WITH,Toad,Koopa
+toad,bowyer,ENEMY_WITH,Toad,
+toad,clawgrip,ENEMY_WITH,Toad,Sidestepper
+toad,donkey kong,ENEMY_WITH,Toad,Kong
+toad,fryguy,ENEMY_WITH,Toad,
+toad,goomboss,ENEMY_WITH,Toad,Goomba
+toad,gooper blooper,ENEMY_WITH,Toad,Blooper;Poison Blooper
+toad,hammer bro,ENEMY_WITH,Toad,
+toad,hellen gravely,ENEMY_WITH,Toad,
+toad,kamek,ENEMY_WITH,Toad,Magikoopa
+toad,kammy koopa,ENEMY_WITH,Toad,Magikoopa
+toad,king bob-omb,ENEMY_WITH,Toad,Bob-omb
+toad,king boo,ENEMY_WITH,Toad,Big Boo;Boo
+toad,koopa kid,ENEMY_WITH,Toad,
+toad,lakitu,ENEMY_WITH,Toad,
+toad,lemmy koopa,ENEMY_WITH,Toad,Koopa
+toad,mouser,ENEMY_WITH,Toad,Mouse
+toad,petey piranha,ENEMY_WITH,Toad,Piranha Plant
+toad,smithy,ENEMY_WITH,Toad,
+toad,tryclyde,ENEMY_WITH,Toad,Cobrat
+toad,waluigi,ENEMY_WITH,Toad,Human
+toad,wario,ENEMY_WITH,Toad,
+toad,wart,ENEMY_WITH,Toad,Toad
+toad,yaridovich,ENEMY_WITH,Toad,
+princess peach,admiral bobbery,FRIEND_WITH,Human,
+princess peach,ana,FRIEND_WITH,Human,
+princess peach,andross,FRIEND_WITH,Human,
+princess peach,barbara the bat,FRIEND_WITH,Human,
+princess peach,barry,FRIEND_WITH,Human,
+princess peach,birdo,FRIEND_WITH,Human,
+princess peach,boomer,FRIEND_WITH,Human,
+princess peach,brighton,FRIEND_WITH,Human,
+princess peach,carrie,FRIEND_WITH,Human,
+princess peach,chancellor,FRIEND_WITH,Human,
+princess peach,cudge,FRIEND_WITH,Human,
+princess peach,dashell,FRIEND_WITH,Human,
+princess peach,devil,FRIEND_WITH,Human,
+princess peach,donkey kong,FRIEND_WITH,Human,Kong
+princess peach,dottie,FRIEND_WITH,Human,
+princess peach,dr. wright,FRIEND_WITH,Human,
+princess peach,fleep,FRIEND_WITH,Human,
+princess peach,francis,FRIEND_WITH,Human,
+princess peach,frogfucious,FRIEND_WITH,Human,
+princess peach,geno,FRIEND_WITH,Human,Star
+princess peach,gray fox,FRIEND_WITH,Human,
+princess peach,hammer bro,FRIEND_WITH,Human,
+princess peach,helirin,FRIEND_WITH,Human,
+princess peach,honey queen,FRIEND_WITH,Human,Honeybee
+princess peach,huey,FRIEND_WITH,Human,
+princess peach,isaac,FRIEND_WITH,Human,
+princess peach,jill,FRIEND_WITH,Human,
+princess peach,jinx,FRIEND_WITH,Human,
+princess peach,kat,FRIEND_WITH,Human,
+princess peach,knuckle joe,FRIEND_WITH,Human,
+princess peach,koopa kid,FRIEND_WITH,Human,
+princess peach,lakitu,FRIEND_WITH,Human,
+princess peach,link,FRIEND_WITH,Human,Hylian
+princess peach,little mac,FRIEND_WITH,Human,
+princess peach,lucas,FRIEND_WITH,Human,
+princess peach,luigi,FRIEND_WITH,Human,Human
+princess peach,madame flurrie,FRIEND_WITH,Human,
+princess peach,mailtoad,FRIEND_WITH,Human,
+princess peach,mallow,FRIEND_WITH,Human,
+princess peach,mario,FRIEND_WITH,Human,Human
+princess peach,mc ballyhoo and big top,FRIEND_WITH,Human,
+princess peach,mr. resetti,FRIEND_WITH,Human,
+princess peach,ms. mowz,FRIEND_WITH,Human,
+princess peach,mushroom genie,FRIEND_WITH,Human,
+princess peach,nintendog,FRIEND_WITH,Human,
+princess peach,pac-man,FRIEND_WITH,Human,
+princess peach,piccolo,FRIEND_WITH,Human,
+princess peach,prince florian,FRIEND_WITH,Human,
+princess peach,prince peasley,FRIEND_WITH,Human,
+princess peach,princess daisy,FRIEND_WITH,Human,Human
+princess peach,professor e. gadd,FRIEND_WITH,Human,Human
+princess peach,queen bean,FRIEND_WITH,Human,
+princess peach,r.o.b.,FRIEND_WITH,Human,Robot
+princess peach,ray mk,FRIEND_WITH,Human,
+princess peach,saki amamiya,FRIEND_WITH,Human,
+princess peach,samurai goroh,FRIEND_WITH,Human,
+princess peach,shadow the hedgehog,FRIEND_WITH,Human,Hedgehog
+princess peach,slim,FRIEND_WITH,Human,
+princess peach,squirps,FRIEND_WITH,Human,
+princess peach,starfy,FRIEND_WITH,Human,
+princess peach,starlow,FRIEND_WITH,Human,Star Sprite
+princess peach,tec-xx,FRIEND_WITH,Human,
+princess peach,thoreau,FRIEND_WITH,Human,
+princess peach,thudley,FRIEND_WITH,Human,
+princess peach,tiara,FRIEND_WITH,Human,
+princess peach,tingle,FRIEND_WITH,Human,
+princess peach,tippi,FRIEND_WITH,Human,
+princess peach,tiptron,FRIEND_WITH,Human,
+princess peach,toad,FRIEND_WITH,Human,Toad
+princess peach,toadbert,FRIEND_WITH,Human,
+princess peach,toadette,FRIEND_WITH,Human,Toad
+princess peach,toadsworth,FRIEND_WITH,Human,Toad
+princess peach,twila,FRIEND_WITH,Human,
+princess peach,vivian,FRIEND_WITH,Human,
+princess peach,waluigi,FRIEND_WITH,Human,Human
+princess peach,wario,FRIEND_WITH,Human,
+princess peach,wolf o'donnell,FRIEND_WITH,Human,
+princess peach,yoshi,FRIEND_WITH,Human,Yoshi
+princess peach,andross,ENEMY_WITH,Human,
+princess peach,army hammer bro,ENEMY_WITH,Human,
+princess peach,axem rangers,ENEMY_WITH,Human,
+princess peach,belome,ENEMY_WITH,Human,
+princess peach,birdo,ENEMY_WITH,Human,
+princess peach,blizzaurus,ENEMY_WITH,Human,
+princess peach,boomer,ENEMY_WITH,Human,
+princess peach,booster,ENEMY_WITH,Human,
+princess peach,bowser,ENEMY_WITH,Human,Koopa
+princess peach,bowser jr.,ENEMY_WITH,Human,Koopa
+princess peach,bowyer,ENEMY_WITH,Human,
+princess peach,chef torte,ENEMY_WITH,Human,
+princess peach,clawgrip,ENEMY_WITH,Human,Sidestepper
+princess peach,count bleck,ENEMY_WITH,Human,
+princess peach,crazy hand,ENEMY_WITH,Human,
+princess peach,croco,ENEMY_WITH,Human,
+princess peach,dimentio,ENEMY_WITH,Human,
+princess peach,donkey kong,ENEMY_WITH,Human,Kong
+princess peach,exor,ENEMY_WITH,Human,
+princess peach,foreman spike,ENEMY_WITH,Human,Human
+princess peach,fryguy,ENEMY_WITH,Human,
+princess peach,hammer bro,ENEMY_WITH,Human,
+princess peach,hellen gravely,ENEMY_WITH,Human,
+princess peach,jonathan jones,ENEMY_WITH,Human,
+princess peach,kamek,ENEMY_WITH,Human,Magikoopa
+princess peach,kammy koopa,ENEMY_WITH,Human,Magikoopa
+princess peach,king bob-omb,ENEMY_WITH,Human,Bob-omb
+princess peach,king boo,ENEMY_WITH,Human,Big Boo;Boo
+princess peach,king croacus,ENEMY_WITH,Human,
+princess peach,koopa kid,ENEMY_WITH,Human,
+princess peach,lakitu,ENEMY_WITH,Human,
+princess peach,lemmy koopa,ENEMY_WITH,Human,Koopa
+princess peach,link,ENEMY_WITH,Human,Hylian
+princess peach,lucario,ENEMY_WITH,Human,
+princess peach,master hand,ENEMY_WITH,Human,
+princess peach,mimi,ENEMY_WITH,Human,
+princess peach,mouser,ENEMY_WITH,Human,Mouse
+princess peach,nastasia,ENEMY_WITH,Human,
+princess peach,o'chunks,ENEMY_WITH,Human,
+princess peach,petey piranha,ENEMY_WITH,Human,Piranha Plant
+princess peach,popple,ENEMY_WITH,Human,
+princess peach,princess shroob,ENEMY_WITH,Human,Shroob
+princess peach,r.o.b.,ENEMY_WITH,Human,Robot
+princess peach,roy koopa,ENEMY_WITH,Human,Koopa
+princess peach,sandbag,ENEMY_WITH,Human,
+princess peach,shadow queen,ENEMY_WITH,Human,
+princess peach,smithy,ENEMY_WITH,Human,
+princess peach,sonic the hedgehog,ENEMY_WITH,Human,Hedgehog
+princess peach,tabuu,ENEMY_WITH,Human,
+princess peach,tryclyde,ENEMY_WITH,Human,Cobrat
+princess peach,tubba blubba,ENEMY_WITH,Human,Spike
+princess peach,valentina,ENEMY_WITH,Human,
+princess peach,wario,ENEMY_WITH,Human,
+princess peach,wart,ENEMY_WITH,Human,Toad
+princess peach,wolf o'donnell,ENEMY_WITH,Human,
+princess peach,yaridovich,ENEMY_WITH,Human,
+princess daisy,amy rose,FRIEND_WITH,Human,
+princess daisy,birdo,FRIEND_WITH,Human,
+princess daisy,blaze the cat,FRIEND_WITH,Human,Cat
+princess daisy,cheese the chao,FRIEND_WITH,Human,
+princess daisy,cream the rabbit,FRIEND_WITH,Human,
+princess daisy,donkey kong,FRIEND_WITH,Human,Kong
+princess daisy,honey queen,FRIEND_WITH,Human,Honeybee
+princess daisy,knuckles,FRIEND_WITH,Human,
+princess daisy,luigi,FRIEND_WITH,Human,Human
+princess daisy,luma,FRIEND_WITH,Human,
+princess daisy,mario,FRIEND_WITH,Human,Human
+princess daisy,prince florian,FRIEND_WITH,Human,
+princess daisy,princess peach,FRIEND_WITH,Human,Human
+princess daisy,rosalina,FRIEND_WITH,Human,Human
+princess daisy,rouge the bat,FRIEND_WITH,Human,
+princess daisy,shadow the hedgehog,FRIEND_WITH,Human,Hedgehog
+princess daisy,silver the hedgehog,FRIEND_WITH,Human,
+princess daisy,sonic the hedgehog,FRIEND_WITH,Human,Hedgehog
+princess daisy,tails,FRIEND_WITH,Human,
+princess daisy,toad,FRIEND_WITH,Human,Toad
+princess daisy,toadette,FRIEND_WITH,Human,Toad
+princess daisy,waluigi,FRIEND_WITH,Human,Human
+princess daisy,wario,FRIEND_WITH,Human,
+princess daisy,yoshi,FRIEND_WITH,Human,Yoshi
+princess daisy,bowser,ENEMY_WITH,Human,Koopa
+princess daisy,bowser jr.,ENEMY_WITH,Human,Koopa
+princess daisy,dr. robotnik,ENEMY_WITH,Human,
+princess daisy,eggman nega,ENEMY_WITH,Human,Human
+princess daisy,kamek,ENEMY_WITH,Human,Magikoopa
+princess daisy,king bob-omb,ENEMY_WITH,Human,Bob-omb
+princess daisy,king boo,ENEMY_WITH,Human,Big Boo;Boo
+princess daisy,koopa kid,ENEMY_WITH,Human,
+princess daisy,metal sonic,ENEMY_WITH,Human,
+princess daisy,tatanga,ENEMY_WITH,Human,Alien
+yoshi,admiral bobbery,FRIEND_WITH,Yoshi,
+yoshi,ana,FRIEND_WITH,Yoshi,
+yoshi,andross,FRIEND_WITH,Yoshi,
+yoshi,barbara the bat,FRIEND_WITH,Yoshi,
+yoshi,birdo,FRIEND_WITH,Yoshi,
+yoshi,bowser,FRIEND_WITH,Yoshi,Koopa
+yoshi,brighton,FRIEND_WITH,Yoshi,
+yoshi,captain falcon,FRIEND_WITH,Yoshi,
+yoshi,captain olimar,FRIEND_WITH,Yoshi,
+yoshi,devil,FRIEND_WITH,Yoshi,
+yoshi,diddy kong,FRIEND_WITH,Yoshi,Kong
+yoshi,donkey kong,FRIEND_WITH,Yoshi,Kong
+yoshi,dr. wright,FRIEND_WITH,Yoshi,
+yoshi,falco lombardi,FRIEND_WITH,Yoshi,
+yoshi,fox mccloud,FRIEND_WITH,Yoshi,
+yoshi,ganon,FRIEND_WITH,Yoshi,
+yoshi,goombella,FRIEND_WITH,Yoshi,
+yoshi,gray fox,FRIEND_WITH,Yoshi,
+yoshi,hammer bro,FRIEND_WITH,Yoshi,
+yoshi,helirin,FRIEND_WITH,Yoshi,
+yoshi,honey queen,FRIEND_WITH,Yoshi,Honeybee
+yoshi,ice climbers,FRIEND_WITH,Yoshi,
+yoshi,ike,FRIEND_WITH,Yoshi,
+yoshi,isaac,FRIEND_WITH,Yoshi,
+yoshi,jigglypuff,FRIEND_WITH,Yoshi,
+yoshi,jill,FRIEND_WITH,Yoshi,
+yoshi,jolene,FRIEND_WITH,Yoshi,
+yoshi,kat,FRIEND_WITH,Yoshi,
+yoshi,king dedede,FRIEND_WITH,Yoshi,
+yoshi,kirby,FRIEND_WITH,Yoshi,Kirby
+yoshi,knuckle joe,FRIEND_WITH,Yoshi,
+yoshi,koopa kid,FRIEND_WITH,Yoshi,
+yoshi,lakitu,FRIEND_WITH,Yoshi,
+yoshi,lakitu bros,FRIEND_WITH,Yoshi,
+yoshi,link,FRIEND_WITH,Yoshi,Hylian
+yoshi,little mac,FRIEND_WITH,Yoshi,
+yoshi,lubba,FRIEND_WITH,Yoshi,
+yoshi,lucas,FRIEND_WITH,Yoshi,
+yoshi,luigi,FRIEND_WITH,Yoshi,Human
+yoshi,madame flurrie,FRIEND_WITH,Yoshi,
+yoshi,mario,FRIEND_WITH,Yoshi,Human
+yoshi,marth,FRIEND_WITH,Yoshi,
+yoshi,mc ballyhoo and big top,FRIEND_WITH,Yoshi,
+yoshi,meta knight,FRIEND_WITH,Yoshi,
+yoshi,mewtwo,FRIEND_WITH,Yoshi,
+yoshi,mr. game & watch,FRIEND_WITH,Yoshi,
+yoshi,mr. resetti,FRIEND_WITH,Yoshi,
+yoshi,mushroom genie,FRIEND_WITH,Yoshi,
+yoshi,nintendog,FRIEND_WITH,Yoshi,
+yoshi,pichu,FRIEND_WITH,Yoshi,
+yoshi,pikachu,FRIEND_WITH,Yoshi,
+yoshi,pit,FRIEND_WITH,Yoshi,
+yoshi,poochy,FRIEND_WITH,Yoshi,
+yoshi,prince florian,FRIEND_WITH,Yoshi,
+yoshi,princess daisy,FRIEND_WITH,Yoshi,Human
+yoshi,princess peach,FRIEND_WITH,Yoshi,Human
+yoshi,queen bean,FRIEND_WITH,Yoshi,
+yoshi,r.o.b.,FRIEND_WITH,Yoshi,Robot
+yoshi,ray mk,FRIEND_WITH,Yoshi,
+yoshi,roy,FRIEND_WITH,Yoshi,Koopa
+yoshi,saki amamiya,FRIEND_WITH,Yoshi,
+yoshi,samurai goroh,FRIEND_WITH,Yoshi,
+yoshi,shadow the hedgehog,FRIEND_WITH,Yoshi,Hedgehog
+yoshi,spirit of cuteness,FRIEND_WITH,Yoshi,
+yoshi,spirit of fright,FRIEND_WITH,Yoshi,
+yoshi,spirit of kindness,FRIEND_WITH,Yoshi,
+yoshi,spirit of money,FRIEND_WITH,Yoshi,
+yoshi,spirit of power,FRIEND_WITH,Yoshi,
+yoshi,spirit of speed,FRIEND_WITH,Yoshi,
+yoshi,spirit who loves surprises,FRIEND_WITH,Yoshi,
+yoshi,starfy,FRIEND_WITH,Yoshi,
+yoshi,tingle,FRIEND_WITH,Yoshi,
+yoshi,toad,FRIEND_WITH,Yoshi,Toad
+yoshi,toadette,FRIEND_WITH,Yoshi,Toad
+yoshi,toadsworth,FRIEND_WITH,Yoshi,Toad
+yoshi,twila,FRIEND_WITH,Yoshi,
+yoshi,waluigi,FRIEND_WITH,Yoshi,Human
+yoshi,wario,FRIEND_WITH,Yoshi,
+yoshi,wolf o'donnell,FRIEND_WITH,Yoshi,
+yoshi,zelda,FRIEND_WITH,Yoshi,
+yoshi,andross,ENEMY_WITH,Yoshi,
+yoshi,bandit,ENEMY_WITH,Yoshi,
+yoshi,berserker,ENEMY_WITH,Yoshi,
+yoshi,bigger boo,ENEMY_WITH,Yoshi,
+yoshi,blargg,ENEMY_WITH,Yoshi,
+yoshi,boshi,ENEMY_WITH,Yoshi,
+yoshi,bowser,ENEMY_WITH,Yoshi,Koopa
+yoshi,bowser jr.,ENEMY_WITH,Yoshi,Koopa
+yoshi,burt the bashful,ENEMY_WITH,Yoshi,
+yoshi,captain falcon,ENEMY_WITH,Yoshi,
+yoshi,captain olimar,ENEMY_WITH,Yoshi,
+yoshi,diddy kong,ENEMY_WITH,Yoshi,Kong
+yoshi,donkey kong,ENEMY_WITH,Yoshi,Kong
+yoshi,falco lombardi,ENEMY_WITH,Yoshi,
+yoshi,fox mccloud,ENEMY_WITH,Yoshi,
+yoshi,ganon,ENEMY_WITH,Yoshi,
+yoshi,goomboss,ENEMY_WITH,Yoshi,Goomba
+yoshi,hookbill the koopa,ENEMY_WITH,Yoshi,
+yoshi,ice climbers,ENEMY_WITH,Yoshi,
+yoshi,ike,ENEMY_WITH,Yoshi,
+yoshi,inviso,ENEMY_WITH,Yoshi,
+yoshi,jigglypuff,ENEMY_WITH,Yoshi,
+yoshi,kamek,ENEMY_WITH,Yoshi,Magikoopa
+yoshi,kammy koopa,ENEMY_WITH,Yoshi,Magikoopa
+yoshi,king bob-omb,ENEMY_WITH,Yoshi,Bob-omb
+yoshi,king boo,ENEMY_WITH,Yoshi,Big Boo;Boo
+yoshi,king dedede,ENEMY_WITH,Yoshi,
+yoshi,kirby,ENEMY_WITH,Yoshi,Kirby
+yoshi,koopa kid,ENEMY_WITH,Yoshi,
+yoshi,koopa the quick,ENEMY_WITH,Yoshi,
+yoshi,lakitu,ENEMY_WITH,Yoshi,
+yoshi,lemmy koopa,ENEMY_WITH,Yoshi,Koopa
+yoshi,link,ENEMY_WITH,Yoshi,Hylian
+yoshi,lucario,ENEMY_WITH,Yoshi,
+yoshi,marching milde,ENEMY_WITH,Yoshi,
+yoshi,marilyn,ENEMY_WITH,Yoshi,
+yoshi,marth,ENEMY_WITH,Yoshi,
+yoshi,master hand,ENEMY_WITH,Yoshi,
+yoshi,meta knight,ENEMY_WITH,Yoshi,
+yoshi,mewtwo,ENEMY_WITH,Yoshi,
+yoshi,mr. game & watch,ENEMY_WITH,Yoshi,
+yoshi,naval piranha,ENEMY_WITH,Yoshi,
+yoshi,pak e. derm,ENEMY_WITH,Yoshi,Elephant
+yoshi,pichu,ENEMY_WITH,Yoshi,
+yoshi,pikachu,ENEMY_WITH,Yoshi,
+yoshi,pit,ENEMY_WITH,Yoshi,
+yoshi,princess peach,ENEMY_WITH,Yoshi,Human
+yoshi,private goomp,ENEMY_WITH,Yoshi,
+yoshi,r.o.b.,ENEMY_WITH,Yoshi,Robot
+yoshi,raphael the raven,ENEMY_WITH,Yoshi,Raven
+yoshi,rawk hawk,ENEMY_WITH,Yoshi,
+yoshi,roger the potted ghost,ENEMY_WITH,Yoshi,
+yoshi,roy,ENEMY_WITH,Yoshi,Koopa
+yoshi,salvo the slime,ENEMY_WITH,Yoshi,Slime Drop
+yoshi,sandbag,ENEMY_WITH,Yoshi,
+yoshi,shadow queen,ENEMY_WITH,Yoshi,
+yoshi,sluggy the unshaven,ENEMY_WITH,Yoshi,
+yoshi,smorg,ENEMY_WITH,Yoshi,
+yoshi,sonic the hedgehog,ENEMY_WITH,Yoshi,Hedgehog
+yoshi,tabuu,ENEMY_WITH,Yoshi,
+yoshi,tap-tap the red nose,ENEMY_WITH,Yoshi,
+yoshi,wario,ENEMY_WITH,Yoshi,
+yoshi,wolf o'donnell,ENEMY_WITH,Yoshi,
+yoshi,yoob,ENEMY_WITH,Yoshi,
+waluigi,bowser,FRIEND_WITH,Human,Koopa
+waluigi,captain falcon,FRIEND_WITH,Human,
+waluigi,captain olimar,FRIEND_WITH,Human,
+waluigi,diddy kong,FRIEND_WITH,Human,Kong
+waluigi,donkey kong,FRIEND_WITH,Human,Kong
+waluigi,falco lombardi,FRIEND_WITH,Human,
+waluigi,fox mccloud,FRIEND_WITH,Human,
+waluigi,ganon,FRIEND_WITH,Human,
+waluigi,ice climbers,FRIEND_WITH,Human,
+waluigi,ike,FRIEND_WITH,Human,
+waluigi,jigglypuff,FRIEND_WITH,Human,
+waluigi,king dedede,FRIEND_WITH,Human,
+waluigi,kirby,FRIEND_WITH,Human,Kirby
+waluigi,koopa kid,FRIEND_WITH,Human,
+waluigi,lucas,FRIEND_WITH,Human,
+waluigi,luigi,FRIEND_WITH,Human,Human
+waluigi,mario,FRIEND_WITH,Human,Human
+waluigi,marth,FRIEND_WITH,Human,
+waluigi,meta knight,FRIEND_WITH,Human,
+waluigi,mr. game & watch,FRIEND_WITH,Human,
+waluigi,mushroom genie,FRIEND_WITH,Human,
+waluigi,pac-man,FRIEND_WITH,Human,
+waluigi,pikachu,FRIEND_WITH,Human,
+waluigi,pit,FRIEND_WITH,Human,
+waluigi,princess daisy,FRIEND_WITH,Human,Human
+waluigi,princess peach,FRIEND_WITH,Human,Human
+waluigi,r.o.b.,FRIEND_WITH,Human,Robot
+waluigi,wario,FRIEND_WITH,Human,
+waluigi,wolf o'donnell,FRIEND_WITH,Human,
+waluigi,yoshi,FRIEND_WITH,Human,Yoshi
+waluigi,zelda,FRIEND_WITH,Human,
+waluigi,diddy kong,ENEMY_WITH,Human,Kong
+waluigi,kamek,ENEMY_WITH,Human,Magikoopa
+waluigi,king bob-omb,ENEMY_WITH,Human,Bob-omb
+waluigi,king boo,ENEMY_WITH,Human,Big Boo;Boo
+waluigi,koopa kid,ENEMY_WITH,Human,
+waluigi,luigi,ENEMY_WITH,Human,Human
+waluigi,mario,ENEMY_WITH,Human,Human
+waluigi,toad,ENEMY_WITH,Human,Toad
+wart,birdo,FRIEND_WITH,Toad,
+wart,clawgrip,FRIEND_WITH,Toad,Sidestepper
+wart,fryguy,FRIEND_WITH,Toad,
+wart,link,FRIEND_WITH,Toad,Hylian
+wart,mouser,FRIEND_WITH,Toad,Mouse
+wart,tryclyde,FRIEND_WITH,Toad,Cobrat
+wart,imajin,ENEMY_WITH,Toad,
+wart,lina,ENEMY_WITH,Toad,
+wart,luigi,ENEMY_WITH,Toad,Human
+wart,mama,ENEMY_WITH,Toad,
+wart,mario,ENEMY_WITH,Toad,Human
+wart,papa,ENEMY_WITH,Toad,
+wart,princess peach,ENEMY_WITH,Toad,Human
+wart,the kid,ENEMY_WITH,Toad,
+wart,toad,ENEMY_WITH,Toad,Toad
+bowser jr.,bowser,FRIEND_WITH,Koopa,Koopa
+bowser jr.,dr. robotnik,FRIEND_WITH,Koopa,
+bowser jr.,dr. wily,FRIEND_WITH,Koopa,
+bowser jr.,ganon,FRIEND_WITH,Koopa,
+bowser jr.,gooper blooper,FRIEND_WITH,Koopa,Blooper;Poison Blooper
+bowser jr.,iggy koopa,FRIEND_WITH,Koopa,Koopa
+bowser jr.,kamek,FRIEND_WITH,Koopa,Magikoopa
+bowser jr.,king bob-omb,FRIEND_WITH,Koopa,Bob-omb
+bowser jr.,king boo,FRIEND_WITH,Koopa,Big Boo;Boo
+bowser jr.,lakitu,FRIEND_WITH,Koopa,
+bowser jr.,larry koopa,FRIEND_WITH,Koopa,Koopa
+bowser jr.,lemmy koopa,FRIEND_WITH,Koopa,Koopa
+bowser jr.,ludwig von koopa,FRIEND_WITH,Koopa,Koopa
+bowser jr.,metal sonic,FRIEND_WITH,Koopa,
+bowser jr.,morton koopa jr.,FRIEND_WITH,Koopa,Koopa
+bowser jr.,petey piranha,FRIEND_WITH,Koopa,Piranha Plant
+bowser jr.,professor e. gadd,FRIEND_WITH,Koopa,Human
+bowser jr.,roy koopa,FRIEND_WITH,Koopa,Koopa
+bowser jr.,wendy o. koopa,FRIEND_WITH,Koopa,Koopa
+bowser jr.,birdo,ENEMY_WITH,Koopa,
+bowser jr.,diddy kong,ENEMY_WITH,Koopa,Kong
+bowser jr.,donkey kong,ENEMY_WITH,Koopa,Kong
+bowser jr.,f.l.u.d.d.,ENEMY_WITH,Koopa,Robot
+bowser jr.,honey queen,ENEMY_WITH,Koopa,Honeybee
+bowser jr.,lubba,ENEMY_WITH,Koopa,
+bowser jr.,luigi,ENEMY_WITH,Koopa,Human
+bowser jr.,luma,ENEMY_WITH,Koopa,
+bowser jr.,mario,ENEMY_WITH,Koopa,Human
+bowser jr.,prince florian,ENEMY_WITH,Koopa,
+bowser jr.,princess daisy,ENEMY_WITH,Koopa,Human
+bowser jr.,princess peach,ENEMY_WITH,Koopa,Human
+bowser jr.,professor e. gadd,ENEMY_WITH,Koopa,Human
+bowser jr.,rosalina,ENEMY_WITH,Koopa,Human
+bowser jr.,toad,ENEMY_WITH,Koopa,Toad
+bowser jr.,toadette,ENEMY_WITH,Koopa,Toad
+bowser jr.,toadsworth,ENEMY_WITH,Koopa,Toad
+bowser jr.,yoshi,ENEMY_WITH,Koopa,Yoshi
+mallow,bowser,FRIEND_WITH,,Koopa
+mallow,chancellor,FRIEND_WITH,,
+mallow,frogfucious,FRIEND_WITH,,
+mallow,geno,FRIEND_WITH,,Star
+mallow,jinx,FRIEND_WITH,,
+mallow,mario,FRIEND_WITH,,Human
+mallow,princess peach,FRIEND_WITH,,Human
+mallow,axem rangers,ENEMY_WITH,,
+mallow,belome,ENEMY_WITH,,
+mallow,birdo,ENEMY_WITH,,
+mallow,boomer,ENEMY_WITH,,
+mallow,booster,ENEMY_WITH,,
+mallow,bowyer,ENEMY_WITH,,
+mallow,chef torte,ENEMY_WITH,,
+mallow,croco,ENEMY_WITH,,
+mallow,exor,ENEMY_WITH,,
+mallow,hammer bro,ENEMY_WITH,,
+mallow,jonathan jones,ENEMY_WITH,,
+mallow,smithy,ENEMY_WITH,,
+mallow,valentina,ENEMY_WITH,,
+mallow,yaridovich,ENEMY_WITH,,
+geno,bowser,FRIEND_WITH,Star,Koopa
+geno,frogfucious,FRIEND_WITH,Star,
+geno,mallow,FRIEND_WITH,Star,
+geno,mario,FRIEND_WITH,Star,Human
+geno,princess peach,FRIEND_WITH,Star,Human
+geno,axem rangers,ENEMY_WITH,Star,
+geno,belome,ENEMY_WITH,Star,
+geno,birdo,ENEMY_WITH,Star,
+geno,boomer,ENEMY_WITH,Star,
+geno,booster,ENEMY_WITH,Star,
+geno,bowyer,ENEMY_WITH,Star,
+geno,chef torte,ENEMY_WITH,Star,
+geno,croco,ENEMY_WITH,Star,
+geno,exor,ENEMY_WITH,Star,
+geno,hammer bro,ENEMY_WITH,Star,
+geno,jonathan jones,ENEMY_WITH,Star,
+geno,smithy,ENEMY_WITH,Star,
+geno,valentina,ENEMY_WITH,Star,
+geno,yaridovich,ENEMY_WITH,Star,
+poochy,luigi,FRIEND_WITH,,Human
+poochy,mario,FRIEND_WITH,,Human
+poochy,yoshi,FRIEND_WITH,,Yoshi
+poochy,bowser,ENEMY_WITH,,Koopa
+poochy,kamek,ENEMY_WITH,,Magikoopa
+lakitu,bowser,FRIEND_WITH,,Koopa
+lakitu,bowser jr.,FRIEND_WITH,,Koopa
+lakitu,captain falcon,FRIEND_WITH,,
+lakitu,captain olimar,FRIEND_WITH,,
+lakitu,diddy kong,FRIEND_WITH,,Kong
+lakitu,donkey kong,FRIEND_WITH,,Kong
+lakitu,falco lombardi,FRIEND_WITH,,
+lakitu,fox mccloud,FRIEND_WITH,,
+lakitu,honey queen,FRIEND_WITH,,Honeybee
+lakitu,ice climbers,FRIEND_WITH,,
+lakitu,iggy koopa,FRIEND_WITH,,Koopa
+lakitu,ike,FRIEND_WITH,,
+lakitu,jigglypuff,FRIEND_WITH,,
+lakitu,kamek,FRIEND_WITH,,Magikoopa
+lakitu,king bob-omb,FRIEND_WITH,,Bob-omb
+lakitu,king dedede,FRIEND_WITH,,
+lakitu,kirby,FRIEND_WITH,,Kirby
+lakitu,lakilester,FRIEND_WITH,,Lakitu
+lakitu,larry koopa,FRIEND_WITH,,Koopa
+lakitu,lemmy koopa,FRIEND_WITH,,Koopa
+lakitu,lucas,FRIEND_WITH,,
+lakitu,ludwig von koopa,FRIEND_WITH,,Koopa
+lakitu,luigi,FRIEND_WITH,,Human
+lakitu,marth,FRIEND_WITH,,
+lakitu,meta knight,FRIEND_WITH,,
+lakitu,morton koopa jr.,FRIEND_WITH,,Koopa
+lakitu,mr. game & watch,FRIEND_WITH,,
+lakitu,pikachu,FRIEND_WITH,,
+lakitu,pit,FRIEND_WITH,,
+lakitu,princess peach,FRIEND_WITH,,Human
+lakitu,r.o.b.,FRIEND_WITH,,Robot
+lakitu,roy koopa,FRIEND_WITH,,Koopa
+lakitu,wario,FRIEND_WITH,,
+lakitu,wendy o. koopa,FRIEND_WITH,,Koopa
+lakitu,wolf o'donnell,FRIEND_WITH,,
+lakitu,yoshi,FRIEND_WITH,,Yoshi
+lakitu,zelda,FRIEND_WITH,,
+lakitu,luigi,ENEMY_WITH,,Human
+lakitu,mario,ENEMY_WITH,,Human
+lakitu,princess peach,ENEMY_WITH,,Human
+lakitu,toad,ENEMY_WITH,,Toad
+lakitu,yoshi,ENEMY_WITH,,Yoshi
+captain syrup,ball bunny,FRIEND_WITH,Human,
+captain syrup,bobo,FRIEND_WITH,Human,
+captain syrup,queen merelda,FRIEND_WITH,Human,
+captain syrup,shake king,ENEMY_WITH,Human,
+captain syrup,wario,ENEMY_WITH,Human,
+birdo,captain rainbow,FRIEND_WITH,,
+birdo,clawgrip,FRIEND_WITH,,Sidestepper
+birdo,fryguy,FRIEND_WITH,,
+birdo,mario,FRIEND_WITH,,Human
+birdo,mc ballyhoo and big top,FRIEND_WITH,,
+birdo,mouser,FRIEND_WITH,,Mouse
+birdo,popple,FRIEND_WITH,,
+birdo,princess daisy,FRIEND_WITH,,Human
+birdo,princess peach,FRIEND_WITH,,Human
+birdo,toad,FRIEND_WITH,,Toad
+birdo,toadette,FRIEND_WITH,,Toad
+birdo,tryclyde,FRIEND_WITH,,Cobrat
+birdo,wart,FRIEND_WITH,,Toad
+birdo,yoshi,FRIEND_WITH,,Yoshi
+birdo,bowser,ENEMY_WITH,,Koopa
+birdo,bowser jr.,ENEMY_WITH,,Koopa
+birdo,geno,ENEMY_WITH,,Star
+birdo,kamek,ENEMY_WITH,,Magikoopa
+birdo,king bob-omb,ENEMY_WITH,,Bob-omb
+birdo,king boo,ENEMY_WITH,,Big Boo;Boo
+birdo,koopa kid,ENEMY_WITH,,
+birdo,luigi,ENEMY_WITH,,Human
+birdo,mallow,ENEMY_WITH,,
+birdo,mappo,ENEMY_WITH,,
+birdo,mario,ENEMY_WITH,,Human
+birdo,princess peach,ENEMY_WITH,,Human
+birdo,the kid,ENEMY_WITH,,
+birdo,toad,ENEMY_WITH,,Toad
+rosalina,honey queen,FRIEND_WITH,Human,Honeybee
+rosalina,lubba,FRIEND_WITH,Human,
+rosalina,luigi,FRIEND_WITH,Human,Human
+rosalina,luma,FRIEND_WITH,Human,
+rosalina,mario,FRIEND_WITH,Human,Human
+rosalina,polari,FRIEND_WITH,Human,
+rosalina,princess daisy,FRIEND_WITH,Human,Human
+rosalina,bowser,ENEMY_WITH,Human,Koopa
+rosalina,bowser jr.,ENEMY_WITH,Human,Koopa
+toadette,birdo,FRIEND_WITH,Toad,
+toadette,brighton,FRIEND_WITH,Toad,
+toadette,koopa kid,FRIEND_WITH,Toad,
+toadette,luigi,FRIEND_WITH,Toad,Human
+toadette,mario,FRIEND_WITH,Toad,Human
+toadette,mc ballyhoo and big top,FRIEND_WITH,Toad,
+toadette,prince florian,FRIEND_WITH,Toad,
+toadette,princess daisy,FRIEND_WITH,Toad,Human
+toadette,princess peach,FRIEND_WITH,Toad,Human
+toadette,toad,FRIEND_WITH,Toad,Toad
+toadette,toadsworth,FRIEND_WITH,Toad,Toad
+toadette,twila,FRIEND_WITH,Toad,
+toadette,yoshi,FRIEND_WITH,Toad,Yoshi
+toadette,bowser,ENEMY_WITH,Toad,Koopa
+toadette,bowser jr.,ENEMY_WITH,Toad,Koopa
+toadette,kamek,ENEMY_WITH,Toad,Magikoopa
+toadette,larry koopa,ENEMY_WITH,Toad,Koopa
+toadette,lemmy koopa,ENEMY_WITH,Toad,Koopa
+toadette,ludwig von koopa,ENEMY_WITH,Toad,Koopa
+toadette,morton koopa jr.,ENEMY_WITH,Toad,Koopa
+toadette,roy koopa,ENEMY_WITH,Toad,Koopa
+toadette,wendy o. koopa,ENEMY_WITH,Toad,Koopa
+toadsworth,luigi,FRIEND_WITH,Toad,Human
+toadsworth,mario,FRIEND_WITH,Toad,Human
+toadsworth,prince peasley,FRIEND_WITH,Toad,
+toadsworth,princess peach,FRIEND_WITH,Toad,Human
+toadsworth,professor e. gadd,FRIEND_WITH,Toad,Human
+toadsworth,toad,FRIEND_WITH,Toad,Toad
+toadsworth,toadbert,FRIEND_WITH,Toad,
+toadsworth,toadette,FRIEND_WITH,Toad,Toad
+toadsworth,yoshi,FRIEND_WITH,Toad,Yoshi
+toadsworth,army hammer bro,ENEMY_WITH,Toad,
+toadsworth,bowser,ENEMY_WITH,Toad,Koopa
+toadsworth,bowser jr.,ENEMY_WITH,Toad,Koopa
+toadsworth,cackletta,ENEMY_WITH,Toad,Beanish
+toadsworth,fawful,ENEMY_WITH,Toad,Beanish
+toadsworth,king bob-omb,ENEMY_WITH,Toad,Bob-omb
+toadsworth,king boo,ENEMY_WITH,Toad,Big Boo;Boo
+toadsworth,petey piranha,ENEMY_WITH,Toad,Piranha Plant
+toadsworth,princess shroob,ENEMY_WITH,Toad,Shroob
+kamek,bandit,FRIEND_WITH,Magikoopa,
+kamek,bigger boo,FRIEND_WITH,Magikoopa,
+kamek,blizzaurus,FRIEND_WITH,Magikoopa,
+kamek,bowser,FRIEND_WITH,Magikoopa,Koopa
+kamek,bowser jr.,FRIEND_WITH,Magikoopa,Koopa
+kamek,burt the bashful,FRIEND_WITH,Magikoopa,
+kamek,hammer bro,FRIEND_WITH,Magikoopa,
+kamek,hookbill the koopa,FRIEND_WITH,Magikoopa,
+kamek,iggy koopa,FRIEND_WITH,Magikoopa,Koopa
+kamek,koopa kid,FRIEND_WITH,Magikoopa,
+kamek,lakitu,FRIEND_WITH,Magikoopa,
+kamek,larry koopa,FRIEND_WITH,Magikoopa,Koopa
+kamek,lemmy koopa,FRIEND_WITH,Magikoopa,Koopa
+kamek,ludwig von koopa,FRIEND_WITH,Magikoopa,Koopa
+kamek,marching milde,FRIEND_WITH,Magikoopa,
+kamek,morton koopa jr.,FRIEND_WITH,Magikoopa,Koopa
+kamek,naval piranha,FRIEND_WITH,Magikoopa,
+kamek,raphael the raven,FRIEND_WITH,Magikoopa,Raven
+kamek,roger the potted ghost,FRIEND_WITH,Magikoopa,
+kamek,roy koopa,FRIEND_WITH,Magikoopa,Koopa
+kamek,salvo the slime,FRIEND_WITH,Magikoopa,Slime Drop
+kamek,sluggy the unshaven,FRIEND_WITH,Magikoopa,
+kamek,tap-tap the red nose,FRIEND_WITH,Magikoopa,
+kamek,wendy o. koopa,FRIEND_WITH,Magikoopa,Koopa
+kamek,birdo,ENEMY_WITH,Magikoopa,
+kamek,bombette,ENEMY_WITH,Magikoopa,
+kamek,donkey kong,ENEMY_WITH,Magikoopa,Kong
+kamek,goombario,ENEMY_WITH,Magikoopa,
+kamek,hammer bro,ENEMY_WITH,Magikoopa,
+kamek,kooper,ENEMY_WITH,Magikoopa,
+kamek,lady bow,ENEMY_WITH,Magikoopa,
+kamek,lakilester,ENEMY_WITH,Magikoopa,Lakitu
+kamek,luigi,ENEMY_WITH,Magikoopa,Human
+kamek,mario,ENEMY_WITH,Magikoopa,Human
+kamek,parakarry,ENEMY_WITH,Magikoopa,
+kamek,poochy,ENEMY_WITH,Magikoopa,
+kamek,princess daisy,ENEMY_WITH,Magikoopa,Human
+kamek,princess peach,ENEMY_WITH,Magikoopa,Human
+kamek,sushie,ENEMY_WITH,Magikoopa,
+kamek,toad,ENEMY_WITH,Magikoopa,Toad
+kamek,toadette,ENEMY_WITH,Magikoopa,Toad
+kamek,waluigi,ENEMY_WITH,Magikoopa,Human
+kamek,wario,ENEMY_WITH,Magikoopa,
+kamek,watt,ENEMY_WITH,Magikoopa,
+kamek,yoshi,ENEMY_WITH,Magikoopa,Yoshi
+professor e. gadd,bowser jr.,FRIEND_WITH,Human,Koopa
+professor e. gadd,f.l.u.d.d.,FRIEND_WITH,Human,Robot
+professor e. gadd,luigi,FRIEND_WITH,Human,Human
+professor e. gadd,mario,FRIEND_WITH,Human,Human
+professor e. gadd,princess peach,FRIEND_WITH,Human,Human
+professor e. gadd,queen bean,FRIEND_WITH,Human,
+professor e. gadd,robo mario,FRIEND_WITH,Human,
+professor e. gadd,toad,FRIEND_WITH,Human,Toad
+professor e. gadd,toadsworth,FRIEND_WITH,Human,Toad
+professor e. gadd,bowser,ENEMY_WITH,Human,Koopa
+professor e. gadd,bowser jr.,ENEMY_WITH,Human,Koopa
+professor e. gadd,chauncey,ENEMY_WITH,Human,
+professor e. gadd,hellen gravely,ENEMY_WITH,Human,
+professor e. gadd,king boo,ENEMY_WITH,Human,Big Boo;Boo
+professor e. gadd,lydia,ENEMY_WITH,Human,
+professor e. gadd,neville,ENEMY_WITH,Human,
+professor e. gadd,princess shroob,ENEMY_WITH,Human,Shroob
+petey piranha,blizzaurus,FRIEND_WITH,Piranha Plant,
+petey piranha,bowser jr.,FRIEND_WITH,Piranha Plant,Koopa
+petey piranha,king boo,FRIEND_WITH,Piranha Plant,Big Boo;Boo
+petey piranha,princess shroob,FRIEND_WITH,Piranha Plant,Shroob
+petey piranha,f.l.u.d.d.,ENEMY_WITH,Piranha Plant,Robot
+petey piranha,kirby,ENEMY_WITH,Piranha Plant,Kirby
+petey piranha,luigi,ENEMY_WITH,Piranha Plant,Human
+petey piranha,mario,ENEMY_WITH,Piranha Plant,Human
+petey piranha,princess peach,ENEMY_WITH,Piranha Plant,Human
+petey piranha,sonic the hedgehog,ENEMY_WITH,Piranha Plant,Hedgehog
+petey piranha,toad,ENEMY_WITH,Piranha Plant,Toad
+petey piranha,toadsworth,ENEMY_WITH,Piranha Plant,Toad
+petey piranha,zelda,ENEMY_WITH,Piranha Plant,
+ludwig von koopa,bowser,FRIEND_WITH,Koopa,Koopa
+ludwig von koopa,bowser jr.,FRIEND_WITH,Koopa,Koopa
+ludwig von koopa,hammer bro,FRIEND_WITH,Koopa,
+ludwig von koopa,iggy koopa,FRIEND_WITH,Koopa,Koopa
+ludwig von koopa,kamek,FRIEND_WITH,Koopa,Magikoopa
+ludwig von koopa,lakitu,FRIEND_WITH,Koopa,
+ludwig von koopa,larry koopa,FRIEND_WITH,Koopa,Koopa
+ludwig von koopa,lemmy koopa,FRIEND_WITH,Koopa,Koopa
+ludwig von koopa,morton koopa jr.,FRIEND_WITH,Koopa,Koopa
+ludwig von koopa,roy koopa,FRIEND_WITH,Koopa,Koopa
+ludwig von koopa,wendy o. koopa,FRIEND_WITH,Koopa,Koopa
+ludwig von koopa,luigi,ENEMY_WITH,Koopa,Human
+ludwig von koopa,mario,ENEMY_WITH,Koopa,Human
+ludwig von koopa,toadette,ENEMY_WITH,Koopa,Toad
+wendy o. koopa,bowser,FRIEND_WITH,Koopa,Koopa
+wendy o. koopa,bowser jr.,FRIEND_WITH,Koopa,Koopa
+wendy o. koopa,hammer bro,FRIEND_WITH,Koopa,
+wendy o. koopa,iggy koopa,FRIEND_WITH,Koopa,Koopa
+wendy o. koopa,kamek,FRIEND_WITH,Koopa,Magikoopa
+wendy o. koopa,lakitu,FRIEND_WITH,Koopa,
+wendy o. koopa,larry koopa,FRIEND_WITH,Koopa,Koopa
+wendy o. koopa,lemmy koopa,FRIEND_WITH,Koopa,Koopa
+wendy o. koopa,ludwig von koopa,FRIEND_WITH,Koopa,Koopa
+wendy o. koopa,morton koopa jr.,FRIEND_WITH,Koopa,Koopa
+wendy o. koopa,roy koopa,FRIEND_WITH,Koopa,Koopa
+wendy o. koopa,luigi,ENEMY_WITH,Koopa,Human
+wendy o. koopa,mario,ENEMY_WITH,Koopa,Human
+wendy o. koopa,toadette,ENEMY_WITH,Koopa,Toad
+morton koopa jr.,bowser,FRIEND_WITH,Koopa,Koopa
+morton koopa jr.,bowser jr.,FRIEND_WITH,Koopa,Koopa
+morton koopa jr.,iggy koopa,FRIEND_WITH,Koopa,Koopa
+morton koopa jr.,kamek,FRIEND_WITH,Koopa,Magikoopa
+morton koopa jr.,lakitu,FRIEND_WITH,Koopa,
+morton koopa jr.,larry koopa,FRIEND_WITH,Koopa,Koopa
+morton koopa jr.,lemmy koopa,FRIEND_WITH,Koopa,Koopa
+morton koopa jr.,ludwig von koopa,FRIEND_WITH,Koopa,Koopa
+morton koopa jr.,roy koopa,FRIEND_WITH,Koopa,Koopa
+morton koopa jr.,wendy o. koopa,FRIEND_WITH,Koopa,Koopa
+morton koopa jr.,luigi,ENEMY_WITH,Koopa,Human
+morton koopa jr.,mario,ENEMY_WITH,Koopa,Human
+morton koopa jr.,toadette,ENEMY_WITH,Koopa,Toad
+larry koopa,bowser,FRIEND_WITH,Koopa,Koopa
+larry koopa,bowser jr.,FRIEND_WITH,Koopa,Koopa
+larry koopa,hammer bro,FRIEND_WITH,Koopa,
+larry koopa,iggy koopa,FRIEND_WITH,Koopa,Koopa
+larry koopa,kamek,FRIEND_WITH,Koopa,Magikoopa
+larry koopa,lakitu,FRIEND_WITH,Koopa,
+larry koopa,lemmy koopa,FRIEND_WITH,Koopa,Koopa
+larry koopa,ludwig von koopa,FRIEND_WITH,Koopa,Koopa
+larry koopa,morton koopa jr.,FRIEND_WITH,Koopa,Koopa
+larry koopa,roy koopa,FRIEND_WITH,Koopa,Koopa
+larry koopa,wendy o. koopa,FRIEND_WITH,Koopa,Koopa
+larry koopa,luigi,ENEMY_WITH,Koopa,Human
+larry koopa,mario,ENEMY_WITH,Koopa,Human
+larry koopa,toadette,ENEMY_WITH,Koopa,Toad
+iggy koopa,bowser,FRIEND_WITH,Koopa,Koopa
+iggy koopa,bowser jr.,FRIEND_WITH,Koopa,Koopa
+iggy koopa,hammer bro,FRIEND_WITH,Koopa,
+iggy koopa,iggy pop,FRIEND_WITH,Koopa,
+iggy koopa,kamek,FRIEND_WITH,Koopa,Magikoopa
+iggy koopa,lakitu,FRIEND_WITH,Koopa,
+iggy koopa,larry koopa,FRIEND_WITH,Koopa,Koopa
+iggy koopa,lemmy koopa,FRIEND_WITH,Koopa,Koopa
+iggy koopa,ludwig von koopa,FRIEND_WITH,Koopa,Koopa
+iggy koopa,morton koopa jr.,FRIEND_WITH,Koopa,Koopa
+iggy koopa,roy koopa,FRIEND_WITH,Koopa,Koopa
+iggy koopa,wendy o. koopa,FRIEND_WITH,Koopa,Koopa
+iggy koopa,luigi,ENEMY_WITH,Koopa,Human
+iggy koopa,mario,ENEMY_WITH,Koopa,Human
+roy koopa,bowser,FRIEND_WITH,Koopa,Koopa
+roy koopa,bowser jr.,FRIEND_WITH,Koopa,Koopa
+roy koopa,iggy koopa,FRIEND_WITH,Koopa,Koopa
+roy koopa,kamek,FRIEND_WITH,Koopa,Magikoopa
+roy koopa,lakitu,FRIEND_WITH,Koopa,
+roy koopa,larry koopa,FRIEND_WITH,Koopa,Koopa
+roy koopa,lemmy koopa,FRIEND_WITH,Koopa,Koopa
+roy koopa,ludwig von koopa,FRIEND_WITH,Koopa,Koopa
+roy koopa,morton koopa jr.,FRIEND_WITH,Koopa,Koopa
+roy koopa,wendy o. koopa,FRIEND_WITH,Koopa,Koopa
+roy koopa,luigi,ENEMY_WITH,Koopa,Human
+roy koopa,mario,ENEMY_WITH,Koopa,Human
+roy koopa,princess peach,ENEMY_WITH,Koopa,Human
+roy koopa,toadette,ENEMY_WITH,Koopa,Toad
+lemmy koopa,bowser,FRIEND_WITH,Koopa,Koopa
+lemmy koopa,bowser jr.,FRIEND_WITH,Koopa,Koopa
+lemmy koopa,hammer bro,FRIEND_WITH,Koopa,
+lemmy koopa,iggy koopa,FRIEND_WITH,Koopa,Koopa
+lemmy koopa,kamek,FRIEND_WITH,Koopa,Magikoopa
+lemmy koopa,lakitu,FRIEND_WITH,Koopa,
+lemmy koopa,larry koopa,FRIEND_WITH,Koopa,Koopa
+lemmy koopa,ludwig von koopa,FRIEND_WITH,Koopa,Koopa
+lemmy koopa,morton koopa jr.,FRIEND_WITH,Koopa,Koopa
+lemmy koopa,roy koopa,FRIEND_WITH,Koopa,Koopa
+lemmy koopa,wendy o. koopa,FRIEND_WITH,Koopa,Koopa
+lemmy koopa,cackletta,ENEMY_WITH,Koopa,Beanish
+lemmy koopa,fawful,ENEMY_WITH,Koopa,Beanish
+lemmy koopa,luigi,ENEMY_WITH,Koopa,Human
+lemmy koopa,mario,ENEMY_WITH,Koopa,Human
+lemmy koopa,princess peach,ENEMY_WITH,Koopa,Human
+lemmy koopa,toad,ENEMY_WITH,Koopa,Toad
+lemmy koopa,toadette,ENEMY_WITH,Koopa,Toad
+lemmy koopa,yoshi,ENEMY_WITH,Koopa,Yoshi
+smithy,axem rangers,FRIEND_WITH,,
+smithy,bowyer,FRIEND_WITH,,
+smithy,exor,FRIEND_WITH,,
+smithy,hammer bro,FRIEND_WITH,,
+smithy,yaridovich,FRIEND_WITH,,
+smithy,bowser,ENEMY_WITH,,Koopa
+smithy,chancellor,ENEMY_WITH,,
+smithy,frogfucious,ENEMY_WITH,,
+smithy,geno,ENEMY_WITH,,Star
+smithy,mallow,ENEMY_WITH,,
+smithy,mario,ENEMY_WITH,,Human
+smithy,princess peach,ENEMY_WITH,,Human
+smithy,toad,ENEMY_WITH,,Toad
+big boo,mario,ENEMY_WITH,Big Boo;Sleepy Boo,Human
+tatanga,wario,FRIEND_WITH,Alien,
+tatanga,mario,ENEMY_WITH,Alien,Human
+tatanga,princess daisy,ENEMY_WITH,Alien,Human
+f.l.u.d.d.,mario,FRIEND_WITH,Robot,Human
+f.l.u.d.d.,professor e. gadd,FRIEND_WITH,Robot,Human
+f.l.u.d.d.,bowser,ENEMY_WITH,Robot,Koopa
+f.l.u.d.d.,bowser jr.,ENEMY_WITH,Robot,Koopa
+f.l.u.d.d.,gooper blooper,ENEMY_WITH,Robot,Blooper;Poison Blooper
+f.l.u.d.d.,petey piranha,ENEMY_WITH,Robot,Piranha Plant
+count bleck,dimentio,FRIEND_WITH,,
+count bleck,mimi,FRIEND_WITH,,
+count bleck,nastasia,FRIEND_WITH,,
+count bleck,o'chunks,FRIEND_WITH,,
+count bleck,tippi,FRIEND_WITH,,
+count bleck,barry,ENEMY_WITH,,
+count bleck,boomer,ENEMY_WITH,,
+count bleck,bowser,ENEMY_WITH,,Koopa
+count bleck,carrie,ENEMY_WITH,,
+count bleck,cudge,ENEMY_WITH,,
+count bleck,dashell,ENEMY_WITH,,
+count bleck,dimentio,ENEMY_WITH,,
+count bleck,dottie,ENEMY_WITH,,
+count bleck,fleep,ENEMY_WITH,,
+count bleck,luigi,ENEMY_WITH,,Human
+count bleck,mario,ENEMY_WITH,,Human
+count bleck,piccolo,ENEMY_WITH,,
+count bleck,princess peach,ENEMY_WITH,,Human
+count bleck,slim,ENEMY_WITH,,
+count bleck,thoreau,ENEMY_WITH,,
+count bleck,thudley,ENEMY_WITH,,
+dimentio,count bleck,FRIEND_WITH,,
+dimentio,mimi,FRIEND_WITH,,
+dimentio,nastasia,FRIEND_WITH,,
+dimentio,o'chunks,FRIEND_WITH,,
+dimentio,bowser,ENEMY_WITH,,Koopa
+dimentio,count bleck,ENEMY_WITH,,
+dimentio,luigi,ENEMY_WITH,,Human
+dimentio,mario,ENEMY_WITH,,Human
+dimentio,mimi,ENEMY_WITH,,
+dimentio,o'chunks,ENEMY_WITH,,
+dimentio,princess peach,ENEMY_WITH,,Human
+dimentio,tippi,ENEMY_WITH,,
+fawful,cackletta,FRIEND_WITH,Beanish,Beanish
+fawful,corporal paraplonk,FRIEND_WITH,Beanish,
+fawful,midbus,FRIEND_WITH,Beanish,
+fawful,private goomp,FRIEND_WITH,Beanish,
+fawful,sergeant guy,FRIEND_WITH,Beanish,
+fawful,bowser,ENEMY_WITH,Beanish,Koopa
+fawful,corporal paraplonk,ENEMY_WITH,Beanish,
+fawful,lemmy koopa,ENEMY_WITH,Beanish,Koopa
+fawful,luigi,ENEMY_WITH,Beanish,Human
+fawful,mario,ENEMY_WITH,Beanish,Human
+fawful,prince peasley,ENEMY_WITH,Beanish,
+fawful,queen bean,ENEMY_WITH,Beanish,
+fawful,sergeant guy,ENEMY_WITH,Beanish,
+fawful,starlow,ENEMY_WITH,Beanish,Star Sprite
+fawful,toadsworth,ENEMY_WITH,Beanish,Toad
+polari,luma,FRIEND_WITH,,
+polari,rosalina,FRIEND_WITH,,Human
+monty mole,luigi,ENEMY_WITH,,Human
+il piantissimo,mario,ENEMY_WITH,Human,Human
+king boo,bowser,FRIEND_WITH,Big Boo;Boo,Koopa
+king boo,bowser jr.,FRIEND_WITH,Big Boo;Boo,Koopa
+king boo,chauncey,FRIEND_WITH,Big Boo;Boo,
+king boo,hellen gravely,FRIEND_WITH,Big Boo;Boo,
+king boo,king bob-omb,FRIEND_WITH,Big Boo;Boo,Bob-omb
+king boo,king k. rool,FRIEND_WITH,Big Boo;Boo,Kremling
+king boo,lydia,FRIEND_WITH,Big Boo;Boo,
+king boo,neville,FRIEND_WITH,Big Boo;Boo,
+king boo,petey piranha,FRIEND_WITH,Big Boo;Boo,Piranha Plant
+king boo,birdo,ENEMY_WITH,Big Boo;Boo,
+king boo,luigi,ENEMY_WITH,Big Boo;Boo,Human
+king boo,mario,ENEMY_WITH,Big Boo;Boo,Human
+king boo,princess daisy,ENEMY_WITH,Big Boo;Boo,Human
+king boo,princess peach,ENEMY_WITH,Big Boo;Boo,Human
+king boo,professor e. gadd,ENEMY_WITH,Big Boo;Boo,Human
+king boo,toad,ENEMY_WITH,Big Boo;Boo,Toad
+king boo,toadsworth,ENEMY_WITH,Big Boo;Boo,Toad
+king boo,waluigi,ENEMY_WITH,Big Boo;Boo,Human
+king boo,wario,ENEMY_WITH,Big Boo;Boo,
+king boo,yoshi,ENEMY_WITH,Big Boo;Boo,Yoshi
+booster,chef torte,FRIEND_WITH,,
+booster,valentina,FRIEND_WITH,,
+booster,bowser,ENEMY_WITH,,Koopa
+booster,geno,ENEMY_WITH,,Star
+booster,mallow,ENEMY_WITH,,
+booster,mario,ENEMY_WITH,,Human
+booster,princess peach,ENEMY_WITH,,Human
+toadofsky,frogfucious,FRIEND_WITH,,
+francis,princess peach,FRIEND_WITH,,Human
+francis,tippi,FRIEND_WITH,,
+francis,tiptron,FRIEND_WITH,,
+francis,bowser,ENEMY_WITH,,Koopa
+francis,mario,ENEMY_WITH,,Human
+l33t hamm3r broz.,luigi,ENEMY_WITH,,Human
+l33t hamm3r broz.,mario,ENEMY_WITH,,Human
+princess shroob,petey piranha,FRIEND_WITH,Shroob,Piranha Plant
+princess shroob,yoob,FRIEND_WITH,Shroob,
+princess shroob,luigi,ENEMY_WITH,Shroob,Human
+princess shroob,mario,ENEMY_WITH,Shroob,Human
+princess shroob,princess peach,ENEMY_WITH,Shroob,Human
+princess shroob,professor e. gadd,ENEMY_WITH,Shroob,Human
+princess shroob,toadsworth,ENEMY_WITH,Shroob,Toad
+hammer bro,bowser,FRIEND_WITH,,Koopa
+hammer bro,captain falcon,FRIEND_WITH,,
+hammer bro,captain olimar,FRIEND_WITH,,
+hammer bro,diddy kong,FRIEND_WITH,,Kong
+hammer bro,donkey kong,FRIEND_WITH,,Kong
+hammer bro,falco lombardi,FRIEND_WITH,,
+hammer bro,fox mccloud,FRIEND_WITH,,
+hammer bro,ice climbers,FRIEND_WITH,,
+hammer bro,iggy koopa,FRIEND_WITH,,Koopa
+hammer bro,ike,FRIEND_WITH,,
+hammer bro,jigglypuff,FRIEND_WITH,,
+hammer bro,kamek,FRIEND_WITH,,Magikoopa
+hammer bro,king dedede,FRIEND_WITH,,
+hammer bro,kirby,FRIEND_WITH,,Kirby
+hammer bro,larry koopa,FRIEND_WITH,,Koopa
+hammer bro,lemmy koopa,FRIEND_WITH,,Koopa
+hammer bro,lucas,FRIEND_WITH,,
+hammer bro,luigi,FRIEND_WITH,,Human
+hammer bro,marth,FRIEND_WITH,,
+hammer bro,meta knight,FRIEND_WITH,,
+hammer bro,mr. game & watch,FRIEND_WITH,,
+hammer bro,pikachu,FRIEND_WITH,,
+hammer bro,pit,FRIEND_WITH,,
+hammer bro,princess peach,FRIEND_WITH,,Human
+hammer bro,r.o.b.,FRIEND_WITH,,Robot
+hammer bro,smithy,FRIEND_WITH,,
+hammer bro,wario,FRIEND_WITH,,
+hammer bro,wendy o. koopa,FRIEND_WITH,,Koopa
+hammer bro,wolf o'donnell,FRIEND_WITH,,
+hammer bro,yoshi,FRIEND_WITH,,Yoshi
+hammer bro,zelda,FRIEND_WITH,,
+hammer bro,geno,ENEMY_WITH,,Star
+hammer bro,kamek,ENEMY_WITH,,Magikoopa
+hammer bro,luigi,ENEMY_WITH,,Human
+hammer bro,mallow,ENEMY_WITH,,
+hammer bro,mario,ENEMY_WITH,,Human
+hammer bro,princess peach,ENEMY_WITH,,Human
+hammer bro,toad,ENEMY_WITH,,Toad
+yoob,princess shroob,FRIEND_WITH,,Shroob
+yoob,luigi,ENEMY_WITH,,Human
+yoob,mario,ENEMY_WITH,,Human
+yoob,yoshi,ENEMY_WITH,,Yoshi
+axem rangers,bowyer,FRIEND_WITH,,
+axem rangers,smithy,FRIEND_WITH,,
+axem rangers,bowser,ENEMY_WITH,,Koopa
+axem rangers,geno,ENEMY_WITH,,Star
+axem rangers,mallow,ENEMY_WITH,,
+axem rangers,mario,ENEMY_WITH,,Human
+axem rangers,princess peach,ENEMY_WITH,,Human
+mouser,birdo,FRIEND_WITH,Mouse,
+mouser,clawgrip,FRIEND_WITH,Mouse,Sidestepper
+mouser,fryguy,FRIEND_WITH,Mouse,
+mouser,tryclyde,FRIEND_WITH,Mouse,Cobrat
+mouser,wart,FRIEND_WITH,Mouse,Toad
+mouser,luigi,ENEMY_WITH,Mouse,Human
+mouser,mario,ENEMY_WITH,Mouse,Human
+mouser,princess peach,ENEMY_WITH,Mouse,Human
+mouser,toad,ENEMY_WITH,Mouse,Toad
+blargg,luigi,ENEMY_WITH,,Human
+blargg,yoshi,ENEMY_WITH,,Yoshi
+frogfucious,geno,FRIEND_WITH,,Star
+frogfucious,mallow,FRIEND_WITH,,
+frogfucious,mario,FRIEND_WITH,,Human
+frogfucious,princess peach,FRIEND_WITH,,Human
+frogfucious,toadofsky,FRIEND_WITH,,
+frogfucious,smithy,ENEMY_WITH,,
+mimi,count bleck,FRIEND_WITH,,
+mimi,dimentio,FRIEND_WITH,,
+mimi,nastasia,FRIEND_WITH,,
+mimi,o'chunks,FRIEND_WITH,,
+mimi,bowser,ENEMY_WITH,,Koopa
+mimi,dimentio,ENEMY_WITH,,
+mimi,mario,ENEMY_WITH,,Human
+mimi,princess peach,ENEMY_WITH,,Human
+mimi,tippi,ENEMY_WITH,,
+cackletta,fawful,FRIEND_WITH,Beanish,Beanish
+cackletta,bowser,ENEMY_WITH,Beanish,Koopa
+cackletta,lemmy koopa,ENEMY_WITH,Beanish,Koopa
+cackletta,luigi,ENEMY_WITH,Beanish,Human
+cackletta,mario,ENEMY_WITH,Beanish,Human
+cackletta,prince peasley,ENEMY_WITH,Beanish,
+cackletta,queen bean,ENEMY_WITH,Beanish,
+cackletta,toadsworth,ENEMY_WITH,Beanish,Toad
+yaridovich,bowyer,FRIEND_WITH,,
+yaridovich,exor,FRIEND_WITH,,
+yaridovich,smithy,FRIEND_WITH,,
+yaridovich,bowser,ENEMY_WITH,,Koopa
+yaridovich,geno,ENEMY_WITH,,Star
+yaridovich,mallow,ENEMY_WITH,,
+yaridovich,mario,ENEMY_WITH,,Human
+yaridovich,princess peach,ENEMY_WITH,,Human
+yaridovich,toad,ENEMY_WITH,,Toad
+exor,smithy,FRIEND_WITH,,
+exor,yaridovich,FRIEND_WITH,,
+exor,bowser,ENEMY_WITH,,Koopa
+exor,chancellor,ENEMY_WITH,,
+exor,geno,ENEMY_WITH,,Star
+exor,mallow,ENEMY_WITH,,
+exor,mario,ENEMY_WITH,,Human
+exor,princess peach,ENEMY_WITH,,Human
+nastasia,count bleck,FRIEND_WITH,,
+nastasia,dimentio,FRIEND_WITH,,
+nastasia,mimi,FRIEND_WITH,,
+nastasia,o'chunks,FRIEND_WITH,,
+nastasia,bowser,ENEMY_WITH,,Koopa
+nastasia,luigi,ENEMY_WITH,,Human
+nastasia,mario,ENEMY_WITH,,Human
+nastasia,princess peach,ENEMY_WITH,,Human
+nastasia,tippi,ENEMY_WITH,,
+o'chunks,count bleck,FRIEND_WITH,,
+o'chunks,dimentio,FRIEND_WITH,,
+o'chunks,mimi,FRIEND_WITH,,
+o'chunks,nastasia,FRIEND_WITH,,
+o'chunks,bowser,ENEMY_WITH,,Koopa
+o'chunks,dimentio,ENEMY_WITH,,
+o'chunks,luigi,ENEMY_WITH,,Human
+o'chunks,mario,ENEMY_WITH,,Human
+o'chunks,princess peach,ENEMY_WITH,,Human
+o'chunks,tippi,ENEMY_WITH,,
+chancellor,mallow,FRIEND_WITH,,
+chancellor,princess peach,FRIEND_WITH,,Human
+chancellor,toad,FRIEND_WITH,,Toad
+chancellor,exor,ENEMY_WITH,,
+chancellor,smithy,ENEMY_WITH,,
+tippi,barry,FRIEND_WITH,,
+tippi,boomer,FRIEND_WITH,,
+tippi,carrie,FRIEND_WITH,,
+tippi,count bleck,FRIEND_WITH,,
+tippi,cudge,FRIEND_WITH,,
+tippi,dashell,FRIEND_WITH,,
+tippi,dottie,FRIEND_WITH,,
+tippi,fleep,FRIEND_WITH,,
+tippi,francis,FRIEND_WITH,,
+tippi,luigi,FRIEND_WITH,,Human
+tippi,mario,FRIEND_WITH,,Human
+tippi,piccolo,FRIEND_WITH,,
+tippi,princess peach,FRIEND_WITH,,Human
+tippi,slim,FRIEND_WITH,,
+tippi,thoreau,FRIEND_WITH,,
+tippi,thudley,FRIEND_WITH,,
+tippi,tiptron,FRIEND_WITH,,
+tippi,dimentio,ENEMY_WITH,,
+tippi,mimi,ENEMY_WITH,,
+tippi,nastasia,ENEMY_WITH,,
+tippi,o'chunks,ENEMY_WITH,,
+bowyer,axem rangers,FRIEND_WITH,,
+bowyer,smithy,FRIEND_WITH,,
+bowyer,yaridovich,FRIEND_WITH,,
+bowyer,bowser,ENEMY_WITH,,Koopa
+bowyer,geno,ENEMY_WITH,,Star
+bowyer,mallow,ENEMY_WITH,,
+bowyer,mario,ENEMY_WITH,,Human
+bowyer,princess peach,ENEMY_WITH,,Human
+bowyer,toad,ENEMY_WITH,,Toad
+thoreau,barry,FRIEND_WITH,,
+thoreau,boomer,FRIEND_WITH,,
+thoreau,carrie,FRIEND_WITH,,
+thoreau,cudge,FRIEND_WITH,,
+thoreau,dashell,FRIEND_WITH,,
+thoreau,dottie,FRIEND_WITH,,
+thoreau,fleep,FRIEND_WITH,,
+thoreau,luigi,FRIEND_WITH,,Human
+thoreau,mario,FRIEND_WITH,,Human
+thoreau,piccolo,FRIEND_WITH,,
+thoreau,princess peach,FRIEND_WITH,,Human
+thoreau,slim,FRIEND_WITH,,
+thoreau,thudley,FRIEND_WITH,,
+thoreau,tippi,FRIEND_WITH,,
+thoreau,count bleck,ENEMY_WITH,,
+boomer,carrie,FRIEND_WITH,,
+boomer,cudge,FRIEND_WITH,,
+boomer,dashell,FRIEND_WITH,,
+boomer,dottie,FRIEND_WITH,,
+boomer,fleep,FRIEND_WITH,,
+boomer,luigi,FRIEND_WITH,,Human
+boomer,mario,FRIEND_WITH,,Human
+boomer,piccolo,FRIEND_WITH,,
+boomer,princess peach,FRIEND_WITH,,Human
+boomer,slim,FRIEND_WITH,,
+boomer,thoreau,FRIEND_WITH,,
+boomer,thudley,FRIEND_WITH,,
+boomer,tippi,FRIEND_WITH,,
+boomer,count bleck,ENEMY_WITH,,
+slim,barry,FRIEND_WITH,,
+slim,boomer,FRIEND_WITH,,
+slim,carrie,FRIEND_WITH,,
+slim,cudge,FRIEND_WITH,,
+slim,dashell,FRIEND_WITH,,
+slim,dottie,FRIEND_WITH,,
+slim,fleep,FRIEND_WITH,,
+slim,luigi,FRIEND_WITH,,Human
+slim,mario,FRIEND_WITH,,Human
+slim,piccolo,FRIEND_WITH,,
+slim,princess peach,FRIEND_WITH,,Human
+slim,thoreau,FRIEND_WITH,,
+slim,thudley,FRIEND_WITH,,
+slim,tippi,FRIEND_WITH,,
+slim,count bleck,ENEMY_WITH,,
+thudley,barry,FRIEND_WITH,,
+thudley,boomer,FRIEND_WITH,,
+thudley,carrie,FRIEND_WITH,,
+thudley,cudge,FRIEND_WITH,,
+thudley,dashell,FRIEND_WITH,,
+thudley,dottie,FRIEND_WITH,,
+thudley,fleep,FRIEND_WITH,,
+thudley,luigi,FRIEND_WITH,,Human
+thudley,mario,FRIEND_WITH,,Human
+thudley,piccolo,FRIEND_WITH,,
+thudley,princess peach,FRIEND_WITH,,Human
+thudley,slim,FRIEND_WITH,,
+thudley,thoreau,FRIEND_WITH,,
+thudley,tippi,FRIEND_WITH,,
+thudley,count bleck,ENEMY_WITH,,
+carrie,barry,FRIEND_WITH,,
+carrie,boomer,FRIEND_WITH,,
+carrie,cudge,FRIEND_WITH,,
+carrie,dashell,FRIEND_WITH,,
+carrie,dottie,FRIEND_WITH,,
+carrie,fleep,FRIEND_WITH,,
+carrie,luigi,FRIEND_WITH,,Human
+carrie,mario,FRIEND_WITH,,Human
+carrie,piccolo,FRIEND_WITH,,
+carrie,princess peach,FRIEND_WITH,,Human
+carrie,slim,FRIEND_WITH,,
+carrie,thoreau,FRIEND_WITH,,
+carrie,thudley,FRIEND_WITH,,
+carrie,tippi,FRIEND_WITH,,
+carrie,count bleck,ENEMY_WITH,,
+fleep,barry,FRIEND_WITH,,
+fleep,boomer,FRIEND_WITH,,
+fleep,carrie,FRIEND_WITH,,
+fleep,cudge,FRIEND_WITH,,
+fleep,dashell,FRIEND_WITH,,
+fleep,dottie,FRIEND_WITH,,
+fleep,luigi,FRIEND_WITH,,Human
+fleep,mario,FRIEND_WITH,,Human
+fleep,piccolo,FRIEND_WITH,,
+fleep,princess peach,FRIEND_WITH,,Human
+fleep,slim,FRIEND_WITH,,
+fleep,thoreau,FRIEND_WITH,,
+fleep,thudley,FRIEND_WITH,,
+fleep,tippi,FRIEND_WITH,,
+fleep,count bleck,ENEMY_WITH,,
+cudge,barry,FRIEND_WITH,,
+cudge,boomer,FRIEND_WITH,,
+cudge,carrie,FRIEND_WITH,,
+cudge,dashell,FRIEND_WITH,,
+cudge,dottie,FRIEND_WITH,,
+cudge,fleep,FRIEND_WITH,,
+cudge,luigi,FRIEND_WITH,,Human
+cudge,mario,FRIEND_WITH,,Human
+cudge,piccolo,FRIEND_WITH,,
+cudge,princess peach,FRIEND_WITH,,Human
+cudge,slim,FRIEND_WITH,,
+cudge,thoreau,FRIEND_WITH,,
+cudge,thudley,FRIEND_WITH,,
+cudge,tippi,FRIEND_WITH,,
+cudge,count bleck,ENEMY_WITH,,
+dottie,barry,FRIEND_WITH,,
+dottie,boomer,FRIEND_WITH,,
+dottie,carrie,FRIEND_WITH,,
+dottie,cudge,FRIEND_WITH,,
+dottie,dashell,FRIEND_WITH,,
+dottie,fleep,FRIEND_WITH,,
+dottie,luigi,FRIEND_WITH,,Human
+dottie,mario,FRIEND_WITH,,Human
+dottie,piccolo,FRIEND_WITH,,
+dottie,princess peach,FRIEND_WITH,,Human
+dottie,slim,FRIEND_WITH,,
+dottie,thoreau,FRIEND_WITH,,
+dottie,thudley,FRIEND_WITH,,
+dottie,tippi,FRIEND_WITH,,
+dottie,count bleck,ENEMY_WITH,,
+barry,carrie,FRIEND_WITH,,
+barry,cudge,FRIEND_WITH,,
+barry,dashell,FRIEND_WITH,,
+barry,dottie,FRIEND_WITH,,
+barry,fleep,FRIEND_WITH,,
+barry,luigi,FRIEND_WITH,,Human
+barry,mario,FRIEND_WITH,,Human
+barry,piccolo,FRIEND_WITH,,
+barry,princess peach,FRIEND_WITH,,Human
+barry,slim,FRIEND_WITH,,
+barry,thoreau,FRIEND_WITH,,
+barry,thudley,FRIEND_WITH,,
+barry,tippi,FRIEND_WITH,,
+barry,count bleck,ENEMY_WITH,,
+dashell,barry,FRIEND_WITH,,
+dashell,boomer,FRIEND_WITH,,
+dashell,carrie,FRIEND_WITH,,
+dashell,cudge,FRIEND_WITH,,
+dashell,dottie,FRIEND_WITH,,
+dashell,fleep,FRIEND_WITH,,
+dashell,luigi,FRIEND_WITH,,Human
+dashell,mario,FRIEND_WITH,,Human
+dashell,piccolo,FRIEND_WITH,,
+dashell,princess peach,FRIEND_WITH,,Human
+dashell,slim,FRIEND_WITH,,
+dashell,thoreau,FRIEND_WITH,,
+dashell,thudley,FRIEND_WITH,,
+dashell,tippi,FRIEND_WITH,,
+dashell,count bleck,ENEMY_WITH,,
+piccolo,barry,FRIEND_WITH,,
+piccolo,boomer,FRIEND_WITH,,
+piccolo,carrie,FRIEND_WITH,,
+piccolo,cudge,FRIEND_WITH,,
+piccolo,dashell,FRIEND_WITH,,
+piccolo,dottie,FRIEND_WITH,,
+piccolo,fleep,FRIEND_WITH,,
+piccolo,luigi,FRIEND_WITH,,Human
+piccolo,mario,FRIEND_WITH,,Human
+piccolo,princess peach,FRIEND_WITH,,Human
+piccolo,slim,FRIEND_WITH,,
+piccolo,thoreau,FRIEND_WITH,,
+piccolo,thudley,FRIEND_WITH,,
+piccolo,tippi,FRIEND_WITH,,
+piccolo,count bleck,ENEMY_WITH,,
+tiptron,francis,FRIEND_WITH,,
+tiptron,luigi,FRIEND_WITH,,Human
+tiptron,mario,FRIEND_WITH,,Human
+tiptron,princess peach,FRIEND_WITH,,Human
+tiptron,tippi,FRIEND_WITH,,
+kooper,bombette,FRIEND_WITH,,
+kooper,goombario,FRIEND_WITH,,
+kooper,king bob-omb,FRIEND_WITH,,Bob-omb
+kooper,kolorado,FRIEND_WITH,,
+kooper,lady bow,FRIEND_WITH,,
+kooper,lakilester,FRIEND_WITH,,Lakitu
+kooper,mario,FRIEND_WITH,,Human
+kooper,parakarry,FRIEND_WITH,,
+kooper,sushie,FRIEND_WITH,,
+kooper,watt,FRIEND_WITH,,
+kooper,bowser,ENEMY_WITH,,Koopa
+kooper,kamek,ENEMY_WITH,,Magikoopa
+kooper,kammy koopa,ENEMY_WITH,,Magikoopa
+kooper,koopa bros,ENEMY_WITH,,
+kooper,tubba blubba,ENEMY_WITH,,Spike
+king bob-omb,bowser,FRIEND_WITH,Bob-omb,Koopa
+king bob-omb,bowser jr.,FRIEND_WITH,Bob-omb,Koopa
+king bob-omb,king boo,FRIEND_WITH,Bob-omb,Big Boo;Boo
+king bob-omb,kooper,FRIEND_WITH,Bob-omb,
+king bob-omb,lakitu,FRIEND_WITH,Bob-omb,
+king bob-omb,birdo,ENEMY_WITH,Bob-omb,
+king bob-omb,luigi,ENEMY_WITH,Bob-omb,Human
+king bob-omb,mario,ENEMY_WITH,Bob-omb,Human
+king bob-omb,princess daisy,ENEMY_WITH,Bob-omb,Human
+king bob-omb,princess peach,ENEMY_WITH,Bob-omb,Human
+king bob-omb,toad,ENEMY_WITH,Bob-omb,Toad
+king bob-omb,toadsworth,ENEMY_WITH,Bob-omb,Toad
+king bob-omb,waluigi,ENEMY_WITH,Bob-omb,Human
+king bob-omb,wario,ENEMY_WITH,Bob-omb,
+king bob-omb,yoshi,ENEMY_WITH,Bob-omb,Yoshi
+bobo,captain syrup,FRIEND_WITH,,Human
+bobo,wario,ENEMY_WITH,,
+tryclyde,birdo,FRIEND_WITH,Cobrat,
+tryclyde,clawgrip,FRIEND_WITH,Cobrat,Sidestepper
+tryclyde,fryguy,FRIEND_WITH,Cobrat,
+tryclyde,mouser,FRIEND_WITH,Cobrat,Mouse
+tryclyde,wart,FRIEND_WITH,Cobrat,Toad
+tryclyde,luigi,ENEMY_WITH,Cobrat,Human
+tryclyde,mario,ENEMY_WITH,Cobrat,Human
+tryclyde,princess peach,ENEMY_WITH,Cobrat,Human
+tryclyde,toad,ENEMY_WITH,Cobrat,Toad
+prince peasley,luigi,FRIEND_WITH,,Human
+prince peasley,mario,FRIEND_WITH,,Human
+prince peasley,princess peach,FRIEND_WITH,,Human
+prince peasley,queen bean,FRIEND_WITH,,
+prince peasley,toadsworth,FRIEND_WITH,,Toad
+prince peasley,bowser,ENEMY_WITH,,Koopa
+prince peasley,cackletta,ENEMY_WITH,,Beanish
+prince peasley,fawful,ENEMY_WITH,,Beanish
+popple,birdo,FRIEND_WITH,,
+popple,luigi,ENEMY_WITH,,Human
+popple,mario,ENEMY_WITH,,Human
+popple,princess peach,ENEMY_WITH,,Human
+fryguy,birdo,FRIEND_WITH,,
+fryguy,clawgrip,FRIEND_WITH,,Sidestepper
+fryguy,mouser,FRIEND_WITH,,Mouse
+fryguy,tryclyde,FRIEND_WITH,,Cobrat
+fryguy,wart,FRIEND_WITH,,Toad
+fryguy,luigi,ENEMY_WITH,,Human
+fryguy,mario,ENEMY_WITH,,Human
+fryguy,princess peach,ENEMY_WITH,,Human
+fryguy,toad,ENEMY_WITH,,Toad
+queen bean,luigi,FRIEND_WITH,,Human
+queen bean,prince peasley,FRIEND_WITH,,
+queen bean,princess peach,FRIEND_WITH,,Human
+queen bean,professor e. gadd,FRIEND_WITH,,Human
+queen bean,toad,FRIEND_WITH,,Toad
+queen bean,yoshi,FRIEND_WITH,,Yoshi
+queen bean,bowser,ENEMY_WITH,,Koopa
+queen bean,cackletta,ENEMY_WITH,,Beanish
+queen bean,fawful,ENEMY_WITH,,Beanish
+chef torte,booster,FRIEND_WITH,,
+chef torte,bowser,ENEMY_WITH,,Koopa
+chef torte,geno,ENEMY_WITH,,Star
+chef torte,mallow,ENEMY_WITH,,
+chef torte,mario,ENEMY_WITH,,Human
+chef torte,princess peach,ENEMY_WITH,,Human
+parakarry,bombette,FRIEND_WITH,,
+parakarry,goombario,FRIEND_WITH,,
+parakarry,kolorado,FRIEND_WITH,,
+parakarry,kooper,FRIEND_WITH,,
+parakarry,lady bow,FRIEND_WITH,,
+parakarry,lakilester,FRIEND_WITH,,Lakitu
+parakarry,mario,FRIEND_WITH,,Human
+parakarry,sushie,FRIEND_WITH,,
+parakarry,watt,FRIEND_WITH,,
+parakarry,bowser,ENEMY_WITH,,Koopa
+parakarry,kamek,ENEMY_WITH,,Magikoopa
+parakarry,kammy koopa,ENEMY_WITH,,Magikoopa
+parakarry,tubba blubba,ENEMY_WITH,,Spike
+pauline,mario,FRIEND_WITH,Human,Human
+pauline,cranky kong,ENEMY_WITH,Human,Kong
+pauline,donkey kong,ENEMY_WITH,Human,Kong
+pauline,donkey kong jr.,ENEMY_WITH,Human,Kong
+pauline,grumpy kong,ENEMY_WITH,Human,
+pauline,poppy kong,ENEMY_WITH,Human,
+pauline,void kong,ENEMY_WITH,Human,
+goomboss,goombario,ENEMY_WITH,Goomba,
+goomboss,mario,ENEMY_WITH,Goomba,Human
+goomboss,toad,ENEMY_WITH,Goomba,Toad
+goomboss,yoshi,ENEMY_WITH,Goomba,Yoshi
+mc ballyhoo and big top,birdo,FRIEND_WITH,,
+mc ballyhoo and big top,princess peach,FRIEND_WITH,,Human
+mc ballyhoo and big top,toad,FRIEND_WITH,,Toad
+mc ballyhoo and big top,toadette,FRIEND_WITH,,Toad
+mc ballyhoo and big top,yoshi,FRIEND_WITH,,Yoshi
+raphael the raven,bandit,FRIEND_WITH,Raven,
+raphael the raven,kamek,FRIEND_WITH,Raven,Magikoopa
+raphael the raven,yoshi,ENEMY_WITH,Raven,Yoshi
+koopa kid,bowser,FRIEND_WITH,,Koopa
+koopa kid,brighton,FRIEND_WITH,,
+koopa kid,kamek,FRIEND_WITH,,Magikoopa
+koopa kid,princess peach,FRIEND_WITH,,Human
+koopa kid,toad,FRIEND_WITH,,Toad
+koopa kid,toadette,FRIEND_WITH,,Toad
+koopa kid,twila,FRIEND_WITH,,
+koopa kid,waluigi,FRIEND_WITH,,Human
+koopa kid,yoshi,FRIEND_WITH,,Yoshi
+koopa kid,birdo,ENEMY_WITH,,
+koopa kid,bowser,ENEMY_WITH,,Koopa
+koopa kid,donkey kong,ENEMY_WITH,,Kong
+koopa kid,luigi,ENEMY_WITH,,Human
+koopa kid,mario,ENEMY_WITH,,Human
+koopa kid,princess daisy,ENEMY_WITH,,Human
+koopa kid,princess peach,ENEMY_WITH,,Human
+koopa kid,toad,ENEMY_WITH,,Toad
+koopa kid,waluigi,ENEMY_WITH,,Human
+koopa kid,wario,ENEMY_WITH,,
+koopa kid,yoshi,ENEMY_WITH,,Yoshi
+koops,admiral bobbery,FRIEND_WITH,,
+koops,goombella,FRIEND_WITH,,
+koops,jolene,FRIEND_WITH,,
+koops,madame flurrie,FRIEND_WITH,,
+koops,mario,FRIEND_WITH,,Human
+koops,mini-yoshi,FRIEND_WITH,,
+koops,ms. mowz,FRIEND_WITH,,
+koops,vivian,FRIEND_WITH,,
+koops,doopliss,ENEMY_WITH,,
+koops,hooktail,ENEMY_WITH,,
+koops,kammy koopa,ENEMY_WITH,,Magikoopa
+koops,lord crump,ENEMY_WITH,,
+koops,marilyn,ENEMY_WITH,,
+koops,rawk hawk,ENEMY_WITH,,
+koops,shadow queen,ENEMY_WITH,,
+koops,sir grodus,ENEMY_WITH,,
+koops,smorg,ENEMY_WITH,,
+squirps,bowser,FRIEND_WITH,,Koopa
+squirps,mario,FRIEND_WITH,,Human
+squirps,princess peach,FRIEND_WITH,,Human
+twila,brighton,FRIEND_WITH,,
+twila,koopa kid,FRIEND_WITH,,
+twila,princess peach,FRIEND_WITH,,Human
+twila,toad,FRIEND_WITH,,Toad
+twila,toadette,FRIEND_WITH,,Toad
+twila,yoshi,FRIEND_WITH,,Yoshi
+brighton,koopa kid,FRIEND_WITH,,
+brighton,luigi,FRIEND_WITH,,Human
+brighton,mario,FRIEND_WITH,,Human
+brighton,princess peach,FRIEND_WITH,,Human
+brighton,toad,FRIEND_WITH,,Toad
+brighton,toadette,FRIEND_WITH,,Toad
+brighton,twila,FRIEND_WITH,,
+brighton,yoshi,FRIEND_WITH,,Yoshi
+rawk hawk,goombella,ENEMY_WITH,,
+rawk hawk,koops,ENEMY_WITH,,
+rawk hawk,madame flurrie,ENEMY_WITH,,
+rawk hawk,mario,ENEMY_WITH,,Human
+rawk hawk,yoshi,ENEMY_WITH,,Yoshi
+goombella,admiral bobbery,FRIEND_WITH,,
+goombella,jolene,FRIEND_WITH,,
+goombella,koops,FRIEND_WITH,,
+goombella,madame flurrie,FRIEND_WITH,,
+goombella,mario,FRIEND_WITH,,Human
+goombella,mini-yoshi,FRIEND_WITH,,
+goombella,ms. mowz,FRIEND_WITH,,
+goombella,vivian,FRIEND_WITH,,
+goombella,yoshi,FRIEND_WITH,,Yoshi
+goombella,bowser,ENEMY_WITH,,Koopa
+goombella,doopliss,ENEMY_WITH,,
+goombella,kammy koopa,ENEMY_WITH,,Magikoopa
+goombella,lord crump,ENEMY_WITH,,
+goombella,marilyn,ENEMY_WITH,,
+goombella,rawk hawk,ENEMY_WITH,,
+goombella,shadow queen,ENEMY_WITH,,
+goombella,sir grodus,ENEMY_WITH,,
+goombella,smorg,ENEMY_WITH,,
+sir grodus,beldam,FRIEND_WITH,,
+sir grodus,lord crump,FRIEND_WITH,,
+sir grodus,marilyn,FRIEND_WITH,,
+sir grodus,vivian,FRIEND_WITH,,
+sir grodus,admiral bobbery,ENEMY_WITH,,
+sir grodus,goombella,ENEMY_WITH,,
+sir grodus,kammy koopa,ENEMY_WITH,,Magikoopa
+sir grodus,koops,ENEMY_WITH,,
+sir grodus,madame flurrie,ENEMY_WITH,,
+sir grodus,mario,ENEMY_WITH,,Human
+sir grodus,ms. mowz,ENEMY_WITH,,
+sir grodus,pennington,ENEMY_WITH,,
+sir grodus,vivian,ENEMY_WITH,,
+admiral bobbery,goombella,FRIEND_WITH,,
+admiral bobbery,jolene,FRIEND_WITH,,
+admiral bobbery,koops,FRIEND_WITH,,
+admiral bobbery,luigi,FRIEND_WITH,,Human
+admiral bobbery,madame flurrie,FRIEND_WITH,,
+admiral bobbery,mario,FRIEND_WITH,,Human
+admiral bobbery,mini-yoshi,FRIEND_WITH,,
+admiral bobbery,ms. mowz,FRIEND_WITH,,
+admiral bobbery,princess peach,FRIEND_WITH,,Human
+admiral bobbery,vivian,FRIEND_WITH,,
+admiral bobbery,yoshi,FRIEND_WITH,,Yoshi
+admiral bobbery,doopliss,ENEMY_WITH,,
+admiral bobbery,kammy koopa,ENEMY_WITH,,Magikoopa
+admiral bobbery,lord crump,ENEMY_WITH,,
+admiral bobbery,marilyn,ENEMY_WITH,,
+admiral bobbery,shadow queen,ENEMY_WITH,,
+admiral bobbery,sir grodus,ENEMY_WITH,,
+admiral bobbery,smorg,ENEMY_WITH,,
+lady bow,bombette,FRIEND_WITH,,
+lady bow,goombario,FRIEND_WITH,,
+lady bow,kooper,FRIEND_WITH,,
+lady bow,lakilester,FRIEND_WITH,,Lakitu
+lady bow,mario,FRIEND_WITH,,Human
+lady bow,parakarry,FRIEND_WITH,,
+lady bow,sushie,FRIEND_WITH,,
+lady bow,watt,FRIEND_WITH,,
+lady bow,bowser,ENEMY_WITH,,Koopa
+lady bow,kamek,ENEMY_WITH,,Magikoopa
+lady bow,kammy koopa,ENEMY_WITH,,Magikoopa
+lady bow,tubba blubba,ENEMY_WITH,,Spike
+vivian,admiral bobbery,FRIEND_WITH,,
+vivian,beldam,FRIEND_WITH,,
+vivian,goombella,FRIEND_WITH,,
+vivian,jolene,FRIEND_WITH,,
+vivian,koops,FRIEND_WITH,,
+vivian,madame flurrie,FRIEND_WITH,,
+vivian,marilyn,FRIEND_WITH,,
+vivian,mario,FRIEND_WITH,,Human
+vivian,mini-yoshi,FRIEND_WITH,,
+vivian,ms. mowz,FRIEND_WITH,,
+vivian,princess peach,FRIEND_WITH,,Human
+vivian,sir grodus,FRIEND_WITH,,
+vivian,beldam,ENEMY_WITH,,
+vivian,doopliss,ENEMY_WITH,,
+vivian,kammy koopa,ENEMY_WITH,,Magikoopa
+vivian,lord crump,ENEMY_WITH,,
+vivian,marilyn,ENEMY_WITH,,
+vivian,shadow queen,ENEMY_WITH,,
+vivian,sir grodus,ENEMY_WITH,,
+vivian,smorg,ENEMY_WITH,,
+madame flurrie,admiral bobbery,FRIEND_WITH,,
+madame flurrie,goombella,FRIEND_WITH,,
+madame flurrie,jolene,FRIEND_WITH,,
+madame flurrie,koops,FRIEND_WITH,,
+madame flurrie,mario,FRIEND_WITH,,Human
+madame flurrie,mini-yoshi,FRIEND_WITH,,
+madame flurrie,ms. mowz,FRIEND_WITH,,
+madame flurrie,princess peach,FRIEND_WITH,,Human
+madame flurrie,vivian,FRIEND_WITH,,
+madame flurrie,yoshi,FRIEND_WITH,,Yoshi
+madame flurrie,doopliss,ENEMY_WITH,,
+madame flurrie,kammy koopa,ENEMY_WITH,,Magikoopa
+madame flurrie,lord crump,ENEMY_WITH,,
+madame flurrie,marilyn,ENEMY_WITH,,
+madame flurrie,rawk hawk,ENEMY_WITH,,
+madame flurrie,shadow queen,ENEMY_WITH,,
+madame flurrie,sir grodus,ENEMY_WITH,,
+madame flurrie,smorg,ENEMY_WITH,,
+shadow queen,beldam,FRIEND_WITH,,
+shadow queen,marilyn,FRIEND_WITH,,
+shadow queen,admiral bobbery,ENEMY_WITH,,
+shadow queen,goombella,ENEMY_WITH,,
+shadow queen,koops,ENEMY_WITH,,
+shadow queen,madame flurrie,ENEMY_WITH,,
+shadow queen,mario,ENEMY_WITH,,Human
+shadow queen,pennington,ENEMY_WITH,,
+shadow queen,princess peach,ENEMY_WITH,,Human
+shadow queen,vivian,ENEMY_WITH,,
+shadow queen,yoshi,ENEMY_WITH,,Yoshi
+ms. mowz,admiral bobbery,FRIEND_WITH,,
+ms. mowz,goombella,FRIEND_WITH,,
+ms. mowz,jolene,FRIEND_WITH,,
+ms. mowz,koops,FRIEND_WITH,,
+ms. mowz,madame flurrie,FRIEND_WITH,,
+ms. mowz,mario,FRIEND_WITH,,Human
+ms. mowz,mini-yoshi,FRIEND_WITH,,
+ms. mowz,princess peach,FRIEND_WITH,,Human
+ms. mowz,vivian,FRIEND_WITH,,
+ms. mowz,bowser,ENEMY_WITH,,Koopa
+ms. mowz,doopliss,ENEMY_WITH,,
+ms. mowz,kammy koopa,ENEMY_WITH,,Magikoopa
+ms. mowz,lord crump,ENEMY_WITH,,
+ms. mowz,marilyn,ENEMY_WITH,,
+ms. mowz,sir grodus,ENEMY_WITH,,
+ms. mowz,smorg,ENEMY_WITH,,
+kammy koopa,bowser,FRIEND_WITH,Magikoopa,Koopa
+kammy koopa,koopa bros,FRIEND_WITH,Magikoopa,
+kammy koopa,tubba blubba,FRIEND_WITH,Magikoopa,Spike
+kammy koopa,admiral bobbery,ENEMY_WITH,Magikoopa,
+kammy koopa,bombette,ENEMY_WITH,Magikoopa,
+kammy koopa,goombario,ENEMY_WITH,Magikoopa,
+kammy koopa,goombella,ENEMY_WITH,Magikoopa,
+kammy koopa,jr. troopa,ENEMY_WITH,Magikoopa,Koopa Troopa
+kammy koopa,kooper,ENEMY_WITH,Magikoopa,
+kammy koopa,koops,ENEMY_WITH,Magikoopa,
+kammy koopa,lady bow,ENEMY_WITH,Magikoopa,
+kammy koopa,lakilester,ENEMY_WITH,Magikoopa,Lakitu
+kammy koopa,madame flurrie,ENEMY_WITH,Magikoopa,
+kammy koopa,mario,ENEMY_WITH,Magikoopa,Human
+kammy koopa,ms. mowz,ENEMY_WITH,Magikoopa,
+kammy koopa,parakarry,ENEMY_WITH,Magikoopa,
+kammy koopa,pennington,ENEMY_WITH,Magikoopa,
+kammy koopa,princess peach,ENEMY_WITH,Magikoopa,Human
+kammy koopa,sir grodus,ENEMY_WITH,Magikoopa,
+kammy koopa,sushie,ENEMY_WITH,Magikoopa,
+kammy koopa,toad,ENEMY_WITH,Magikoopa,Toad
+kammy koopa,vivian,ENEMY_WITH,Magikoopa,
+kammy koopa,watt,ENEMY_WITH,Magikoopa,
+kammy koopa,yoshi,ENEMY_WITH,Magikoopa,Yoshi
+doopliss,beldam,FRIEND_WITH,,
+doopliss,admiral bobbery,ENEMY_WITH,,
+doopliss,goombella,ENEMY_WITH,,
+doopliss,koops,ENEMY_WITH,,
+doopliss,madame flurrie,ENEMY_WITH,,
+doopliss,mario,ENEMY_WITH,,Human
+doopliss,mini-yoshi,ENEMY_WITH,,
+doopliss,ms. mowz,ENEMY_WITH,,
+doopliss,vivian,ENEMY_WITH,,
+hooktail,koops,ENEMY_WITH,,
+hooktail,mario,ENEMY_WITH,,Human
+macho grubba,mario,ENEMY_WITH,,Human
+beldam,doopliss,FRIEND_WITH,,
+beldam,marilyn,FRIEND_WITH,,
+beldam,shadow queen,FRIEND_WITH,,
+beldam,sir grodus,FRIEND_WITH,,
+beldam,vivian,FRIEND_WITH,,
+beldam,mario,ENEMY_WITH,,Human
+beldam,vivian,ENEMY_WITH,,
+lord crump,marilyn,FRIEND_WITH,,
+lord crump,sir grodus,FRIEND_WITH,,
+lord crump,admiral bobbery,ENEMY_WITH,,
+lord crump,goombella,ENEMY_WITH,,
+lord crump,koops,ENEMY_WITH,,
+lord crump,madame flurrie,ENEMY_WITH,,
+lord crump,mario,ENEMY_WITH,,Human
+lord crump,ms. mowz,ENEMY_WITH,,
+lord crump,pennington,ENEMY_WITH,,
+lord crump,vivian,ENEMY_WITH,,
+bombette,goombario,FRIEND_WITH,,
+bombette,kolorado,FRIEND_WITH,,
+bombette,kooper,FRIEND_WITH,,
+bombette,lady bow,FRIEND_WITH,,
+bombette,lakilester,FRIEND_WITH,,Lakitu
+bombette,mario,FRIEND_WITH,,Human
+bombette,parakarry,FRIEND_WITH,,
+bombette,sushie,FRIEND_WITH,,
+bombette,watt,FRIEND_WITH,,
+bombette,bowser,ENEMY_WITH,,Koopa
+bombette,kamek,ENEMY_WITH,,Magikoopa
+bombette,kammy koopa,ENEMY_WITH,,Magikoopa
+bombette,koopa bros,ENEMY_WITH,,
+bombette,tubba blubba,ENEMY_WITH,,Spike
+goombario,bombette,FRIEND_WITH,,
+goombario,kolorado,FRIEND_WITH,,
+goombario,kooper,FRIEND_WITH,,
+goombario,lady bow,FRIEND_WITH,,
+goombario,lakilester,FRIEND_WITH,,Lakitu
+goombario,mario,FRIEND_WITH,,Human
+goombario,parakarry,FRIEND_WITH,,
+goombario,sushie,FRIEND_WITH,,
+goombario,watt,FRIEND_WITH,,
+goombario,bowser,ENEMY_WITH,,Koopa
+goombario,goomboss,ENEMY_WITH,,Goomba
+goombario,kamek,ENEMY_WITH,,Magikoopa
+goombario,kammy koopa,ENEMY_WITH,,Magikoopa
+goombario,tubba blubba,ENEMY_WITH,,Spike
+watt,bombette,FRIEND_WITH,,
+watt,goombario,FRIEND_WITH,,
+watt,kooper,FRIEND_WITH,,
+watt,lady bow,FRIEND_WITH,,
+watt,lakilester,FRIEND_WITH,,Lakitu
+watt,mario,FRIEND_WITH,,Human
+watt,parakarry,FRIEND_WITH,,
+watt,sushie,FRIEND_WITH,,
+watt,bowser,ENEMY_WITH,,Koopa
+watt,kamek,ENEMY_WITH,,Magikoopa
+watt,kammy koopa,ENEMY_WITH,,Magikoopa
+sushie,bombette,FRIEND_WITH,,
+sushie,goombario,FRIEND_WITH,,
+sushie,kolorado,FRIEND_WITH,,
+sushie,kooper,FRIEND_WITH,,
+sushie,lady bow,FRIEND_WITH,,
+sushie,lakilester,FRIEND_WITH,,Lakitu
+sushie,mario,FRIEND_WITH,,Human
+sushie,parakarry,FRIEND_WITH,,
+sushie,watt,FRIEND_WITH,,
+sushie,bowser,ENEMY_WITH,,Koopa
+sushie,kamek,ENEMY_WITH,,Magikoopa
+sushie,kammy koopa,ENEMY_WITH,,Magikoopa
+lakilester,bombette,FRIEND_WITH,Lakitu,
+lakilester,goombario,FRIEND_WITH,Lakitu,
+lakilester,kooper,FRIEND_WITH,Lakitu,
+lakilester,lady bow,FRIEND_WITH,Lakitu,
+lakilester,lakitu,FRIEND_WITH,Lakitu,
+lakilester,mario,FRIEND_WITH,Lakitu,Human
+lakilester,parakarry,FRIEND_WITH,Lakitu,
+lakilester,sushie,FRIEND_WITH,Lakitu,
+lakilester,watt,FRIEND_WITH,Lakitu,
+lakilester,bowser,ENEMY_WITH,Lakitu,Koopa
+lakilester,huff n. puff,ENEMY_WITH,Lakitu,
+lakilester,kamek,ENEMY_WITH,Lakitu,Magikoopa
+lakilester,kammy koopa,ENEMY_WITH,Lakitu,Magikoopa
+jr. troopa,kammy koopa,ENEMY_WITH,Koopa Troopa,Magikoopa
+jr. troopa,mario,ENEMY_WITH,Koopa Troopa,Human
+tubba blubba,kammy koopa,FRIEND_WITH,Spike,Magikoopa
+tubba blubba,bombette,ENEMY_WITH,Spike,
+tubba blubba,goombario,ENEMY_WITH,Spike,
+tubba blubba,kooper,ENEMY_WITH,Spike,
+tubba blubba,lady bow,ENEMY_WITH,Spike,
+tubba blubba,mario,ENEMY_WITH,Spike,Human
+tubba blubba,parakarry,ENEMY_WITH,Spike,
+tubba blubba,princess peach,ENEMY_WITH,Spike,Human
+tutankoopa,mario,ENEMY_WITH,,Human
+general guy,mario,ENEMY_WITH,,Human
+lava piranha,mario,ENEMY_WITH,,Human
+crystal king,mario,ENEMY_WITH,,Human
+huff n. puff,lakilester,ENEMY_WITH,,Lakitu
+huff n. puff,mario,ENEMY_WITH,,Human
+rudy the clown,mario,ENEMY_WITH,,Human
+rudy the clown,wario,ENEMY_WITH,,
+marilyn,beldam,FRIEND_WITH,,
+marilyn,lord crump,FRIEND_WITH,,
+marilyn,shadow queen,FRIEND_WITH,,
+marilyn,sir grodus,FRIEND_WITH,,
+marilyn,vivian,FRIEND_WITH,,
+marilyn,admiral bobbery,ENEMY_WITH,,
+marilyn,goombella,ENEMY_WITH,,
+marilyn,koops,ENEMY_WITH,,
+marilyn,madame flurrie,ENEMY_WITH,,
+marilyn,mario,ENEMY_WITH,,Human
+marilyn,ms. mowz,ENEMY_WITH,,
+marilyn,vivian,ENEMY_WITH,,
+marilyn,yoshi,ENEMY_WITH,,Yoshi
+gooper blooper,blizzaurus,FRIEND_WITH,Blooper;Poison Blooper,
+gooper blooper,bowser jr.,FRIEND_WITH,Blooper;Poison Blooper,Koopa
+gooper blooper,f.l.u.d.d.,ENEMY_WITH,Blooper;Poison Blooper,Robot
+gooper blooper,mario,ENEMY_WITH,Blooper;Poison Blooper,Human
+gooper blooper,toad,ENEMY_WITH,Blooper;Poison Blooper,Toad
+clawgrip,birdo,FRIEND_WITH,Sidestepper,
+clawgrip,fryguy,FRIEND_WITH,Sidestepper,
+clawgrip,mouser,FRIEND_WITH,Sidestepper,Mouse
+clawgrip,tryclyde,FRIEND_WITH,Sidestepper,Cobrat
+clawgrip,wart,FRIEND_WITH,Sidestepper,Toad
+clawgrip,luigi,ENEMY_WITH,Sidestepper,Human
+clawgrip,mario,ENEMY_WITH,Sidestepper,Human
+clawgrip,princess peach,ENEMY_WITH,Sidestepper,Human
+clawgrip,toad,ENEMY_WITH,Sidestepper,Toad
+bouldergeist,mario,ENEMY_WITH,,Human
+luma,lubba,FRIEND_WITH,,
+luma,luigi,FRIEND_WITH,,Human
+luma,mario,FRIEND_WITH,,Human
+luma,polari,FRIEND_WITH,,
+luma,princess daisy,FRIEND_WITH,,Human
+luma,rosalina,FRIEND_WITH,,Human
+luma,bowser,ENEMY_WITH,,Koopa
+luma,bowser jr.,ENEMY_WITH,,Koopa
+king kaliente,mario,ENEMY_WITH,,Human
+prince froggy,bandit,FRIEND_WITH,,
+sluggy the unshaven,kamek,FRIEND_WITH,,Magikoopa
+sluggy the unshaven,yoshi,ENEMY_WITH,,Yoshi
+king watinga,mario,ENEMY_WITH,,Human
+salvo the slime,kamek,FRIEND_WITH,Slime Drop,Magikoopa
+salvo the slime,yoshi,ENEMY_WITH,Slime Drop,Yoshi
+burt the bashful,kamek,FRIEND_WITH,,Magikoopa
+burt the bashful,yoshi,ENEMY_WITH,,Yoshi
+roger the potted ghost,bigger boo,FRIEND_WITH,,
+roger the potted ghost,kamek,FRIEND_WITH,,Magikoopa
+roger the potted ghost,yoshi,ENEMY_WITH,,Yoshi
+tap-tap the red nose,kamek,FRIEND_WITH,,Magikoopa
+tap-tap the red nose,yoshi,ENEMY_WITH,,Yoshi
+hookbill the koopa,bandit,FRIEND_WITH,,
+hookbill the koopa,kamek,FRIEND_WITH,,Magikoopa
+hookbill the koopa,mario,ENEMY_WITH,,Human
+hookbill the koopa,yoshi,ENEMY_WITH,,Yoshi
+marching milde,kamek,FRIEND_WITH,,Magikoopa
+marching milde,yoshi,ENEMY_WITH,,Yoshi
+naval piranha,kamek,FRIEND_WITH,,Magikoopa
+naval piranha,yoshi,ENEMY_WITH,,Yoshi
+starlow,bowser,FRIEND_WITH,Star Sprite,Koopa
+starlow,luigi,FRIEND_WITH,Star Sprite,Human
+starlow,mario,FRIEND_WITH,Star Sprite,Human
+starlow,princess peach,FRIEND_WITH,Star Sprite,Human
+starlow,fawful,ENEMY_WITH,Star Sprite,Beanish
+broque monsieur,bowser,FRIEND_WITH,,Koopa
+broque monsieur,broggy,FRIEND_WITH,,
+broggy,bowser,FRIEND_WITH,,Koopa
+broggy,broque monsieur,FRIEND_WITH,,
+broggy,luigi,ENEMY_WITH,,Human
+broque madame,bowser,FRIEND_WITH,,Koopa
+toadbert,luigi,FRIEND_WITH,,Human
+toadbert,mario,FRIEND_WITH,,Human
+toadbert,princess peach,FRIEND_WITH,,Human
+toadbert,toadsworth,FRIEND_WITH,,Toad
+bigger boo,kamek,FRIEND_WITH,,Magikoopa
+bigger boo,roger the potted ghost,FRIEND_WITH,,
+bigger boo,mario,ENEMY_WITH,,Human
+bigger boo,yoshi,ENEMY_WITH,,Yoshi
+midbus,fawful,FRIEND_WITH,,Beanish
+midbus,bowser,ENEMY_WITH,,Koopa
+sergeant guy,bowser,FRIEND_WITH,,Koopa
+sergeant guy,corporal paraplonk,FRIEND_WITH,,
+sergeant guy,fawful,FRIEND_WITH,,Beanish
+sergeant guy,private goomp,FRIEND_WITH,,
+sergeant guy,fawful,ENEMY_WITH,,Beanish
+corporal paraplonk,bowser,FRIEND_WITH,,Koopa
+corporal paraplonk,fawful,FRIEND_WITH,,Beanish
+corporal paraplonk,private goomp,FRIEND_WITH,,
+corporal paraplonk,sergeant guy,FRIEND_WITH,,
+corporal paraplonk,fawful,ENEMY_WITH,,Beanish
+private goomp,bowser,FRIEND_WITH,,Koopa
+private goomp,corporal paraplonk,FRIEND_WITH,,
+private goomp,fawful,FRIEND_WITH,,Beanish
+private goomp,sergeant guy,FRIEND_WITH,,
+private goomp,yoshi,ENEMY_WITH,,Yoshi
+dino piranha,mario,ENEMY_WITH,,Human
+guppy,luigi,FRIEND_WITH,,Human
+guppy,mario,FRIEND_WITH,,Human
+guppy,toad,FRIEND_WITH,,Toad
+guppy,luigi,ENEMY_WITH,,Human
+mushroom genie,princess peach,FRIEND_WITH,,Human
+mushroom genie,waluigi,FRIEND_WITH,,Human
+mushroom genie,yoshi,FRIEND_WITH,,Yoshi
+metal mario,honey queen,FRIEND_WITH,,Honeybee
+croco,bowser,ENEMY_WITH,,Koopa
+croco,geno,ENEMY_WITH,,Star
+croco,mallow,ENEMY_WITH,,
+croco,mario,ENEMY_WITH,,Human
+croco,princess peach,ENEMY_WITH,,Human
+valentina,booster,FRIEND_WITH,,
+valentina,bowser,ENEMY_WITH,,Koopa
+valentina,geno,ENEMY_WITH,,Star
+valentina,mallow,ENEMY_WITH,,
+valentina,mario,ENEMY_WITH,,Human
+valentina,princess peach,ENEMY_WITH,,Human
+culex,mario,FRIEND_WITH,,Human
+boshi,yoshi,ENEMY_WITH,,Yoshi
+jinx,bowser,FRIEND_WITH,,Koopa
+jinx,mallow,FRIEND_WITH,,
+jinx,mario,FRIEND_WITH,,Human
+jinx,princess peach,FRIEND_WITH,,Human
+jonathan jones,bowser,ENEMY_WITH,,Koopa
+jonathan jones,geno,ENEMY_WITH,,Star
+jonathan jones,mallow,ENEMY_WITH,,
+jonathan jones,mario,ENEMY_WITH,,Human
+jonathan jones,princess peach,ENEMY_WITH,,Human
+koopa the quick,luigi,ENEMY_WITH,,Human
+koopa the quick,mario,ENEMY_WITH,,Human
+koopa the quick,wario,ENEMY_WITH,,
+koopa the quick,yoshi,ENEMY_WITH,,Yoshi
+koopa bros,kammy koopa,FRIEND_WITH,,Magikoopa
+koopa bros,bombette,ENEMY_WITH,,
+koopa bros,kooper,ENEMY_WITH,,
+koopa bros,mario,ENEMY_WITH,,Human
+boom boom,bowser,FRIEND_WITH,,Koopa
+boom boom,pom pom,FRIEND_WITH,,Boom Boom
+boom boom,luigi,ENEMY_WITH,,Human
+boom boom,mario,ENEMY_WITH,,Human
+lakitu bros,luigi,FRIEND_WITH,,Human
+lakitu bros,mario,FRIEND_WITH,,Human
+lakitu bros,wario,FRIEND_WITH,,
+lakitu bros,yoshi,FRIEND_WITH,,Yoshi
+army hammer bro,blizzaurus,FRIEND_WITH,,
+army hammer bro,bowser,FRIEND_WITH,,Koopa
+army hammer bro,luigi,ENEMY_WITH,,Human
+army hammer bro,mario,ENEMY_WITH,,Human
+army hammer bro,princess peach,ENEMY_WITH,,Human
+army hammer bro,toad,ENEMY_WITH,,Toad
+army hammer bro,toadsworth,ENEMY_WITH,,Toad
+kolorado,bombette,FRIEND_WITH,,
+kolorado,goombario,FRIEND_WITH,,
+kolorado,kooper,FRIEND_WITH,,
+kolorado,mario,FRIEND_WITH,,Human
+kolorado,parakarry,FRIEND_WITH,,
+kolorado,sushie,FRIEND_WITH,,
+mailtoad,luigi,FRIEND_WITH,,Human
+mailtoad,princess peach,FRIEND_WITH,,Human
+mailtoad,toad,FRIEND_WITH,,Toad
+mailtoad,bowser,ENEMY_WITH,,Koopa
+blizzaurus,army hammer bro,FRIEND_WITH,,
+blizzaurus,bowser,FRIEND_WITH,,Koopa
+blizzaurus,gooper blooper,FRIEND_WITH,,Blooper;Poison Blooper
+blizzaurus,kamek,FRIEND_WITH,,Magikoopa
+blizzaurus,petey piranha,FRIEND_WITH,,Piranha Plant
+blizzaurus,luigi,ENEMY_WITH,,Human
+blizzaurus,mario,ENEMY_WITH,,Human
+blizzaurus,princess peach,ENEMY_WITH,,Human
+blizzaurus,toad,ENEMY_WITH,,Toad
+pennington,luigi,FRIEND_WITH,,Human
+pennington,mario,FRIEND_WITH,,Human
+pennington,bowser,ENEMY_WITH,,Koopa
+pennington,kammy koopa,ENEMY_WITH,,Magikoopa
+pennington,lord crump,ENEMY_WITH,,
+pennington,shadow queen,ENEMY_WITH,,
+pennington,sir grodus,ENEMY_WITH,,
+the chimp,luigi,FRIEND_WITH,,Human
+the chimp,mario,FRIEND_WITH,,Human
+mips,bowser,FRIEND_WITH,,Koopa
+mips,mario,ENEMY_WITH,,Human
+smorg,admiral bobbery,ENEMY_WITH,,
+smorg,goombella,ENEMY_WITH,,
+smorg,koops,ENEMY_WITH,,
+smorg,madame flurrie,ENEMY_WITH,,
+smorg,mario,ENEMY_WITH,,Human
+smorg,ms. mowz,ENEMY_WITH,,
+smorg,vivian,ENEMY_WITH,,
+smorg,yoshi,ENEMY_WITH,,Yoshi
+king croacus,floro sapien,FRIEND_WITH,,
+king croacus,bowser,ENEMY_WITH,,Koopa
+king croacus,mario,ENEMY_WITH,,Human
+king croacus,princess peach,ENEMY_WITH,,Human
+lubba,luigi,FRIEND_WITH,,Human
+lubba,luma,FRIEND_WITH,,
+lubba,mario,FRIEND_WITH,,Human
+lubba,rosalina,FRIEND_WITH,,Human
+lubba,yoshi,FRIEND_WITH,,Yoshi
+lubba,bowser,ENEMY_WITH,,Koopa
+lubba,bowser jr.,ENEMY_WITH,,Koopa
+fluzzard,luigi,FRIEND_WITH,,Human
+fluzzard,mario,FRIEND_WITH,,Human
+squizzard,mario,ENEMY_WITH,,Human
+vinny,don pianta,FRIEND_WITH,,
+vinny,francesca pianta,FRIEND_WITH,,
+don pianta,francesca pianta,FRIEND_WITH,,
+don pianta,vinny,FRIEND_WITH,,
+don pianta,mario,ENEMY_WITH,,Human
+francesca pianta,don pianta,FRIEND_WITH,,
+francesca pianta,vinny,FRIEND_WITH,,
+lina,imajin,FRIEND_WITH,,
+lina,mama,FRIEND_WITH,,
+lina,papa,FRIEND_WITH,,
+lina,wart,ENEMY_WITH,,Toad
+mama,imajin,FRIEND_WITH,,
+mama,lina,FRIEND_WITH,,
+mama,papa,FRIEND_WITH,,
+mama,wart,ENEMY_WITH,,Toad
+imajin,lina,FRIEND_WITH,,
+imajin,mama,FRIEND_WITH,,
+imajin,papa,FRIEND_WITH,,
+imajin,wart,ENEMY_WITH,,Toad
+papa,imajin,FRIEND_WITH,,
+papa,lina,FRIEND_WITH,,
+papa,mama,FRIEND_WITH,,
+papa,wart,ENEMY_WITH,,Toad
+bandit,hookbill the koopa,FRIEND_WITH,,
+bandit,kamek,FRIEND_WITH,,Magikoopa
+bandit,prince froggy,FRIEND_WITH,,
+bandit,raphael the raven,FRIEND_WITH,,Raven
+bandit,yoshi,ENEMY_WITH,,Yoshi
+king tut,bowser,FRIEND_WITH,,Koopa
+king tut,mario,ENEMY_WITH,,Human
+king tut,the riddler,ENEMY_WITH,,
+jolene,admiral bobbery,FRIEND_WITH,,
+jolene,goombella,FRIEND_WITH,,
+jolene,koops,FRIEND_WITH,,
+jolene,madame flurrie,FRIEND_WITH,,
+jolene,mario,FRIEND_WITH,,Human
+jolene,ms. mowz,FRIEND_WITH,,
+jolene,prince mush,FRIEND_WITH,,
+jolene,vivian,FRIEND_WITH,,
+jolene,yoshi,FRIEND_WITH,,Yoshi
+prince mush,jolene,FRIEND_WITH,,
+honey queen,donkey kong,FRIEND_WITH,Honeybee,Kong
+honey queen,lakitu,FRIEND_WITH,Honeybee,
+honey queen,luigi,FRIEND_WITH,Honeybee,Human
+honey queen,mario,FRIEND_WITH,Honeybee,Human
+honey queen,metal mario,FRIEND_WITH,Honeybee,
+honey queen,princess daisy,FRIEND_WITH,Honeybee,Human
+honey queen,princess peach,FRIEND_WITH,Honeybee,Human
+honey queen,rosalina,FRIEND_WITH,Honeybee,Human
+honey queen,toad,FRIEND_WITH,Honeybee,Toad
+honey queen,wario,FRIEND_WITH,Honeybee,
+honey queen,yoshi,FRIEND_WITH,Honeybee,Yoshi
+honey queen,bowser,ENEMY_WITH,Honeybee,Koopa
+honey queen,bowser jr.,ENEMY_WITH,Honeybee,Koopa
+foreman spike,bowser,FRIEND_WITH,Human,Koopa
+foreman spike,luigi,ENEMY_WITH,Human,Human
+foreman spike,mario,ENEMY_WITH,Human,Human
+foreman spike,princess peach,ENEMY_WITH,Human,Human
+neville,chauncey,FRIEND_WITH,,
+neville,king boo,FRIEND_WITH,,Big Boo;Boo
+neville,lydia,FRIEND_WITH,,
+neville,luigi,ENEMY_WITH,,Human
+neville,professor e. gadd,ENEMY_WITH,,Human
+lydia,chauncey,FRIEND_WITH,,
+lydia,king boo,FRIEND_WITH,,Big Boo;Boo
+lydia,neville,FRIEND_WITH,,
+lydia,luigi,ENEMY_WITH,,Human
+lydia,professor e. gadd,ENEMY_WITH,,Human
+chauncey,king boo,FRIEND_WITH,,Big Boo;Boo
+chauncey,lydia,FRIEND_WITH,,
+chauncey,neville,FRIEND_WITH,,
+chauncey,luigi,ENEMY_WITH,,Human
+chauncey,professor e. gadd,ENEMY_WITH,,Human
+squawks the parrot,diddy kong,FRIEND_WITH,,Kong
+squawks the parrot,dixie kong,FRIEND_WITH,,Kong
+squawks the parrot,donkey kong,FRIEND_WITH,,Kong
+squawks the parrot,enguarde the swordfish,FRIEND_WITH,,
+squawks the parrot,expresso the ostrich,FRIEND_WITH,,
+squawks the parrot,kiddy kong,FRIEND_WITH,,Kong
+squawks the parrot,rambi the rhino,FRIEND_WITH,,
+squawks the parrot,rattly the snake,FRIEND_WITH,,
+squawks the parrot,winky the frog,FRIEND_WITH,,
+squawks the parrot,king k. rool,ENEMY_WITH,,Kremling
+squawks the parrot,king zing,ENEMY_WITH,,
+king zing,queen b,FRIEND_WITH,,
+king zing,squawks the parrot,ENEMY_WITH,,
+squitter,rattly the snake,FRIEND_WITH,,
+pak e. derm,yoshi,ENEMY_WITH,Elephant,Yoshi
+9-volt,18-volt,FRIEND_WITH,Human,Human
+9-volt,ana,FRIEND_WITH,Human,
+9-volt,ashley,FRIEND_WITH,Human,Human
+9-volt,jimmy t,FRIEND_WITH,Human,Human
+9-volt,kat,FRIEND_WITH,Human,
+9-volt,mike,FRIEND_WITH,Human,
+9-volt,mona,FRIEND_WITH,Human,Human
+9-volt,orbulon,FRIEND_WITH,Human,
+9-volt,penny crygor,FRIEND_WITH,Human,
+9-volt,red,FRIEND_WITH,Human,
+9-volt,spitz,FRIEND_WITH,Human,
+9-volt,wario,FRIEND_WITH,Human,
+ana,9-volt,FRIEND_WITH,,Human
+ana,ashley,FRIEND_WITH,,Human
+ana,bowser,FRIEND_WITH,,Koopa
+ana,captain falcon,FRIEND_WITH,,
+ana,captain olimar,FRIEND_WITH,,
+ana,diddy kong,FRIEND_WITH,,Kong
+ana,donkey kong,FRIEND_WITH,,Kong
+ana,dr. crygor,FRIEND_WITH,,Human
+ana,falco lombardi,FRIEND_WITH,,
+ana,fox mccloud,FRIEND_WITH,,
+ana,ice climbers,FRIEND_WITH,,
+ana,ike,FRIEND_WITH,,
+ana,jigglypuff,FRIEND_WITH,,
+ana,jimmy t,FRIEND_WITH,,Human
+ana,kat,FRIEND_WITH,,
+ana,king dedede,FRIEND_WITH,,
+ana,kirby,FRIEND_WITH,,Kirby
+ana,lucas,FRIEND_WITH,,
+ana,luigi,FRIEND_WITH,,Human
+ana,marth,FRIEND_WITH,,
+ana,meta knight,FRIEND_WITH,,
+ana,mike,FRIEND_WITH,,
+ana,mona,FRIEND_WITH,,Human
+ana,mr. game & watch,FRIEND_WITH,,
+ana,penny crygor,FRIEND_WITH,,
+ana,pikachu,FRIEND_WITH,,
+ana,pit,FRIEND_WITH,,
+ana,princess peach,FRIEND_WITH,,Human
+ana,r.o.b.,FRIEND_WITH,,Robot
+ana,red,FRIEND_WITH,,
+ana,spitz,FRIEND_WITH,,
+ana,wario,FRIEND_WITH,,
+ana,wolf o'donnell,FRIEND_WITH,,
+ana,yoshi,FRIEND_WITH,,Yoshi
+ana,zelda,FRIEND_WITH,,
+18-volt,9-volt,FRIEND_WITH,Human,Human
+18-volt,ashley,FRIEND_WITH,Human,Human
+18-volt,jimmy t,FRIEND_WITH,Human,Human
+18-volt,kat,FRIEND_WITH,Human,
+18-volt,mike,FRIEND_WITH,Human,
+18-volt,mona,FRIEND_WITH,Human,Human
+18-volt,penny crygor,FRIEND_WITH,Human,
+18-volt,red,FRIEND_WITH,Human,
+18-volt,13-amp,ENEMY_WITH,Human,
+zoda,black shadow,FRIEND_WITH,,
+zoda,captain falcon,ENEMY_WITH,,
+zoda,jack levin,ENEMY_WITH,,
+zoda,james mccloud,ENEMY_WITH,,
+zoda,lily flyer,ENEMY_WITH,,
+zoda,lisa brilliant,ENEMY_WITH,,
+zoda,lucy liberty,ENEMY_WITH,,
+zoda,luna ryder,ENEMY_WITH,,
+zoda,mrs. arrow,ENEMY_WITH,,
+zoda,rick wheeler,ENEMY_WITH,,
+zoda,samurai goroh,ENEMY_WITH,,
+zoda,super arrow,ENEMY_WITH,,
